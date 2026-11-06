@@ -1,0 +1,1685 @@
+sample_id,src_id,cls,crop,label,label_name,species,colonies,mold_area,path
+hard_00003_a,hard_00003,hard,a,0,good,,0,0.0,good/hard_00003_a.jpg
+hard_00003_b,hard_00003,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),48,0.01415,moldy/hard_00003_b.jpg
+hard_00004_a,hard_00004,hard,a,0,good,,0,0.0,good/hard_00004_a.jpg
+hard_00004_b,hard_00004,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),30,0.01263,moldy/hard_00004_b.jpg
+hard_00006_a,hard_00006,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),32,0.01444,moldy/hard_00006_a.jpg
+hard_00006_b,hard_00006,hard,b,0,good,,0,0.0,good/hard_00006_b.jpg
+hard_00009_a,hard_00009,hard,a,0,good,,0,0.0,good/hard_00009_a.jpg
+hard_00009_b,hard_00009,hard,b,1,moldy,黑曲霉 Aspergillus(niger),42,0.01528,moldy/hard_00009_b.jpg
+hard_00014_a,hard_00014,hard,a,1,moldy,灰白绒霉 Penicillium(white),20,0.01522,moldy/hard_00014_a.jpg
+hard_00014_b,hard_00014,hard,b,0,good,,0,0.0,good/hard_00014_b.jpg
+hard_00015_a,hard_00015,hard,a,0,good,,0,0.0,good/hard_00015_a.jpg
+hard_00015_b,hard_00015,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),66,0.05462,moldy/hard_00015_b.jpg
+hard_00028_a,hard_00028,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,43,0.03171,moldy/hard_00028_a.jpg
+hard_00028_b,hard_00028,hard,b,0,good,,0,0.0,good/hard_00028_b.jpg
+hard_00035_a,hard_00035,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),11,0.00755,moldy/hard_00035_a.jpg
+hard_00035_b,hard_00035,hard,b,0,good,,0,0.0,good/hard_00035_b.jpg
+hard_00037_a,hard_00037,hard,a,0,good,,0,0.0,good/hard_00037_a.jpg
+hard_00037_b,hard_00037,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,34,0.01694,moldy/hard_00037_b.jpg
+hard_00038_a,hard_00038,hard,a,1,moldy,灰白绒霉 Penicillium(white),55,0.06547,moldy/hard_00038_a.jpg
+hard_00038_b,hard_00038,hard,b,0,good,,0,0.0,good/hard_00038_b.jpg
+hard_00039_a,hard_00039,hard,a,1,moldy,灰白绒霉 Penicillium(white),19,0.01023,moldy/hard_00039_a.jpg
+hard_00039_b,hard_00039,hard,b,0,good,,0,0.0,good/hard_00039_b.jpg
+hard_00044_a,hard_00044,hard,a,0,good,,0,0.0,good/hard_00044_a.jpg
+hard_00044_b,hard_00044,hard,b,1,moldy,灰白绒霉 Penicillium(white),12,0.00414,moldy/hard_00044_b.jpg
+hard_00050_a,hard_00050,hard,a,0,good,,0,0.0,good/hard_00050_a.jpg
+hard_00050_b,hard_00050,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),38,0.03872,moldy/hard_00050_b.jpg
+hard_00051_a,hard_00051,hard,a,0,good,,0,0.0,good/hard_00051_a.jpg
+hard_00051_b,hard_00051,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),41,0.05766,moldy/hard_00051_b.jpg
+hard_00053_a,hard_00053,hard,a,1,moldy,灰白绒霉 Penicillium(white),44,0.05042,moldy/hard_00053_a.jpg
+hard_00053_b,hard_00053,hard,b,0,good,,0,0.0,good/hard_00053_b.jpg
+hard_00054_a,hard_00054,hard,a,0,good,,0,0.0,good/hard_00054_a.jpg
+hard_00054_b,hard_00054,hard,b,1,moldy,灰白绒霉 Penicillium(white),49,0.03105,moldy/hard_00054_b.jpg
+hard_00055_a,hard_00055,hard,a,0,good,,0,0.0,good/hard_00055_a.jpg
+hard_00055_b,hard_00055,hard,b,1,moldy,黑曲霉 Aspergillus(niger),30,0.04225,moldy/hard_00055_b.jpg
+hard_00059_a,hard_00059,hard,a,0,good,,0,0.0,good/hard_00059_a.jpg
+hard_00059_b,hard_00059,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),31,0.03477,moldy/hard_00059_b.jpg
+hard_00061_a,hard_00061,hard,a,0,good,,0,0.0,good/hard_00061_a.jpg
+hard_00061_b,hard_00061,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),66,0.01904,moldy/hard_00061_b.jpg
+hard_00064_a,hard_00064,hard,a,0,good,,0,0.0,good/hard_00064_a.jpg
+hard_00064_b,hard_00064,hard,b,1,moldy,灰白绒霉 Penicillium(white),36,0.02693,moldy/hard_00064_b.jpg
+hard_00066_a,hard_00066,hard,a,0,good,,0,0.0,good/hard_00066_a.jpg
+hard_00066_b,hard_00066,hard,b,1,moldy,灰白绒霉 Penicillium(white),44,0.04719,moldy/hard_00066_b.jpg
+hard_00068_a,hard_00068,hard,a,0,good,,0,0.0,good/hard_00068_a.jpg
+hard_00068_b,hard_00068,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),15,0.03167,moldy/hard_00068_b.jpg
+hard_00070_a,hard_00070,hard,a,0,good,,0,0.0,good/hard_00070_a.jpg
+hard_00070_b,hard_00070,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),31,0.01491,moldy/hard_00070_b.jpg
+hard_00073_a,hard_00073,hard,a,0,good,,0,0.0,good/hard_00073_a.jpg
+hard_00073_b,hard_00073,hard,b,1,moldy,黑曲霉 Aspergillus(niger),29,0.01157,moldy/hard_00073_b.jpg
+hard_00081_a,hard_00081,hard,a,0,good,,0,0.0,good/hard_00081_a.jpg
+hard_00081_b,hard_00081,hard,b,1,moldy,灰白绒霉 Penicillium(white),23,0.02453,moldy/hard_00081_b.jpg
+hard_00082_a,hard_00082,hard,a,1,moldy,黑曲霉 Aspergillus(niger),39,0.00836,moldy/hard_00082_a.jpg
+hard_00082_b,hard_00082,hard,b,0,good,,0,0.0,good/hard_00082_b.jpg
+hard_00084_a,hard_00084,hard,a,0,good,,0,0.0,good/hard_00084_a.jpg
+hard_00084_b,hard_00084,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),54,0.02533,moldy/hard_00084_b.jpg
+hard_00084_c,hard_00084,hard,c,1,moldy,灰白绒霉 Penicillium(white),18,0.01068,moldy/hard_00084_c.jpg
+hard_00084_d,hard_00084,hard,d,0,good,,0,0.0,good/hard_00084_d.jpg
+hard_00088_a,hard_00088,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),67,0.05393,moldy/hard_00088_a.jpg
+hard_00088_b,hard_00088,hard,b,0,good,,0,0.0,good/hard_00088_b.jpg
+hard_00089_a,hard_00089,hard,a,0,good,,0,0.0,good/hard_00089_a.jpg
+hard_00089_b,hard_00089,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),31,0.01947,moldy/hard_00089_b.jpg
+hard_00093_a,hard_00093,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),53,0.05871,moldy/hard_00093_a.jpg
+hard_00093_b,hard_00093,hard,b,0,good,,0,0.0,good/hard_00093_b.jpg
+hard_00097_a,hard_00097,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),9,0.00773,moldy/hard_00097_a.jpg
+hard_00097_b,hard_00097,hard,b,0,good,,0,0.0,good/hard_00097_b.jpg
+hard_00100_a,hard_00100,hard,a,0,good,,0,0.0,good/hard_00100_a.jpg
+hard_00100_b,hard_00100,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),43,0.01302,moldy/hard_00100_b.jpg
+hard_00105_a,hard_00105,hard,a,1,moldy,灰白绒霉 Penicillium(white),52,0.06542,moldy/hard_00105_a.jpg
+hard_00105_b,hard_00105,hard,b,0,good,,0,0.0,good/hard_00105_b.jpg
+hard_00106_a,hard_00106,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),63,0.03671,moldy/hard_00106_a.jpg
+hard_00106_b,hard_00106,hard,b,0,good,,0,0.0,good/hard_00106_b.jpg
+hard_00109_a,hard_00109,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),37,0.03154,moldy/hard_00109_a.jpg
+hard_00109_b,hard_00109,hard,b,0,good,,0,0.0,good/hard_00109_b.jpg
+hard_00110_a,hard_00110,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),59,0.01238,moldy/hard_00110_a.jpg
+hard_00110_b,hard_00110,hard,b,0,good,,0,0.0,good/hard_00110_b.jpg
+hard_00112_a,hard_00112,hard,a,0,good,,0,0.0,good/hard_00112_a.jpg
+hard_00112_b,hard_00112,hard,b,1,moldy,灰白绒霉 Penicillium(white),11,0.01385,moldy/hard_00112_b.jpg
+hard_00113_a,hard_00113,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),19,0.00946,moldy/hard_00113_a.jpg
+hard_00113_b,hard_00113,hard,b,0,good,,0,0.0,good/hard_00113_b.jpg
+hard_00115_a,hard_00115,hard,a,1,moldy,黑曲霉 Aspergillus(niger),12,0.01604,moldy/hard_00115_a.jpg
+hard_00115_b,hard_00115,hard,b,0,good,,0,0.0,good/hard_00115_b.jpg
+hard_00117_a,hard_00117,hard,a,1,moldy,灰白绒霉 Penicillium(white),65,0.03145,moldy/hard_00117_a.jpg
+hard_00117_b,hard_00117,hard,b,0,good,,0,0.0,good/hard_00117_b.jpg
+hard_00119_a,hard_00119,hard,a,0,good,,0,0.0,good/hard_00119_a.jpg
+hard_00119_b,hard_00119,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,32,0.02191,moldy/hard_00119_b.jpg
+hard_00126_a,hard_00126,hard,a,0,good,,0,0.0,good/hard_00126_a.jpg
+hard_00126_b,hard_00126,hard,b,1,moldy,灰白绒霉 Penicillium(white),50,0.01128,moldy/hard_00126_b.jpg
+hard_00128_a,hard_00128,hard,a,0,good,,0,0.0,good/hard_00128_a.jpg
+hard_00128_b,hard_00128,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),41,0.01363,moldy/hard_00128_b.jpg
+hard_00129_a,hard_00129,hard,a,0,good,,0,0.0,good/hard_00129_a.jpg
+hard_00129_b,hard_00129,hard,b,1,moldy,灰白绒霉 Penicillium(white),15,0.00413,moldy/hard_00129_b.jpg
+hard_00133_a,hard_00133,hard,a,0,good,,0,0.0,good/hard_00133_a.jpg
+hard_00133_b,hard_00133,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),38,0.01868,moldy/hard_00133_b.jpg
+hard_00133_c,hard_00133,hard,c,0,good,,0,0.0,good/hard_00133_c.jpg
+hard_00133_d,hard_00133,hard,d,1,moldy,蓝绿青霉 Penicillium(blue-green),36,0.00983,moldy/hard_00133_d.jpg
+hard_00134_a,hard_00134,hard,a,1,moldy,灰白绒霉 Penicillium(white),13,0.01865,moldy/hard_00134_a.jpg
+hard_00134_b,hard_00134,hard,b,0,good,,0,0.0,good/hard_00134_b.jpg
+hard_00143_a,hard_00143,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),25,0.01555,moldy/hard_00143_a.jpg
+hard_00143_b,hard_00143,hard,b,0,good,,0,0.0,good/hard_00143_b.jpg
+hard_00149_a,hard_00149,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),27,0.03582,moldy/hard_00149_a.jpg
+hard_00149_b,hard_00149,hard,b,0,good,,0,0.0,good/hard_00149_b.jpg
+hard_00150_a,hard_00150,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),21,0.01602,moldy/hard_00150_a.jpg
+hard_00150_b,hard_00150,hard,b,0,good,,0,0.0,good/hard_00150_b.jpg
+hard_00155_a,hard_00155,hard,a,0,good,,0,0.0,good/hard_00155_a.jpg
+hard_00155_b,hard_00155,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),28,0.01946,moldy/hard_00155_b.jpg
+hard_00158_a,hard_00158,hard,a,1,moldy,灰白绒霉 Penicillium(white),71,0.05289,moldy/hard_00158_a.jpg
+hard_00158_b,hard_00158,hard,b,0,good,,0,0.0,good/hard_00158_b.jpg
+hard_00161_a,hard_00161,hard,a,0,good,,0,0.0,good/hard_00161_a.jpg
+hard_00161_b,hard_00161,hard,b,1,moldy,灰白绒霉 Penicillium(white),40,0.015,moldy/hard_00161_b.jpg
+hard_00162_a,hard_00162,hard,a,0,good,,0,0.0,good/hard_00162_a.jpg
+hard_00162_b,hard_00162,hard,b,1,moldy,灰白绒霉 Penicillium(white),56,0.03429,moldy/hard_00162_b.jpg
+hard_00163_a,hard_00163,hard,a,0,good,,0,0.0,good/hard_00163_a.jpg
+hard_00163_b,hard_00163,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),31,0.01552,moldy/hard_00163_b.jpg
+hard_00172_a,hard_00172,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,21,0.02427,moldy/hard_00172_a.jpg
+hard_00172_b,hard_00172,hard,b,0,good,,0,0.0,good/hard_00172_b.jpg
+hard_00178_a,hard_00178,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),27,0.01487,moldy/hard_00178_a.jpg
+hard_00178_b,hard_00178,hard,b,0,good,,0,0.0,good/hard_00178_b.jpg
+hard_00179_a,hard_00179,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),29,0.02263,moldy/hard_00179_a.jpg
+hard_00179_b,hard_00179,hard,b,0,good,,0,0.0,good/hard_00179_b.jpg
+hard_00180_a,hard_00180,hard,a,0,good,,0,0.0,good/hard_00180_a.jpg
+hard_00180_b,hard_00180,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),61,0.07777,moldy/hard_00180_b.jpg
+hard_00186_a,hard_00186,hard,a,0,good,,0,0.0,good/hard_00186_a.jpg
+hard_00186_b,hard_00186,hard,b,1,moldy,黑曲霉 Aspergillus(niger),25,0.01131,moldy/hard_00186_b.jpg
+hard_00189_a,hard_00189,hard,a,1,moldy,灰白绒霉 Penicillium(white),58,0.03885,moldy/hard_00189_a.jpg
+hard_00189_b,hard_00189,hard,b,0,good,,0,0.0,good/hard_00189_b.jpg
+hard_00190_a,hard_00190,hard,a,1,moldy,黑曲霉 Aspergillus(niger),56,0.02688,moldy/hard_00190_a.jpg
+hard_00190_b,hard_00190,hard,b,0,good,,0,0.0,good/hard_00190_b.jpg
+hard_00192_a,hard_00192,hard,a,1,moldy,灰白绒霉 Penicillium(white),27,0.01449,moldy/hard_00192_a.jpg
+hard_00192_b,hard_00192,hard,b,0,good,,0,0.0,good/hard_00192_b.jpg
+hard_00194_a,hard_00194,hard,a,0,good,,0,0.0,good/hard_00194_a.jpg
+hard_00194_b,hard_00194,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),60,0.06741,moldy/hard_00194_b.jpg
+hard_00195_a,hard_00195,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),74,0.03558,moldy/hard_00195_a.jpg
+hard_00195_b,hard_00195,hard,b,0,good,,0,0.0,good/hard_00195_b.jpg
+hard_00197_a,hard_00197,hard,a,1,moldy,灰白绒霉 Penicillium(white),11,0.01513,moldy/hard_00197_a.jpg
+hard_00197_b,hard_00197,hard,b,0,good,,0,0.0,good/hard_00197_b.jpg
+hard_00198_a,hard_00198,hard,a,0,good,,0,0.0,good/hard_00198_a.jpg
+hard_00198_b,hard_00198,hard,b,1,moldy,灰白绒霉 Penicillium(white),64,0.08928,moldy/hard_00198_b.jpg
+hard_00200_a,hard_00200,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),44,0.04563,moldy/hard_00200_a.jpg
+hard_00200_b,hard_00200,hard,b,0,good,,0,0.0,good/hard_00200_b.jpg
+hard_00206_a,hard_00206,hard,a,0,good,,0,0.0,good/hard_00206_a.jpg
+hard_00206_b,hard_00206,hard,b,1,moldy,灰白绒霉 Penicillium(white),24,0.01216,moldy/hard_00206_b.jpg
+hard_00207_a,hard_00207,hard,a,0,good,,0,0.0,good/hard_00207_a.jpg
+hard_00207_b,hard_00207,hard,b,1,moldy,灰白绒霉 Penicillium(white),32,0.02278,moldy/hard_00207_b.jpg
+hard_00223_a,hard_00223,hard,a,0,good,,0,0.0,good/hard_00223_a.jpg
+hard_00223_b,hard_00223,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),65,0.02606,moldy/hard_00223_b.jpg
+hard_00229_a,hard_00229,hard,a,0,good,,0,0.0,good/hard_00229_a.jpg
+hard_00229_b,hard_00229,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),26,0.0095,moldy/hard_00229_b.jpg
+hard_00230_a,hard_00230,hard,a,1,moldy,灰白绒霉 Penicillium(white),71,0.02739,moldy/hard_00230_a.jpg
+hard_00230_b,hard_00230,hard,b,0,good,,0,0.0,good/hard_00230_b.jpg
+hard_00234_a,hard_00234,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),81,0.04774,moldy/hard_00234_a.jpg
+hard_00234_b,hard_00234,hard,b,0,good,,0,0.0,good/hard_00234_b.jpg
+hard_00236_a,hard_00236,hard,a,0,good,,0,0.0,good/hard_00236_a.jpg
+hard_00236_b,hard_00236,hard,b,1,moldy,灰白绒霉 Penicillium(white),16,0.00395,moldy/hard_00236_b.jpg
+hard_00237_a,hard_00237,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,38,0.02653,moldy/hard_00237_a.jpg
+hard_00237_b,hard_00237,hard,b,0,good,,0,0.0,good/hard_00237_b.jpg
+hard_00241_a,hard_00241,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),58,0.02369,moldy/hard_00241_a.jpg
+hard_00241_b,hard_00241,hard,b,0,good,,0,0.0,good/hard_00241_b.jpg
+hard_00243_a,hard_00243,hard,a,1,moldy,灰白绒霉 Penicillium(white),67,0.05307,moldy/hard_00243_a.jpg
+hard_00243_b,hard_00243,hard,b,0,good,,0,0.0,good/hard_00243_b.jpg
+hard_00249_a,hard_00249,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),44,0.01185,moldy/hard_00249_a.jpg
+hard_00249_b,hard_00249,hard,b,0,good,,0,0.0,good/hard_00249_b.jpg
+hard_00249_c,hard_00249,hard,c,1,moldy,灰白绒霉 Penicillium(white),44,0.02332,moldy/hard_00249_c.jpg
+hard_00249_d,hard_00249,hard,d,0,good,,0,0.0,good/hard_00249_d.jpg
+hard_00250_a,hard_00250,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),58,0.07319,moldy/hard_00250_a.jpg
+hard_00250_b,hard_00250,hard,b,0,good,,0,0.0,good/hard_00250_b.jpg
+hard_00258_a,hard_00258,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,42,0.03061,moldy/hard_00258_a.jpg
+hard_00258_b,hard_00258,hard,b,0,good,,0,0.0,good/hard_00258_b.jpg
+hard_00259_a,hard_00259,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),65,0.05486,moldy/hard_00259_a.jpg
+hard_00259_b,hard_00259,hard,b,0,good,,0,0.0,good/hard_00259_b.jpg
+hard_00265_a,hard_00265,hard,a,1,moldy,黑曲霉 Aspergillus(niger),19,0.01434,moldy/hard_00265_a.jpg
+hard_00265_b,hard_00265,hard,b,0,good,,0,0.0,good/hard_00265_b.jpg
+hard_00269_a,hard_00269,hard,a,0,good,,0,0.0,good/hard_00269_a.jpg
+hard_00269_b,hard_00269,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),82,0.05364,moldy/hard_00269_b.jpg
+hard_00272_a,hard_00272,hard,a,0,good,,0,0.0,good/hard_00272_a.jpg
+hard_00272_b,hard_00272,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,79,0.0192,moldy/hard_00272_b.jpg
+hard_00273_a,hard_00273,hard,a,1,moldy,灰白绒霉 Penicillium(white),46,0.03598,moldy/hard_00273_a.jpg
+hard_00273_b,hard_00273,hard,b,0,good,,0,0.0,good/hard_00273_b.jpg
+hard_00274_a,hard_00274,hard,a,0,good,,0,0.0,good/hard_00274_a.jpg
+hard_00274_b,hard_00274,hard,b,1,moldy,灰白绒霉 Penicillium(white),15,0.01564,moldy/hard_00274_b.jpg
+hard_00278_a,hard_00278,hard,a,1,moldy,灰白绒霉 Penicillium(white),38,0.03345,moldy/hard_00278_a.jpg
+hard_00278_b,hard_00278,hard,b,0,good,,0,0.0,good/hard_00278_b.jpg
+hard_00284_a,hard_00284,hard,a,0,good,,0,0.0,good/hard_00284_a.jpg
+hard_00284_b,hard_00284,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),17,0.01304,moldy/hard_00284_b.jpg
+hard_00287_a,hard_00287,hard,a,0,good,,0,0.0,good/hard_00287_a.jpg
+hard_00287_b,hard_00287,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),62,0.01828,moldy/hard_00287_b.jpg
+hard_00290_a,hard_00290,hard,a,0,good,,0,0.0,good/hard_00290_a.jpg
+hard_00290_b,hard_00290,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),49,0.01456,moldy/hard_00290_b.jpg
+hard_00294_a,hard_00294,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),30,0.0367,moldy/hard_00294_a.jpg
+hard_00294_b,hard_00294,hard,b,0,good,,0,0.0,good/hard_00294_b.jpg
+hard_00297_a,hard_00297,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),72,0.02918,moldy/hard_00297_a.jpg
+hard_00297_b,hard_00297,hard,b,0,good,,0,0.0,good/hard_00297_b.jpg
+hard_00299_a,hard_00299,hard,a,0,good,,0,0.0,good/hard_00299_a.jpg
+hard_00299_b,hard_00299,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),43,0.0332,moldy/hard_00299_b.jpg
+hard_00303_a,hard_00303,hard,a,1,moldy,黑曲霉 Aspergillus(niger),79,0.02721,moldy/hard_00303_a.jpg
+hard_00303_b,hard_00303,hard,b,0,good,,0,0.0,good/hard_00303_b.jpg
+hard_00304_a,hard_00304,hard,a,1,moldy,灰白绒霉 Penicillium(white),27,0.01963,moldy/hard_00304_a.jpg
+hard_00304_b,hard_00304,hard,b,0,good,,0,0.0,good/hard_00304_b.jpg
+hard_00305_a,hard_00305,hard,a,1,moldy,灰白绒霉 Penicillium(white),14,0.01528,moldy/hard_00305_a.jpg
+hard_00305_b,hard_00305,hard,b,0,good,,0,0.0,good/hard_00305_b.jpg
+hard_00313_a,hard_00313,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),27,0.01647,moldy/hard_00313_a.jpg
+hard_00313_b,hard_00313,hard,b,0,good,,0,0.0,good/hard_00313_b.jpg
+hard_00317_a,hard_00317,hard,a,0,good,,0,0.0,good/hard_00317_a.jpg
+hard_00317_b,hard_00317,hard,b,1,moldy,灰白绒霉 Penicillium(white),27,0.00971,moldy/hard_00317_b.jpg
+hard_00320_a,hard_00320,hard,a,1,moldy,灰白绒霉 Penicillium(white),17,0.00918,moldy/hard_00320_a.jpg
+hard_00320_b,hard_00320,hard,b,0,good,,0,0.0,good/hard_00320_b.jpg
+hard_00321_a,hard_00321,hard,a,0,good,,0,0.0,good/hard_00321_a.jpg
+hard_00321_b,hard_00321,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),31,0.01348,moldy/hard_00321_b.jpg
+hard_00322_a,hard_00322,hard,a,0,good,,0,0.0,good/hard_00322_a.jpg
+hard_00322_b,hard_00322,hard,b,1,moldy,灰白绒霉 Penicillium(white),44,0.01581,moldy/hard_00322_b.jpg
+hard_00332_a,hard_00332,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),60,0.04939,moldy/hard_00332_a.jpg
+hard_00332_b,hard_00332,hard,b,0,good,,0,0.0,good/hard_00332_b.jpg
+hard_00337_a,hard_00337,hard,a,0,good,,0,0.0,good/hard_00337_a.jpg
+hard_00337_b,hard_00337,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),62,0.01887,moldy/hard_00337_b.jpg
+hard_00342_a,hard_00342,hard,a,1,moldy,灰白绒霉 Penicillium(white),29,0.01598,moldy/hard_00342_a.jpg
+hard_00342_b,hard_00342,hard,b,0,good,,0,0.0,good/hard_00342_b.jpg
+hard_00343_a,hard_00343,hard,a,0,good,,0,0.0,good/hard_00343_a.jpg
+hard_00343_b,hard_00343,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),59,0.03496,moldy/hard_00343_b.jpg
+hard_00345_a,hard_00345,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),29,0.02036,moldy/hard_00345_a.jpg
+hard_00345_b,hard_00345,hard,b,0,good,,0,0.0,good/hard_00345_b.jpg
+hard_00355_a,hard_00355,hard,a,0,good,,0,0.0,good/hard_00355_a.jpg
+hard_00355_b,hard_00355,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),71,0.01882,moldy/hard_00355_b.jpg
+hard_00358_a,hard_00358,hard,a,1,moldy,灰白绒霉 Penicillium(white),64,0.02511,moldy/hard_00358_a.jpg
+hard_00358_b,hard_00358,hard,b,0,good,,0,0.0,good/hard_00358_b.jpg
+hard_00359_a,hard_00359,hard,a,1,moldy,灰白绒霉 Penicillium(white),36,0.03172,moldy/hard_00359_a.jpg
+hard_00359_b,hard_00359,hard,b,0,good,,0,0.0,good/hard_00359_b.jpg
+hard_00361_a,hard_00361,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),50,0.02775,moldy/hard_00361_a.jpg
+hard_00361_b,hard_00361,hard,b,0,good,,0,0.0,good/hard_00361_b.jpg
+hard_00362_a,hard_00362,hard,a,0,good,,0,0.0,good/hard_00362_a.jpg
+hard_00362_b,hard_00362,hard,b,1,moldy,黑曲霉 Aspergillus(niger),67,0.04729,moldy/hard_00362_b.jpg
+hard_00371_a,hard_00371,hard,a,1,moldy,灰白绒霉 Penicillium(white),46,0.0369,moldy/hard_00371_a.jpg
+hard_00371_b,hard_00371,hard,b,0,good,,0,0.0,good/hard_00371_b.jpg
+hard_00377_a,hard_00377,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),47,0.0227,moldy/hard_00377_a.jpg
+hard_00377_b,hard_00377,hard,b,0,good,,0,0.0,good/hard_00377_b.jpg
+hard_00378_a,hard_00378,hard,a,1,moldy,黑曲霉 Aspergillus(niger),50,0.04061,moldy/hard_00378_a.jpg
+hard_00378_b,hard_00378,hard,b,0,good,,0,0.0,good/hard_00378_b.jpg
+hard_00380_a,hard_00380,hard,a,1,moldy,灰白绒霉 Penicillium(white),75,0.03035,moldy/hard_00380_a.jpg
+hard_00380_b,hard_00380,hard,b,0,good,,0,0.0,good/hard_00380_b.jpg
+hard_00381_a,hard_00381,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),23,0.00483,moldy/hard_00381_a.jpg
+hard_00381_b,hard_00381,hard,b,0,good,,0,0.0,good/hard_00381_b.jpg
+hard_00384_a,hard_00384,hard,a,0,good,,0,0.0,good/hard_00384_a.jpg
+hard_00384_b,hard_00384,hard,b,1,moldy,灰白绒霉 Penicillium(white),14,0.00594,moldy/hard_00384_b.jpg
+hard_00386_a,hard_00386,hard,a,0,good,,0,0.0,good/hard_00386_a.jpg
+hard_00386_b,hard_00386,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),41,0.02903,moldy/hard_00386_b.jpg
+hard_00391_a,hard_00391,hard,a,0,good,,0,0.0,good/hard_00391_a.jpg
+hard_00391_b,hard_00391,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),70,0.02171,moldy/hard_00391_b.jpg
+hard_00394_a,hard_00394,hard,a,0,good,,0,0.0,good/hard_00394_a.jpg
+hard_00394_b,hard_00394,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),75,0.02059,moldy/hard_00394_b.jpg
+hard_00398_a,hard_00398,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),84,0.05244,moldy/hard_00398_a.jpg
+hard_00398_b,hard_00398,hard,b,0,good,,0,0.0,good/hard_00398_b.jpg
+hard_00401_a,hard_00401,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),33,0.02113,moldy/hard_00401_a.jpg
+hard_00401_b,hard_00401,hard,b,0,good,,0,0.0,good/hard_00401_b.jpg
+hard_00401_c,hard_00401,hard,c,0,good,,0,0.0,good/hard_00401_c.jpg
+hard_00401_d,hard_00401,hard,d,1,moldy,灰白绒霉 Penicillium(white),54,0.04431,moldy/hard_00401_d.jpg
+hard_00402_a,hard_00402,hard,a,1,moldy,灰白绒霉 Penicillium(white),78,0.07939,moldy/hard_00402_a.jpg
+hard_00402_b,hard_00402,hard,b,0,good,,0,0.0,good/hard_00402_b.jpg
+hard_00403_a,hard_00403,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),78,0.02056,moldy/hard_00403_a.jpg
+hard_00403_b,hard_00403,hard,b,0,good,,0,0.0,good/hard_00403_b.jpg
+hard_00405_a,hard_00405,hard,a,0,good,,0,0.0,good/hard_00405_a.jpg
+hard_00405_b,hard_00405,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),37,0.04244,moldy/hard_00405_b.jpg
+hard_00406_a,hard_00406,hard,a,1,moldy,灰白绒霉 Penicillium(white),56,0.05377,moldy/hard_00406_a.jpg
+hard_00406_b,hard_00406,hard,b,0,good,,0,0.0,good/hard_00406_b.jpg
+hard_00409_a,hard_00409,hard,a,0,good,,0,0.0,good/hard_00409_a.jpg
+hard_00409_b,hard_00409,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,23,0.03702,moldy/hard_00409_b.jpg
+hard_00414_a,hard_00414,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),27,0.03489,moldy/hard_00414_a.jpg
+hard_00414_b,hard_00414,hard,b,0,good,,0,0.0,good/hard_00414_b.jpg
+hard_00417_a,hard_00417,hard,a,0,good,,0,0.0,good/hard_00417_a.jpg
+hard_00417_b,hard_00417,hard,b,1,moldy,灰白绒霉 Penicillium(white),75,0.04997,moldy/hard_00417_b.jpg
+hard_00419_a,hard_00419,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,25,0.01781,moldy/hard_00419_a.jpg
+hard_00419_b,hard_00419,hard,b,0,good,,0,0.0,good/hard_00419_b.jpg
+hard_00420_a,hard_00420,hard,a,0,good,,0,0.0,good/hard_00420_a.jpg
+hard_00420_b,hard_00420,hard,b,1,moldy,灰白绒霉 Penicillium(white),27,0.02709,moldy/hard_00420_b.jpg
+hard_00423_a,hard_00423,hard,a,0,good,,0,0.0,good/hard_00423_a.jpg
+hard_00423_b,hard_00423,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),44,0.01303,moldy/hard_00423_b.jpg
+hard_00424_a,hard_00424,hard,a,1,moldy,灰白绒霉 Penicillium(white),32,0.01485,moldy/hard_00424_a.jpg
+hard_00424_b,hard_00424,hard,b,0,good,,0,0.0,good/hard_00424_b.jpg
+hard_00429_a,hard_00429,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),28,0.00798,moldy/hard_00429_a.jpg
+hard_00429_b,hard_00429,hard,b,0,good,,0,0.0,good/hard_00429_b.jpg
+hard_00439_a,hard_00439,hard,a,0,good,,0,0.0,good/hard_00439_a.jpg
+hard_00439_b,hard_00439,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),57,0.06753,moldy/hard_00439_b.jpg
+hard_00447_a,hard_00447,hard,a,0,good,,0,0.0,good/hard_00447_a.jpg
+hard_00447_b,hard_00447,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),32,0.01219,moldy/hard_00447_b.jpg
+hard_00449_a,hard_00449,hard,a,1,moldy,黑曲霉 Aspergillus(niger),37,0.02888,moldy/hard_00449_a.jpg
+hard_00449_b,hard_00449,hard,b,0,good,,0,0.0,good/hard_00449_b.jpg
+hard_00453_a,hard_00453,hard,a,1,moldy,黑曲霉 Aspergillus(niger),23,0.02756,moldy/hard_00453_a.jpg
+hard_00453_b,hard_00453,hard,b,0,good,,0,0.0,good/hard_00453_b.jpg
+hard_00456_a,hard_00456,hard,a,0,good,,0,0.0,good/hard_00456_a.jpg
+hard_00456_b,hard_00456,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),52,0.04448,moldy/hard_00456_b.jpg
+hard_00460_a,hard_00460,hard,a,1,moldy,灰白绒霉 Penicillium(white),23,0.01907,moldy/hard_00460_a.jpg
+hard_00460_b,hard_00460,hard,b,0,good,,0,0.0,good/hard_00460_b.jpg
+hard_00461_a,hard_00461,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),19,0.01738,moldy/hard_00461_a.jpg
+hard_00461_b,hard_00461,hard,b,0,good,,0,0.0,good/hard_00461_b.jpg
+hard_00470_a,hard_00470,hard,a,0,good,,0,0.0,good/hard_00470_a.jpg
+hard_00470_b,hard_00470,hard,b,1,moldy,灰白绒霉 Penicillium(white),60,0.03946,moldy/hard_00470_b.jpg
+hard_00472_a,hard_00472,hard,a,0,good,,0,0.0,good/hard_00472_a.jpg
+hard_00472_b,hard_00472,hard,b,1,moldy,灰白绒霉 Penicillium(white),46,0.0118,moldy/hard_00472_b.jpg
+hard_00474_a,hard_00474,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),87,0.06088,moldy/hard_00474_a.jpg
+hard_00474_b,hard_00474,hard,b,0,good,,0,0.0,good/hard_00474_b.jpg
+hard_00475_a,hard_00475,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),33,0.02245,moldy/hard_00475_a.jpg
+hard_00475_b,hard_00475,hard,b,0,good,,0,0.0,good/hard_00475_b.jpg
+hard_00479_a,hard_00479,hard,a,1,moldy,灰白绒霉 Penicillium(white),40,0.02049,moldy/hard_00479_a.jpg
+hard_00479_b,hard_00479,hard,b,0,good,,0,0.0,good/hard_00479_b.jpg
+hard_00480_a,hard_00480,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),22,0.01451,moldy/hard_00480_a.jpg
+hard_00480_b,hard_00480,hard,b,0,good,,0,0.0,good/hard_00480_b.jpg
+hard_00482_a,hard_00482,hard,a,1,moldy,灰白绒霉 Penicillium(white),28,0.01017,moldy/hard_00482_a.jpg
+hard_00482_b,hard_00482,hard,b,0,good,,0,0.0,good/hard_00482_b.jpg
+hard_00484_a,hard_00484,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),68,0.08759,moldy/hard_00484_a.jpg
+hard_00484_b,hard_00484,hard,b,0,good,,0,0.0,good/hard_00484_b.jpg
+hard_00486_a,hard_00486,hard,a,0,good,,0,0.0,good/hard_00486_a.jpg
+hard_00486_b,hard_00486,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),38,0.02464,moldy/hard_00486_b.jpg
+hard_00488_a,hard_00488,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),57,0.03567,moldy/hard_00488_a.jpg
+hard_00488_b,hard_00488,hard,b,0,good,,0,0.0,good/hard_00488_b.jpg
+hard_00495_a,hard_00495,hard,a,0,good,,0,0.0,good/hard_00495_a.jpg
+hard_00495_b,hard_00495,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),65,0.05674,moldy/hard_00495_b.jpg
+hard_00503_a,hard_00503,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,20,0.01357,moldy/hard_00503_a.jpg
+hard_00503_b,hard_00503,hard,b,0,good,,0,0.0,good/hard_00503_b.jpg
+hard_00505_a,hard_00505,hard,a,1,moldy,黑曲霉 Aspergillus(niger),26,0.01087,moldy/hard_00505_a.jpg
+hard_00505_b,hard_00505,hard,b,0,good,,0,0.0,good/hard_00505_b.jpg
+hard_00513_a,hard_00513,hard,a,0,good,,0,0.0,good/hard_00513_a.jpg
+hard_00513_b,hard_00513,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),20,0.02475,moldy/hard_00513_b.jpg
+hard_00515_a,hard_00515,hard,a,0,good,,0,0.0,good/hard_00515_a.jpg
+hard_00515_b,hard_00515,hard,b,1,moldy,灰白绒霉 Penicillium(white),53,0.06321,moldy/hard_00515_b.jpg
+hard_00516_a,hard_00516,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),36,0.01123,moldy/hard_00516_a.jpg
+hard_00516_b,hard_00516,hard,b,0,good,,0,0.0,good/hard_00516_b.jpg
+hard_00519_a,hard_00519,hard,a,0,good,,0,0.0,good/hard_00519_a.jpg
+hard_00519_b,hard_00519,hard,b,1,moldy,灰白绒霉 Penicillium(white),73,0.02453,moldy/hard_00519_b.jpg
+hard_00521_a,hard_00521,hard,a,0,good,,0,0.0,good/hard_00521_a.jpg
+hard_00521_b,hard_00521,hard,b,1,moldy,灰白绒霉 Penicillium(white),33,0.01962,moldy/hard_00521_b.jpg
+hard_00527_a,hard_00527,hard,a,1,moldy,灰白绒霉 Penicillium(white),26,0.00665,moldy/hard_00527_a.jpg
+hard_00527_b,hard_00527,hard,b,0,good,,0,0.0,good/hard_00527_b.jpg
+hard_00531_a,hard_00531,hard,a,0,good,,0,0.0,good/hard_00531_a.jpg
+hard_00531_b,hard_00531,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),13,0.01,moldy/hard_00531_b.jpg
+hard_00541_a,hard_00541,hard,a,1,moldy,黑曲霉 Aspergillus(niger),21,0.00902,moldy/hard_00541_a.jpg
+hard_00541_b,hard_00541,hard,b,0,good,,0,0.0,good/hard_00541_b.jpg
+hard_00542_a,hard_00542,hard,a,1,moldy,灰白绒霉 Penicillium(white),46,0.00908,moldy/hard_00542_a.jpg
+hard_00542_b,hard_00542,hard,b,0,good,,0,0.0,good/hard_00542_b.jpg
+hard_00544_a,hard_00544,hard,a,0,good,,0,0.0,good/hard_00544_a.jpg
+hard_00544_b,hard_00544,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),44,0.05528,moldy/hard_00544_b.jpg
+hard_00547_a,hard_00547,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),60,0.0286,moldy/hard_00547_a.jpg
+hard_00547_b,hard_00547,hard,b,0,good,,0,0.0,good/hard_00547_b.jpg
+hard_00551_a,hard_00551,hard,a,0,good,,0,0.0,good/hard_00551_a.jpg
+hard_00551_b,hard_00551,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),14,0.00779,moldy/hard_00551_b.jpg
+hard_00558_a,hard_00558,hard,a,0,good,,0,0.0,good/hard_00558_a.jpg
+hard_00558_b,hard_00558,hard,b,1,moldy,灰白绒霉 Penicillium(white),66,0.05943,moldy/hard_00558_b.jpg
+hard_00561_a,hard_00561,hard,a,0,good,,0,0.0,good/hard_00561_a.jpg
+hard_00561_b,hard_00561,hard,b,1,moldy,灰白绒霉 Penicillium(white),38,0.04348,moldy/hard_00561_b.jpg
+hard_00563_a,hard_00563,hard,a,0,good,,0,0.0,good/hard_00563_a.jpg
+hard_00563_b,hard_00563,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),56,0.07008,moldy/hard_00563_b.jpg
+hard_00565_a,hard_00565,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),41,0.02342,moldy/hard_00565_a.jpg
+hard_00565_b,hard_00565,hard,b,0,good,,0,0.0,good/hard_00565_b.jpg
+hard_00568_a,hard_00568,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),59,0.03552,moldy/hard_00568_a.jpg
+hard_00568_b,hard_00568,hard,b,0,good,,0,0.0,good/hard_00568_b.jpg
+hard_00572_a,hard_00572,hard,a,0,good,,0,0.0,good/hard_00572_a.jpg
+hard_00572_b,hard_00572,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,34,0.04015,moldy/hard_00572_b.jpg
+hard_00576_a,hard_00576,hard,a,1,moldy,灰白绒霉 Penicillium(white),66,0.04583,moldy/hard_00576_a.jpg
+hard_00576_b,hard_00576,hard,b,0,good,,0,0.0,good/hard_00576_b.jpg
+hard_00577_a,hard_00577,hard,a,0,good,,0,0.0,good/hard_00577_a.jpg
+hard_00577_b,hard_00577,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),41,0.03811,moldy/hard_00577_b.jpg
+hard_00581_a,hard_00581,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),29,0.01049,moldy/hard_00581_a.jpg
+hard_00581_b,hard_00581,hard,b,0,good,,0,0.0,good/hard_00581_b.jpg
+hard_00584_a,hard_00584,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),9,0.01091,moldy/hard_00584_a.jpg
+hard_00584_b,hard_00584,hard,b,0,good,,0,0.0,good/hard_00584_b.jpg
+hard_00586_a,hard_00586,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),51,0.01544,moldy/hard_00586_a.jpg
+hard_00586_b,hard_00586,hard,b,0,good,,0,0.0,good/hard_00586_b.jpg
+hard_00590_a,hard_00590,hard,a,1,moldy,黑曲霉 Aspergillus(niger),57,0.02643,moldy/hard_00590_a.jpg
+hard_00590_b,hard_00590,hard,b,0,good,,0,0.0,good/hard_00590_b.jpg
+hard_00598_a,hard_00598,hard,a,1,moldy,黑曲霉 Aspergillus(niger),71,0.03665,moldy/hard_00598_a.jpg
+hard_00598_b,hard_00598,hard,b,0,good,,0,0.0,good/hard_00598_b.jpg
+hard_00600_a,hard_00600,hard,a,0,good,,0,0.0,good/hard_00600_a.jpg
+hard_00600_b,hard_00600,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),62,0.01351,moldy/hard_00600_b.jpg
+hard_00601_a,hard_00601,hard,a,0,good,,0,0.0,good/hard_00601_a.jpg
+hard_00601_b,hard_00601,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),67,0.03254,moldy/hard_00601_b.jpg
+hard_00603_a,hard_00603,hard,a,1,moldy,黑曲霉 Aspergillus(niger),72,0.05028,moldy/hard_00603_a.jpg
+hard_00603_b,hard_00603,hard,b,0,good,,0,0.0,good/hard_00603_b.jpg
+hard_00605_a,hard_00605,hard,a,0,good,,0,0.0,good/hard_00605_a.jpg
+hard_00605_b,hard_00605,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),42,0.03764,moldy/hard_00605_b.jpg
+hard_00611_a,hard_00611,hard,a,0,good,,0,0.0,good/hard_00611_a.jpg
+hard_00611_b,hard_00611,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),13,0.0068,moldy/hard_00611_b.jpg
+hard_00619_a,hard_00619,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),25,0.02134,moldy/hard_00619_a.jpg
+hard_00619_b,hard_00619,hard,b,0,good,,0,0.0,good/hard_00619_b.jpg
+hard_00633_a,hard_00633,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),50,0.01885,moldy/hard_00633_a.jpg
+hard_00633_b,hard_00633,hard,b,0,good,,0,0.0,good/hard_00633_b.jpg
+hard_00634_a,hard_00634,hard,a,0,good,,0,0.0,good/hard_00634_a.jpg
+hard_00634_b,hard_00634,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),38,0.02725,moldy/hard_00634_b.jpg
+hard_00638_a,hard_00638,hard,a,0,good,,0,0.0,good/hard_00638_a.jpg
+hard_00638_b,hard_00638,hard,b,1,moldy,黑曲霉 Aspergillus(niger),50,0.01437,moldy/hard_00638_b.jpg
+hard_00640_a,hard_00640,hard,a,0,good,,0,0.0,good/hard_00640_a.jpg
+hard_00640_b,hard_00640,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),47,0.0229,moldy/hard_00640_b.jpg
+hard_00641_a,hard_00641,hard,a,1,moldy,灰白绒霉 Penicillium(white),74,0.07483,moldy/hard_00641_a.jpg
+hard_00641_b,hard_00641,hard,b,0,good,,0,0.0,good/hard_00641_b.jpg
+hard_00642_a,hard_00642,hard,a,1,moldy,黑曲霉 Aspergillus(niger),62,0.02922,moldy/hard_00642_a.jpg
+hard_00642_b,hard_00642,hard,b,0,good,,0,0.0,good/hard_00642_b.jpg
+hard_00648_a,hard_00648,hard,a,0,good,,0,0.0,good/hard_00648_a.jpg
+hard_00648_b,hard_00648,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,33,0.02761,moldy/hard_00648_b.jpg
+hard_00648_c,hard_00648,hard,c,0,good,,0,0.0,good/hard_00648_c.jpg
+hard_00648_d,hard_00648,hard,d,1,moldy,橄榄绿青霉 Penicillium(olive),12,0.01621,moldy/hard_00648_d.jpg
+hard_00652_a,hard_00652,hard,a,1,moldy,灰白绒霉 Penicillium(white),65,0.03415,moldy/hard_00652_a.jpg
+hard_00652_b,hard_00652,hard,b,0,good,,0,0.0,good/hard_00652_b.jpg
+hard_00654_a,hard_00654,hard,a,0,good,,0,0.0,good/hard_00654_a.jpg
+hard_00654_b,hard_00654,hard,b,1,moldy,灰白绒霉 Penicillium(white),14,0.01377,moldy/hard_00654_b.jpg
+hard_00655_a,hard_00655,hard,a,0,good,,0,0.0,good/hard_00655_a.jpg
+hard_00655_b,hard_00655,hard,b,1,moldy,黑曲霉 Aspergillus(niger),22,0.00891,moldy/hard_00655_b.jpg
+hard_00658_a,hard_00658,hard,a,1,moldy,黑曲霉 Aspergillus(niger),27,0.00719,moldy/hard_00658_a.jpg
+hard_00658_b,hard_00658,hard,b,0,good,,0,0.0,good/hard_00658_b.jpg
+hard_00661_a,hard_00661,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),24,0.00527,moldy/hard_00661_a.jpg
+hard_00661_b,hard_00661,hard,b,0,good,,0,0.0,good/hard_00661_b.jpg
+hard_00663_a,hard_00663,hard,a,0,good,,0,0.0,good/hard_00663_a.jpg
+hard_00663_b,hard_00663,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),85,0.03324,moldy/hard_00663_b.jpg
+hard_00664_a,hard_00664,hard,a,0,good,,0,0.0,good/hard_00664_a.jpg
+hard_00664_b,hard_00664,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),55,0.03747,moldy/hard_00664_b.jpg
+hard_00665_a,hard_00665,hard,a,0,good,,0,0.0,good/hard_00665_a.jpg
+hard_00665_b,hard_00665,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),49,0.0312,moldy/hard_00665_b.jpg
+hard_00668_a,hard_00668,hard,a,0,good,,0,0.0,good/hard_00668_a.jpg
+hard_00668_b,hard_00668,hard,b,1,moldy,灰白绒霉 Penicillium(white),25,0.00794,moldy/hard_00668_b.jpg
+hard_00669_a,hard_00669,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),26,0.0108,moldy/hard_00669_a.jpg
+hard_00669_b,hard_00669,hard,b,0,good,,0,0.0,good/hard_00669_b.jpg
+hard_00673_a,hard_00673,hard,a,1,moldy,黑曲霉 Aspergillus(niger),52,0.0133,moldy/hard_00673_a.jpg
+hard_00673_b,hard_00673,hard,b,0,good,,0,0.0,good/hard_00673_b.jpg
+hard_00681_a,hard_00681,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),14,0.00767,moldy/hard_00681_a.jpg
+hard_00681_b,hard_00681,hard,b,0,good,,0,0.0,good/hard_00681_b.jpg
+hard_00685_a,hard_00685,hard,a,0,good,,0,0.0,good/hard_00685_a.jpg
+hard_00685_b,hard_00685,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,59,0.0192,moldy/hard_00685_b.jpg
+hard_00686_a,hard_00686,hard,a,1,moldy,黑曲霉 Aspergillus(niger),59,0.03953,moldy/hard_00686_a.jpg
+hard_00686_b,hard_00686,hard,b,0,good,,0,0.0,good/hard_00686_b.jpg
+hard_00687_a,hard_00687,hard,a,1,moldy,灰白绒霉 Penicillium(white),63,0.01816,moldy/hard_00687_a.jpg
+hard_00687_b,hard_00687,hard,b,0,good,,0,0.0,good/hard_00687_b.jpg
+hard_00699_a,hard_00699,hard,a,0,good,,0,0.0,good/hard_00699_a.jpg
+hard_00699_b,hard_00699,hard,b,1,moldy,灰白绒霉 Penicillium(white),29,0.00984,moldy/hard_00699_b.jpg
+hard_00701_a,hard_00701,hard,a,0,good,,0,0.0,good/hard_00701_a.jpg
+hard_00701_b,hard_00701,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),52,0.06111,moldy/hard_00701_b.jpg
+hard_00702_a,hard_00702,hard,a,0,good,,0,0.0,good/hard_00702_a.jpg
+hard_00702_b,hard_00702,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),83,0.04575,moldy/hard_00702_b.jpg
+hard_00705_a,hard_00705,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),37,0.03785,moldy/hard_00705_a.jpg
+hard_00705_b,hard_00705,hard,b,0,good,,0,0.0,good/hard_00705_b.jpg
+hard_00707_a,hard_00707,hard,a,1,moldy,灰白绒霉 Penicillium(white),42,0.02636,moldy/hard_00707_a.jpg
+hard_00707_b,hard_00707,hard,b,0,good,,0,0.0,good/hard_00707_b.jpg
+hard_00710_a,hard_00710,hard,a,0,good,,0,0.0,good/hard_00710_a.jpg
+hard_00710_b,hard_00710,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),18,0.00877,moldy/hard_00710_b.jpg
+hard_00714_a,hard_00714,hard,a,0,good,,0,0.0,good/hard_00714_a.jpg
+hard_00714_b,hard_00714,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),48,0.02298,moldy/hard_00714_b.jpg
+semi-soft_00717_a,semi-soft_00717,semi-soft,a,0,good,,0,0.0,good/semi-soft_00717_a.jpg
+semi-soft_00717_b,semi-soft_00717,semi-soft,b,1,moldy,粉红污染霉 Fusarium/yeast,46,0.02331,moldy/semi-soft_00717_b.jpg
+semi-soft_00721_a,semi-soft_00721,semi-soft,a,0,good,,0,0.0,good/semi-soft_00721_a.jpg
+semi-soft_00721_b,semi-soft_00721,semi-soft,b,1,moldy,粉红污染霉 Fusarium/yeast,30,0.01019,moldy/semi-soft_00721_b.jpg
+semi-soft_00723_a,semi-soft_00723,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),74,0.03039,moldy/semi-soft_00723_a.jpg
+semi-soft_00723_b,semi-soft_00723,semi-soft,b,0,good,,0,0.0,good/semi-soft_00723_b.jpg
+semi-soft_00730_a,semi-soft_00730,semi-soft,a,0,good,,0,0.0,good/semi-soft_00730_a.jpg
+semi-soft_00730_b,semi-soft_00730,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),47,0.02768,moldy/semi-soft_00730_b.jpg
+semi-soft_00741_a,semi-soft_00741,semi-soft,a,0,good,,0,0.0,good/semi-soft_00741_a.jpg
+semi-soft_00741_b,semi-soft_00741,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),33,0.04079,moldy/semi-soft_00741_b.jpg
+semi-soft_00747_a,semi-soft_00747,semi-soft,a,0,good,,0,0.0,good/semi-soft_00747_a.jpg
+semi-soft_00747_b,semi-soft_00747,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),55,0.09652,moldy/semi-soft_00747_b.jpg
+semi-soft_00748_a,semi-soft_00748,semi-soft,a,0,good,,0,0.0,good/semi-soft_00748_a.jpg
+semi-soft_00748_b,semi-soft_00748,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),23,0.01478,moldy/semi-soft_00748_b.jpg
+semi-soft_00751_a,semi-soft_00751,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),26,0.0282,moldy/semi-soft_00751_a.jpg
+semi-soft_00751_b,semi-soft_00751,semi-soft,b,0,good,,0,0.0,good/semi-soft_00751_b.jpg
+semi-soft_00760_a,semi-soft_00760,semi-soft,a,0,good,,0,0.0,good/semi-soft_00760_a.jpg
+semi-soft_00760_b,semi-soft_00760,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),78,0.06849,moldy/semi-soft_00760_b.jpg
+semi-soft_00762_a,semi-soft_00762,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),57,0.01146,moldy/semi-soft_00762_a.jpg
+semi-soft_00762_b,semi-soft_00762,semi-soft,b,0,good,,0,0.0,good/semi-soft_00762_b.jpg
+semi-soft_00764_a,semi-soft_00764,semi-soft,a,0,good,,0,0.0,good/semi-soft_00764_a.jpg
+semi-soft_00764_b,semi-soft_00764,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),47,0.02932,moldy/semi-soft_00764_b.jpg
+semi-soft_00774_a,semi-soft_00774,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),45,0.01541,moldy/semi-soft_00774_a.jpg
+semi-soft_00774_b,semi-soft_00774,semi-soft,b,0,good,,0,0.0,good/semi-soft_00774_b.jpg
+semi-soft_00779_a,semi-soft_00779,semi-soft,a,0,good,,0,0.0,good/semi-soft_00779_a.jpg
+semi-soft_00779_b,semi-soft_00779,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),34,0.02302,moldy/semi-soft_00779_b.jpg
+semi-soft_00791_a,semi-soft_00791,semi-soft,a,0,good,,0,0.0,good/semi-soft_00791_a.jpg
+semi-soft_00791_b,semi-soft_00791,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),45,0.05785,moldy/semi-soft_00791_b.jpg
+semi-soft_00807_a,semi-soft_00807,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),68,0.05979,moldy/semi-soft_00807_a.jpg
+semi-soft_00807_b,semi-soft_00807,semi-soft,b,0,good,,0,0.0,good/semi-soft_00807_b.jpg
+semi-soft_00811_a,semi-soft_00811,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),52,0.04025,moldy/semi-soft_00811_a.jpg
+semi-soft_00811_b,semi-soft_00811,semi-soft,b,0,good,,0,0.0,good/semi-soft_00811_b.jpg
+semi-soft_00814_a,semi-soft_00814,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),51,0.05759,moldy/semi-soft_00814_a.jpg
+semi-soft_00814_b,semi-soft_00814,semi-soft,b,0,good,,0,0.0,good/semi-soft_00814_b.jpg
+semi-soft_00816_a,semi-soft_00816,semi-soft,a,0,good,,0,0.0,good/semi-soft_00816_a.jpg
+semi-soft_00816_b,semi-soft_00816,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),66,0.04275,moldy/semi-soft_00816_b.jpg
+semi-soft_00821_a,semi-soft_00821,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),39,0.04126,moldy/semi-soft_00821_a.jpg
+semi-soft_00821_b,semi-soft_00821,semi-soft,b,0,good,,0,0.0,good/semi-soft_00821_b.jpg
+semi-soft_00823_a,semi-soft_00823,semi-soft,a,0,good,,0,0.0,good/semi-soft_00823_a.jpg
+semi-soft_00823_b,semi-soft_00823,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),12,0.01604,moldy/semi-soft_00823_b.jpg
+semi-soft_00830_a,semi-soft_00830,semi-soft,a,0,good,,0,0.0,good/semi-soft_00830_a.jpg
+semi-soft_00830_b,semi-soft_00830,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),23,0.01192,moldy/semi-soft_00830_b.jpg
+semi-soft_00833_a,semi-soft_00833,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),23,0.00808,moldy/semi-soft_00833_a.jpg
+semi-soft_00833_b,semi-soft_00833,semi-soft,b,0,good,,0,0.0,good/semi-soft_00833_b.jpg
+hard_00450_a,hard_00450,hard,a,0,good,,0,0.0,good/hard_00450_a.jpg
+hard_00450_b,hard_00450,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),25,0.0089,moldy/hard_00450_b.jpg
+hard_00455_a,hard_00455,hard,a,0,good,,0,0.0,good/hard_00455_a.jpg
+hard_00455_b,hard_00455,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),24,0.01026,moldy/hard_00455_b.jpg
+hard_00462_a,hard_00462,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),41,0.01159,moldy/hard_00462_a.jpg
+hard_00462_b,hard_00462,hard,b,0,good,,0,0.0,good/hard_00462_b.jpg
+hard_00463_a,hard_00463,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),20,0.00927,moldy/hard_00463_a.jpg
+hard_00463_b,hard_00463,hard,b,0,good,,0,0.0,good/hard_00463_b.jpg
+hard_00467_a,hard_00467,hard,a,1,moldy,灰白绒霉 Penicillium(white),32,0.03554,moldy/hard_00467_a.jpg
+hard_00467_b,hard_00467,hard,b,0,good,,0,0.0,good/hard_00467_b.jpg
+hard_00468_a,hard_00468,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),23,0.01934,moldy/hard_00468_a.jpg
+hard_00468_b,hard_00468,hard,b,0,good,,0,0.0,good/hard_00468_b.jpg
+hard_00469_a,hard_00469,hard,a,0,good,,0,0.0,good/hard_00469_a.jpg
+hard_00469_b,hard_00469,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),13,0.00535,moldy/hard_00469_b.jpg
+hard_00471_a,hard_00471,hard,a,1,moldy,灰白绒霉 Penicillium(white),51,0.05007,moldy/hard_00471_a.jpg
+hard_00471_b,hard_00471,hard,b,0,good,,0,0.0,good/hard_00471_b.jpg
+hard_00478_a,hard_00478,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),32,0.03555,moldy/hard_00478_a.jpg
+hard_00478_b,hard_00478,hard,b,0,good,,0,0.0,good/hard_00478_b.jpg
+hard_00483_a,hard_00483,hard,a,1,moldy,灰白绒霉 Penicillium(white),20,0.01837,moldy/hard_00483_a.jpg
+hard_00483_b,hard_00483,hard,b,0,good,,0,0.0,good/hard_00483_b.jpg
+hard_00485_a,hard_00485,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),52,0.02253,moldy/hard_00485_a.jpg
+hard_00485_b,hard_00485,hard,b,0,good,,0,0.0,good/hard_00485_b.jpg
+hard_00490_a,hard_00490,hard,a,1,moldy,黑曲霉 Aspergillus(niger),52,0.01188,moldy/hard_00490_a.jpg
+hard_00490_b,hard_00490,hard,b,0,good,,0,0.0,good/hard_00490_b.jpg
+hard_00491_a,hard_00491,hard,a,0,good,,0,0.0,good/hard_00491_a.jpg
+hard_00491_b,hard_00491,hard,b,1,moldy,灰白绒霉 Penicillium(white),26,0.00705,moldy/hard_00491_b.jpg
+hard_00494_a,hard_00494,hard,a,0,good,,0,0.0,good/hard_00494_a.jpg
+hard_00494_b,hard_00494,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),20,0.01231,moldy/hard_00494_b.jpg
+hard_00496_a,hard_00496,hard,a,0,good,,0,0.0,good/hard_00496_a.jpg
+hard_00496_b,hard_00496,hard,b,1,moldy,灰白绒霉 Penicillium(white),19,0.01858,moldy/hard_00496_b.jpg
+hard_00502_a,hard_00502,hard,a,1,moldy,灰白绒霉 Penicillium(white),17,0.01758,moldy/hard_00502_a.jpg
+hard_00502_b,hard_00502,hard,b,0,good,,0,0.0,good/hard_00502_b.jpg
+hard_00504_a,hard_00504,hard,a,0,good,,0,0.0,good/hard_00504_a.jpg
+hard_00504_b,hard_00504,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),12,0.0108,moldy/hard_00504_b.jpg
+hard_00514_a,hard_00514,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),61,0.0719,moldy/hard_00514_a.jpg
+hard_00514_b,hard_00514,hard,b,0,good,,0,0.0,good/hard_00514_b.jpg
+hard_00517_a,hard_00517,hard,a,1,moldy,灰白绒霉 Penicillium(white),12,0.01479,moldy/hard_00517_a.jpg
+hard_00517_b,hard_00517,hard,b,0,good,,0,0.0,good/hard_00517_b.jpg
+hard_00518_a,hard_00518,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),40,0.02983,moldy/hard_00518_a.jpg
+hard_00518_b,hard_00518,hard,b,0,good,,0,0.0,good/hard_00518_b.jpg
+hard_00520_a,hard_00520,hard,a,1,moldy,黑曲霉 Aspergillus(niger),63,0.01705,moldy/hard_00520_a.jpg
+hard_00520_b,hard_00520,hard,b,0,good,,0,0.0,good/hard_00520_b.jpg
+hard_00522_a,hard_00522,hard,a,0,good,,0,0.0,good/hard_00522_a.jpg
+hard_00522_b,hard_00522,hard,b,1,moldy,灰白绒霉 Penicillium(white),21,0.02313,moldy/hard_00522_b.jpg
+hard_00525_a,hard_00525,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),26,0.01064,moldy/hard_00525_a.jpg
+hard_00525_b,hard_00525,hard,b,0,good,,0,0.0,good/hard_00525_b.jpg
+hard_00528_a,hard_00528,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),65,0.04184,moldy/hard_00528_a.jpg
+hard_00528_b,hard_00528,hard,b,0,good,,0,0.0,good/hard_00528_b.jpg
+hard_00529_a,hard_00529,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),13,0.01139,moldy/hard_00529_a.jpg
+hard_00529_b,hard_00529,hard,b,0,good,,0,0.0,good/hard_00529_b.jpg
+hard_00530_a,hard_00530,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),67,0.07891,moldy/hard_00530_a.jpg
+hard_00530_b,hard_00530,hard,b,0,good,,0,0.0,good/hard_00530_b.jpg
+hard_00534_a,hard_00534,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,56,0.02451,moldy/hard_00534_a.jpg
+hard_00534_b,hard_00534,hard,b,0,good,,0,0.0,good/hard_00534_b.jpg
+hard_00540_a,hard_00540,hard,a,0,good,,0,0.0,good/hard_00540_a.jpg
+hard_00540_b,hard_00540,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),17,0.01591,moldy/hard_00540_b.jpg
+hard_00549_a,hard_00549,hard,a,0,good,,0,0.0,good/hard_00549_a.jpg
+hard_00549_b,hard_00549,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,14,0.00865,moldy/hard_00549_b.jpg
+hard_00552_a,hard_00552,hard,a,1,moldy,灰白绒霉 Penicillium(white),44,0.01272,moldy/hard_00552_a.jpg
+hard_00552_b,hard_00552,hard,b,0,good,,0,0.0,good/hard_00552_b.jpg
+hard_00554_a,hard_00554,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),33,0.01786,moldy/hard_00554_a.jpg
+hard_00554_b,hard_00554,hard,b,0,good,,0,0.0,good/hard_00554_b.jpg
+hard_00555_a,hard_00555,hard,a,1,moldy,灰白绒霉 Penicillium(white),59,0.02419,moldy/hard_00555_a.jpg
+hard_00555_b,hard_00555,hard,b,0,good,,0,0.0,good/hard_00555_b.jpg
+hard_00564_a,hard_00564,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),21,0.01056,moldy/hard_00564_a.jpg
+hard_00564_b,hard_00564,hard,b,0,good,,0,0.0,good/hard_00564_b.jpg
+hard_00566_a,hard_00566,hard,a,0,good,,0,0.0,good/hard_00566_a.jpg
+hard_00566_b,hard_00566,hard,b,1,moldy,黑曲霉 Aspergillus(niger),43,0.03191,moldy/hard_00566_b.jpg
+hard_00567_a,hard_00567,hard,a,0,good,,0,0.0,good/hard_00567_a.jpg
+hard_00567_b,hard_00567,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,63,0.03883,moldy/hard_00567_b.jpg
+hard_00569_a,hard_00569,hard,a,0,good,,0,0.0,good/hard_00569_a.jpg
+hard_00569_b,hard_00569,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),51,0.01298,moldy/hard_00569_b.jpg
+hard_00570_a,hard_00570,hard,a,1,moldy,灰白绒霉 Penicillium(white),40,0.02028,moldy/hard_00570_a.jpg
+hard_00570_b,hard_00570,hard,b,0,good,,0,0.0,good/hard_00570_b.jpg
+hard_00571_a,hard_00571,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),51,0.0143,moldy/hard_00571_a.jpg
+hard_00571_b,hard_00571,hard,b,0,good,,0,0.0,good/hard_00571_b.jpg
+hard_00573_a,hard_00573,hard,a,1,moldy,黑曲霉 Aspergillus(niger),46,0.0475,moldy/hard_00573_a.jpg
+hard_00573_b,hard_00573,hard,b,0,good,,0,0.0,good/hard_00573_b.jpg
+hard_00575_a,hard_00575,hard,a,0,good,,0,0.0,good/hard_00575_a.jpg
+hard_00575_b,hard_00575,hard,b,1,moldy,灰白绒霉 Penicillium(white),81,0.03654,moldy/hard_00575_b.jpg
+hard_00578_a,hard_00578,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),72,0.04977,moldy/hard_00578_a.jpg
+hard_00578_b,hard_00578,hard,b,0,good,,0,0.0,good/hard_00578_b.jpg
+hard_00583_a,hard_00583,hard,a,0,good,,0,0.0,good/hard_00583_a.jpg
+hard_00583_b,hard_00583,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,48,0.03738,moldy/hard_00583_b.jpg
+hard_00588_a,hard_00588,hard,a,1,moldy,灰白绒霉 Penicillium(white),25,0.00889,moldy/hard_00588_a.jpg
+hard_00588_b,hard_00588,hard,b,0,good,,0,0.0,good/hard_00588_b.jpg
+hard_00589_a,hard_00589,hard,a,0,good,,0,0.0,good/hard_00589_a.jpg
+hard_00589_b,hard_00589,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,73,0.06743,moldy/hard_00589_b.jpg
+hard_00596_a,hard_00596,hard,a,0,good,,0,0.0,good/hard_00596_a.jpg
+hard_00596_b,hard_00596,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),38,0.04569,moldy/hard_00596_b.jpg
+hard_00599_a,hard_00599,hard,a,0,good,,0,0.0,good/hard_00599_a.jpg
+hard_00599_b,hard_00599,hard,b,1,moldy,黑曲霉 Aspergillus(niger),69,0.0641,moldy/hard_00599_b.jpg
+hard_00602_a,hard_00602,hard,a,0,good,,0,0.0,good/hard_00602_a.jpg
+hard_00602_b,hard_00602,hard,b,1,moldy,黑曲霉 Aspergillus(niger),42,0.02738,moldy/hard_00602_b.jpg
+hard_00604_a,hard_00604,hard,a,0,good,,0,0.0,good/hard_00604_a.jpg
+hard_00604_b,hard_00604,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,52,0.02645,moldy/hard_00604_b.jpg
+hard_00606_a,hard_00606,hard,a,0,good,,0,0.0,good/hard_00606_a.jpg
+hard_00606_b,hard_00606,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),65,0.04536,moldy/hard_00606_b.jpg
+hard_00607_a,hard_00607,hard,a,0,good,,0,0.0,good/hard_00607_a.jpg
+hard_00607_b,hard_00607,hard,b,1,moldy,灰白绒霉 Penicillium(white),58,0.01523,moldy/hard_00607_b.jpg
+hard_00613_a,hard_00613,hard,a,0,good,,0,0.0,good/hard_00613_a.jpg
+hard_00613_b,hard_00613,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),41,0.03071,moldy/hard_00613_b.jpg
+hard_00615_a,hard_00615,hard,a,0,good,,0,0.0,good/hard_00615_a.jpg
+hard_00615_b,hard_00615,hard,b,1,moldy,灰白绒霉 Penicillium(white),44,0.04814,moldy/hard_00615_b.jpg
+hard_00616_a,hard_00616,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,45,0.01482,moldy/hard_00616_a.jpg
+hard_00616_b,hard_00616,hard,b,0,good,,0,0.0,good/hard_00616_b.jpg
+hard_00618_a,hard_00618,hard,a,0,good,,0,0.0,good/hard_00618_a.jpg
+hard_00618_b,hard_00618,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),60,0.04435,moldy/hard_00618_b.jpg
+hard_00620_a,hard_00620,hard,a,0,good,,0,0.0,good/hard_00620_a.jpg
+hard_00620_b,hard_00620,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),38,0.01122,moldy/hard_00620_b.jpg
+hard_00621_a,hard_00621,hard,a,0,good,,0,0.0,good/hard_00621_a.jpg
+hard_00621_b,hard_00621,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),46,0.04645,moldy/hard_00621_b.jpg
+hard_00622_a,hard_00622,hard,a,0,good,,0,0.0,good/hard_00622_a.jpg
+hard_00622_b,hard_00622,hard,b,1,moldy,灰白绒霉 Penicillium(white),65,0.04175,moldy/hard_00622_b.jpg
+hard_00630_a,hard_00630,hard,a,0,good,,0,0.0,good/hard_00630_a.jpg
+hard_00630_b,hard_00630,hard,b,1,moldy,灰白绒霉 Penicillium(white),27,0.02955,moldy/hard_00630_b.jpg
+hard_00632_a,hard_00632,hard,a,0,good,,0,0.0,good/hard_00632_a.jpg
+hard_00632_b,hard_00632,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),63,0.02673,moldy/hard_00632_b.jpg
+hard_00635_a,hard_00635,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),56,0.01812,moldy/hard_00635_a.jpg
+hard_00635_b,hard_00635,hard,b,0,good,,0,0.0,good/hard_00635_b.jpg
+hard_00637_a,hard_00637,hard,a,0,good,,0,0.0,good/hard_00637_a.jpg
+hard_00637_b,hard_00637,hard,b,1,moldy,灰白绒霉 Penicillium(white),47,0.03096,moldy/hard_00637_b.jpg
+hard_00639_a,hard_00639,hard,a,0,good,,0,0.0,good/hard_00639_a.jpg
+hard_00639_b,hard_00639,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),43,0.02592,moldy/hard_00639_b.jpg
+hard_00643_a,hard_00643,hard,a,0,good,,0,0.0,good/hard_00643_a.jpg
+hard_00643_b,hard_00643,hard,b,1,moldy,黑曲霉 Aspergillus(niger),13,0.00625,moldy/hard_00643_b.jpg
+hard_00650_a,hard_00650,hard,a,1,moldy,灰白绒霉 Penicillium(white),53,0.02473,moldy/hard_00650_a.jpg
+hard_00650_b,hard_00650,hard,b,0,good,,0,0.0,good/hard_00650_b.jpg
+hard_00657_a,hard_00657,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),25,0.00421,moldy/hard_00657_a.jpg
+hard_00657_b,hard_00657,hard,b,0,good,,0,0.0,good/hard_00657_b.jpg
+hard_00659_a,hard_00659,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),42,0.03319,moldy/hard_00659_a.jpg
+hard_00659_b,hard_00659,hard,b,0,good,,0,0.0,good/hard_00659_b.jpg
+hard_00660_a,hard_00660,hard,a,0,good,,0,0.0,good/hard_00660_a.jpg
+hard_00660_b,hard_00660,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),59,0.06212,moldy/hard_00660_b.jpg
+hard_00666_a,hard_00666,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,55,0.02587,moldy/hard_00666_a.jpg
+hard_00666_b,hard_00666,hard,b,0,good,,0,0.0,good/hard_00666_b.jpg
+hard_00670_a,hard_00670,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),17,0.00775,moldy/hard_00670_a.jpg
+hard_00670_b,hard_00670,hard,b,0,good,,0,0.0,good/hard_00670_b.jpg
+hard_00671_a,hard_00671,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),50,0.01572,moldy/hard_00671_a.jpg
+hard_00671_b,hard_00671,hard,b,0,good,,0,0.0,good/hard_00671_b.jpg
+hard_00674_a,hard_00674,hard,a,1,moldy,灰白绒霉 Penicillium(white),52,0.0672,moldy/hard_00674_a.jpg
+hard_00674_b,hard_00674,hard,b,0,good,,0,0.0,good/hard_00674_b.jpg
+hard_00676_a,hard_00676,hard,a,0,good,,0,0.0,good/hard_00676_a.jpg
+hard_00676_b,hard_00676,hard,b,1,moldy,粉红污染霉 Fusarium/yeast,41,0.03387,moldy/hard_00676_b.jpg
+hard_00677_a,hard_00677,hard,a,1,moldy,粉红污染霉 Fusarium/yeast,31,0.02242,moldy/hard_00677_a.jpg
+hard_00677_b,hard_00677,hard,b,0,good,,0,0.0,good/hard_00677_b.jpg
+hard_00678_a,hard_00678,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),10,0.01033,moldy/hard_00678_a.jpg
+hard_00678_b,hard_00678,hard,b,0,good,,0,0.0,good/hard_00678_b.jpg
+hard_00682_a,hard_00682,hard,a,0,good,,0,0.0,good/hard_00682_a.jpg
+hard_00682_b,hard_00682,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),45,0.05027,moldy/hard_00682_b.jpg
+hard_00684_a,hard_00684,hard,a,0,good,,0,0.0,good/hard_00684_a.jpg
+hard_00684_b,hard_00684,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),70,0.08411,moldy/hard_00684_b.jpg
+hard_00688_a,hard_00688,hard,a,0,good,,0,0.0,good/hard_00688_a.jpg
+hard_00688_b,hard_00688,hard,b,1,moldy,灰白绒霉 Penicillium(white),41,0.02365,moldy/hard_00688_b.jpg
+hard_00692_a,hard_00692,hard,a,1,moldy,蓝绿青霉 Penicillium(blue-green),22,0.01013,moldy/hard_00692_a.jpg
+hard_00692_b,hard_00692,hard,b,0,good,,0,0.0,good/hard_00692_b.jpg
+hard_00694_a,hard_00694,hard,a,1,moldy,灰白绒霉 Penicillium(white),67,0.03233,moldy/hard_00694_a.jpg
+hard_00694_b,hard_00694,hard,b,0,good,,0,0.0,good/hard_00694_b.jpg
+hard_00696_a,hard_00696,hard,a,1,moldy,灰白绒霉 Penicillium(white),28,0.01116,moldy/hard_00696_a.jpg
+hard_00696_b,hard_00696,hard,b,0,good,,0,0.0,good/hard_00696_b.jpg
+hard_00698_a,hard_00698,hard,a,0,good,,0,0.0,good/hard_00698_a.jpg
+hard_00698_b,hard_00698,hard,b,1,moldy,橄榄绿青霉 Penicillium(olive),11,0.00446,moldy/hard_00698_b.jpg
+hard_00700_a,hard_00700,hard,a,0,good,,0,0.0,good/hard_00700_a.jpg
+hard_00700_b,hard_00700,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),14,0.01895,moldy/hard_00700_b.jpg
+hard_00703_a,hard_00703,hard,a,0,good,,0,0.0,good/hard_00703_a.jpg
+hard_00703_b,hard_00703,hard,b,1,moldy,灰白绒霉 Penicillium(white),59,0.05068,moldy/hard_00703_b.jpg
+hard_00708_a,hard_00708,hard,a,1,moldy,橄榄绿青霉 Penicillium(olive),60,0.04497,moldy/hard_00708_a.jpg
+hard_00708_b,hard_00708,hard,b,0,good,,0,0.0,good/hard_00708_b.jpg
+hard_00709_a,hard_00709,hard,a,0,good,,0,0.0,good/hard_00709_a.jpg
+hard_00709_b,hard_00709,hard,b,1,moldy,蓝绿青霉 Penicillium(blue-green),65,0.06573,moldy/hard_00709_b.jpg
+hard_00712_a,hard_00712,hard,a,0,good,,0,0.0,good/hard_00712_a.jpg
+hard_00712_b,hard_00712,hard,b,1,moldy,黑曲霉 Aspergillus(niger),42,0.00968,moldy/hard_00712_b.jpg
+semi-soft_00736_a,semi-soft_00736,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),70,0.09125,moldy/semi-soft_00736_a.jpg
+semi-soft_00736_b,semi-soft_00736,semi-soft,b,0,good,,0,0.0,good/semi-soft_00736_b.jpg
+semi-soft_00739_a,semi-soft_00739,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),41,0.03612,moldy/semi-soft_00739_a.jpg
+semi-soft_00739_b,semi-soft_00739,semi-soft,b,0,good,,0,0.0,good/semi-soft_00739_b.jpg
+semi-soft_00757_a,semi-soft_00757,semi-soft,a,0,good,,0,0.0,good/semi-soft_00757_a.jpg
+semi-soft_00757_b,semi-soft_00757,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),13,0.00468,moldy/semi-soft_00757_b.jpg
+semi-soft_00761_a,semi-soft_00761,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),0,0.0,moldy/semi-soft_00761_a.jpg
+semi-soft_00761_b,semi-soft_00761,semi-soft,b,0,good,,0,0.0,good/semi-soft_00761_b.jpg
+semi-soft_00766_a,semi-soft_00766,semi-soft,a,1,moldy,黑曲霉 Aspergillus(niger),43,0.04828,moldy/semi-soft_00766_a.jpg
+semi-soft_00766_b,semi-soft_00766,semi-soft,b,0,good,,0,0.0,good/semi-soft_00766_b.jpg
+semi-soft_00777_a,semi-soft_00777,semi-soft,a,0,good,,0,0.0,good/semi-soft_00777_a.jpg
+semi-soft_00777_b,semi-soft_00777,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),46,0.00913,moldy/semi-soft_00777_b.jpg
+semi-soft_00778_a,semi-soft_00778,semi-soft,a,1,moldy,黑曲霉 Aspergillus(niger),25,0.0203,moldy/semi-soft_00778_a.jpg
+semi-soft_00778_b,semi-soft_00778,semi-soft,b,0,good,,0,0.0,good/semi-soft_00778_b.jpg
+semi-soft_00780_a,semi-soft_00780,semi-soft,a,0,good,,0,0.0,good/semi-soft_00780_a.jpg
+semi-soft_00780_b,semi-soft_00780,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),21,0.01832,moldy/semi-soft_00780_b.jpg
+semi-soft_00786_a,semi-soft_00786,semi-soft,a,0,good,,0,0.0,good/semi-soft_00786_a.jpg
+semi-soft_00786_b,semi-soft_00786,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),42,0.02193,moldy/semi-soft_00786_b.jpg
+semi-soft_00798_a,semi-soft_00798,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),55,0.01881,moldy/semi-soft_00798_a.jpg
+semi-soft_00798_b,semi-soft_00798,semi-soft,b,0,good,,0,0.0,good/semi-soft_00798_b.jpg
+semi-soft_00801_a,semi-soft_00801,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),31,0.01557,moldy/semi-soft_00801_a.jpg
+semi-soft_00801_b,semi-soft_00801,semi-soft,b,0,good,,0,0.0,good/semi-soft_00801_b.jpg
+semi-soft_00804_a,semi-soft_00804,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),10,0.01218,moldy/semi-soft_00804_a.jpg
+semi-soft_00804_b,semi-soft_00804,semi-soft,b,0,good,,0,0.0,good/semi-soft_00804_b.jpg
+semi-soft_00809_a,semi-soft_00809,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),50,0.04435,moldy/semi-soft_00809_a.jpg
+semi-soft_00809_b,semi-soft_00809,semi-soft,b,0,good,,0,0.0,good/semi-soft_00809_b.jpg
+semi-soft_00840_a,semi-soft_00840,semi-soft,a,0,good,,0,0.0,good/semi-soft_00840_a.jpg
+semi-soft_00840_b,semi-soft_00840,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),31,0.02163,moldy/semi-soft_00840_b.jpg
+semi-soft_00843_a,semi-soft_00843,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),17,0.02093,moldy/semi-soft_00843_a.jpg
+semi-soft_00843_b,semi-soft_00843,semi-soft,b,0,good,,0,0.0,good/semi-soft_00843_b.jpg
+semi-soft_00845_a,semi-soft_00845,semi-soft,a,0,good,,0,0.0,good/semi-soft_00845_a.jpg
+semi-soft_00845_b,semi-soft_00845,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),41,0.01411,moldy/semi-soft_00845_b.jpg
+semi-soft_00849_a,semi-soft_00849,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),13,0.00686,moldy/semi-soft_00849_a.jpg
+semi-soft_00849_b,semi-soft_00849,semi-soft,b,0,good,,0,0.0,good/semi-soft_00849_b.jpg
+semi-soft_00852_a,semi-soft_00852,semi-soft,a,0,good,,0,0.0,good/semi-soft_00852_a.jpg
+semi-soft_00852_b,semi-soft_00852,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),57,0.01137,moldy/semi-soft_00852_b.jpg
+semi-soft_00853_a,semi-soft_00853,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),64,0.0846,moldy/semi-soft_00853_a.jpg
+semi-soft_00853_b,semi-soft_00853,semi-soft,b,0,good,,0,0.0,good/semi-soft_00853_b.jpg
+semi-soft_00855_a,semi-soft_00855,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),70,0.03362,moldy/semi-soft_00855_a.jpg
+semi-soft_00855_b,semi-soft_00855,semi-soft,b,0,good,,0,0.0,good/semi-soft_00855_b.jpg
+semi-soft_00859_a,semi-soft_00859,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),53,0.05234,moldy/semi-soft_00859_a.jpg
+semi-soft_00859_b,semi-soft_00859,semi-soft,b,0,good,,0,0.0,good/semi-soft_00859_b.jpg
+semi-soft_00871_a,semi-soft_00871,semi-soft,a,0,good,,0,0.0,good/semi-soft_00871_a.jpg
+semi-soft_00871_b,semi-soft_00871,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),74,0.07015,moldy/semi-soft_00871_b.jpg
+semi-soft_00873_a,semi-soft_00873,semi-soft,a,0,good,,0,0.0,good/semi-soft_00873_a.jpg
+semi-soft_00873_b,semi-soft_00873,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),41,0.05624,moldy/semi-soft_00873_b.jpg
+semi-soft_00881_a,semi-soft_00881,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),56,0.04105,moldy/semi-soft_00881_a.jpg
+semi-soft_00881_b,semi-soft_00881,semi-soft,b,0,good,,0,0.0,good/semi-soft_00881_b.jpg
+semi-soft_00885_a,semi-soft_00885,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),42,0.0542,moldy/semi-soft_00885_a.jpg
+semi-soft_00885_b,semi-soft_00885,semi-soft,b,0,good,,0,0.0,good/semi-soft_00885_b.jpg
+semi-soft_00889_a,semi-soft_00889,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),47,0.01654,moldy/semi-soft_00889_a.jpg
+semi-soft_00889_b,semi-soft_00889,semi-soft,b,0,good,,0,0.0,good/semi-soft_00889_b.jpg
+semi-soft_00891_a,semi-soft_00891,semi-soft,a,0,good,,0,0.0,good/semi-soft_00891_a.jpg
+semi-soft_00891_b,semi-soft_00891,semi-soft,b,1,moldy,粉红污染霉 Fusarium/yeast,54,0.01956,moldy/semi-soft_00891_b.jpg
+semi-soft_00892_a,semi-soft_00892,semi-soft,a,0,good,,0,0.0,good/semi-soft_00892_a.jpg
+semi-soft_00892_b,semi-soft_00892,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),23,0.00774,moldy/semi-soft_00892_b.jpg
+semi-soft_00899_a,semi-soft_00899,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),59,0.0481,moldy/semi-soft_00899_a.jpg
+semi-soft_00899_b,semi-soft_00899,semi-soft,b,0,good,,0,0.0,good/semi-soft_00899_b.jpg
+semi-soft_00901_a,semi-soft_00901,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),38,0.01279,moldy/semi-soft_00901_a.jpg
+semi-soft_00901_b,semi-soft_00901,semi-soft,b,0,good,,0,0.0,good/semi-soft_00901_b.jpg
+semi-soft_00913_a,semi-soft_00913,semi-soft,a,0,good,,0,0.0,good/semi-soft_00913_a.jpg
+semi-soft_00913_b,semi-soft_00913,semi-soft,b,1,moldy,粉红污染霉 Fusarium/yeast,27,0.01905,moldy/semi-soft_00913_b.jpg
+semi-soft_00927_a,semi-soft_00927,semi-soft,a,0,good,,0,0.0,good/semi-soft_00927_a.jpg
+semi-soft_00927_b,semi-soft_00927,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),34,0.00631,moldy/semi-soft_00927_b.jpg
+semi-soft_00928_a,semi-soft_00928,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),63,0.02884,moldy/semi-soft_00928_a.jpg
+semi-soft_00928_b,semi-soft_00928,semi-soft,b,0,good,,0,0.0,good/semi-soft_00928_b.jpg
+semi-soft_00932_a,semi-soft_00932,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),59,0.07689,moldy/semi-soft_00932_a.jpg
+semi-soft_00932_b,semi-soft_00932,semi-soft,b,0,good,,0,0.0,good/semi-soft_00932_b.jpg
+semi-soft_00933_a,semi-soft_00933,semi-soft,a,0,good,,0,0.0,good/semi-soft_00933_a.jpg
+semi-soft_00933_b,semi-soft_00933,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),23,0.01482,moldy/semi-soft_00933_b.jpg
+semi-soft_00940_a,semi-soft_00940,semi-soft,a,1,moldy,黑曲霉 Aspergillus(niger),60,0.01039,moldy/semi-soft_00940_a.jpg
+semi-soft_00940_b,semi-soft_00940,semi-soft,b,0,good,,0,0.0,good/semi-soft_00940_b.jpg
+semi-soft_00941_a,semi-soft_00941,semi-soft,a,0,good,,0,0.0,good/semi-soft_00941_a.jpg
+semi-soft_00941_b,semi-soft_00941,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),62,0.03099,moldy/semi-soft_00941_b.jpg
+semi-soft_00944_a,semi-soft_00944,semi-soft,a,0,good,,0,0.0,good/semi-soft_00944_a.jpg
+semi-soft_00944_b,semi-soft_00944,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),30,0.0092,moldy/semi-soft_00944_b.jpg
+semi-soft_00948_a,semi-soft_00948,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),69,0.03182,moldy/semi-soft_00948_a.jpg
+semi-soft_00948_b,semi-soft_00948,semi-soft,b,0,good,,0,0.0,good/semi-soft_00948_b.jpg
+semi-soft_00952_a,semi-soft_00952,semi-soft,a,1,moldy,黑曲霉 Aspergillus(niger),28,0.01935,moldy/semi-soft_00952_a.jpg
+semi-soft_00952_b,semi-soft_00952,semi-soft,b,0,good,,0,0.0,good/semi-soft_00952_b.jpg
+semi-soft_00959_a,semi-soft_00959,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),54,0.03436,moldy/semi-soft_00959_a.jpg
+semi-soft_00959_b,semi-soft_00959,semi-soft,b,0,good,,0,0.0,good/semi-soft_00959_b.jpg
+semi-soft_00960_a,semi-soft_00960,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),54,0.01321,moldy/semi-soft_00960_a.jpg
+semi-soft_00960_b,semi-soft_00960,semi-soft,b,0,good,,0,0.0,good/semi-soft_00960_b.jpg
+semi-soft_00962_a,semi-soft_00962,semi-soft,a,0,good,,0,0.0,good/semi-soft_00962_a.jpg
+semi-soft_00962_b,semi-soft_00962,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),69,0.03639,moldy/semi-soft_00962_b.jpg
+semi-soft_00969_a,semi-soft_00969,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),52,0.01596,moldy/semi-soft_00969_a.jpg
+semi-soft_00969_b,semi-soft_00969,semi-soft,b,0,good,,0,0.0,good/semi-soft_00969_b.jpg
+semi-soft_00975_a,semi-soft_00975,semi-soft,a,0,good,,0,0.0,good/semi-soft_00975_a.jpg
+semi-soft_00975_b,semi-soft_00975,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),26,0.01468,moldy/semi-soft_00975_b.jpg
+semi-soft_00977_a,semi-soft_00977,semi-soft,a,0,good,,0,0.0,good/semi-soft_00977_a.jpg
+semi-soft_00977_b,semi-soft_00977,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),38,0.04808,moldy/semi-soft_00977_b.jpg
+semi-soft_00982_a,semi-soft_00982,semi-soft,a,1,moldy,粉红污染霉 Fusarium/yeast,56,0.01598,moldy/semi-soft_00982_a.jpg
+semi-soft_00982_b,semi-soft_00982,semi-soft,b,0,good,,0,0.0,good/semi-soft_00982_b.jpg
+semi-soft_00983_a,semi-soft_00983,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),54,0.02828,moldy/semi-soft_00983_a.jpg
+semi-soft_00983_b,semi-soft_00983,semi-soft,b,0,good,,0,0.0,good/semi-soft_00983_b.jpg
+semi-soft_00984_a,semi-soft_00984,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),43,0.04385,moldy/semi-soft_00984_a.jpg
+semi-soft_00984_b,semi-soft_00984,semi-soft,b,0,good,,0,0.0,good/semi-soft_00984_b.jpg
+semi-soft_00991_a,semi-soft_00991,semi-soft,a,0,good,,0,0.0,good/semi-soft_00991_a.jpg
+semi-soft_00991_b,semi-soft_00991,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),37,0.02728,moldy/semi-soft_00991_b.jpg
+semi-soft_00993_a,semi-soft_00993,semi-soft,a,0,good,,0,0.0,good/semi-soft_00993_a.jpg
+semi-soft_00993_b,semi-soft_00993,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),64,0.06455,moldy/semi-soft_00993_b.jpg
+semi-soft_01003_a,semi-soft_01003,semi-soft,a,0,good,,0,0.0,good/semi-soft_01003_a.jpg
+semi-soft_01003_b,semi-soft_01003,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),45,0.04371,moldy/semi-soft_01003_b.jpg
+semi-soft_01006_a,semi-soft_01006,semi-soft,a,0,good,,0,0.0,good/semi-soft_01006_a.jpg
+semi-soft_01006_b,semi-soft_01006,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),31,0.03387,moldy/semi-soft_01006_b.jpg
+semi-soft_01011_a,semi-soft_01011,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),76,0.04079,moldy/semi-soft_01011_a.jpg
+semi-soft_01011_b,semi-soft_01011,semi-soft,b,0,good,,0,0.0,good/semi-soft_01011_b.jpg
+semi-soft_01014_a,semi-soft_01014,semi-soft,a,0,good,,0,0.0,good/semi-soft_01014_a.jpg
+semi-soft_01014_b,semi-soft_01014,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),67,0.04008,moldy/semi-soft_01014_b.jpg
+semi-soft_01020_a,semi-soft_01020,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),21,0.01021,moldy/semi-soft_01020_a.jpg
+semi-soft_01020_b,semi-soft_01020,semi-soft,b,0,good,,0,0.0,good/semi-soft_01020_b.jpg
+semi-soft_01024_a,semi-soft_01024,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),53,0.03436,moldy/semi-soft_01024_a.jpg
+semi-soft_01024_b,semi-soft_01024,semi-soft,b,0,good,,0,0.0,good/semi-soft_01024_b.jpg
+semi-soft_01031_a,semi-soft_01031,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),25,0.02398,moldy/semi-soft_01031_a.jpg
+semi-soft_01031_b,semi-soft_01031,semi-soft,b,0,good,,0,0.0,good/semi-soft_01031_b.jpg
+semi-soft_01054_a,semi-soft_01054,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),26,0.02484,moldy/semi-soft_01054_a.jpg
+semi-soft_01054_b,semi-soft_01054,semi-soft,b,0,good,,0,0.0,good/semi-soft_01054_b.jpg
+semi-soft_01055_a,semi-soft_01055,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),24,0.01924,moldy/semi-soft_01055_a.jpg
+semi-soft_01055_b,semi-soft_01055,semi-soft,b,0,good,,0,0.0,good/semi-soft_01055_b.jpg
+semi-soft_01057_a,semi-soft_01057,semi-soft,a,0,good,,0,0.0,good/semi-soft_01057_a.jpg
+semi-soft_01057_b,semi-soft_01057,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),14,0.00391,moldy/semi-soft_01057_b.jpg
+semi-soft_01062_a,semi-soft_01062,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),15,0.00583,moldy/semi-soft_01062_a.jpg
+semi-soft_01062_b,semi-soft_01062,semi-soft,b,0,good,,0,0.0,good/semi-soft_01062_b.jpg
+semi-soft_01068_a,semi-soft_01068,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),42,0.03292,moldy/semi-soft_01068_a.jpg
+semi-soft_01068_b,semi-soft_01068,semi-soft,b,0,good,,0,0.0,good/semi-soft_01068_b.jpg
+semi-soft_01072_a,semi-soft_01072,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),76,0.04448,moldy/semi-soft_01072_a.jpg
+semi-soft_01072_b,semi-soft_01072,semi-soft,b,0,good,,0,0.0,good/semi-soft_01072_b.jpg
+semi-soft_01073_a,semi-soft_01073,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),40,0.04573,moldy/semi-soft_01073_a.jpg
+semi-soft_01073_b,semi-soft_01073,semi-soft,b,0,good,,0,0.0,good/semi-soft_01073_b.jpg
+semi-soft_01088_a,semi-soft_01088,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),16,0.00675,moldy/semi-soft_01088_a.jpg
+semi-soft_01088_b,semi-soft_01088,semi-soft,b,0,good,,0,0.0,good/semi-soft_01088_b.jpg
+semi-soft_01097_a,semi-soft_01097,semi-soft,a,0,good,,0,0.0,good/semi-soft_01097_a.jpg
+semi-soft_01097_b,semi-soft_01097,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),26,0.0214,moldy/semi-soft_01097_b.jpg
+semi-soft_01107_a,semi-soft_01107,semi-soft,a,0,good,,0,0.0,good/semi-soft_01107_a.jpg
+semi-soft_01107_b,semi-soft_01107,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),79,0.0232,moldy/semi-soft_01107_b.jpg
+semi-soft_01108_a,semi-soft_01108,semi-soft,a,0,good,,0,0.0,good/semi-soft_01108_a.jpg
+semi-soft_01108_b,semi-soft_01108,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),9,0.00589,moldy/semi-soft_01108_b.jpg
+semi-soft_01115_a,semi-soft_01115,semi-soft,a,0,good,,0,0.0,good/semi-soft_01115_a.jpg
+semi-soft_01115_b,semi-soft_01115,semi-soft,b,1,moldy,黑曲霉 Aspergillus(niger),13,0.01992,moldy/semi-soft_01115_b.jpg
+semi-soft_01120_a,semi-soft_01120,semi-soft,a,0,good,,0,0.0,good/semi-soft_01120_a.jpg
+semi-soft_01120_b,semi-soft_01120,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),17,0.00591,moldy/semi-soft_01120_b.jpg
+semi-soft_01124_a,semi-soft_01124,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),53,0.01397,moldy/semi-soft_01124_a.jpg
+semi-soft_01124_b,semi-soft_01124,semi-soft,b,0,good,,0,0.0,good/semi-soft_01124_b.jpg
+semi-soft_01127_a,semi-soft_01127,semi-soft,a,0,good,,0,0.0,good/semi-soft_01127_a.jpg
+semi-soft_01127_b,semi-soft_01127,semi-soft,b,1,moldy,黑曲霉 Aspergillus(niger),13,0.01703,moldy/semi-soft_01127_b.jpg
+semi-soft_01129_a,semi-soft_01129,semi-soft,a,0,good,,0,0.0,good/semi-soft_01129_a.jpg
+semi-soft_01129_b,semi-soft_01129,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),65,0.0439,moldy/semi-soft_01129_b.jpg
+semi-soft_00904_a,semi-soft_00904,semi-soft,a,0,good,,0,0.0,good/semi-soft_00904_a.jpg
+semi-soft_00904_b,semi-soft_00904,semi-soft,b,1,moldy,粉红污染霉 Fusarium/yeast,60,0.02732,moldy/semi-soft_00904_b.jpg
+semi-soft_00905_a,semi-soft_00905,semi-soft,a,1,moldy,黑曲霉 Aspergillus(niger),16,0.02079,moldy/semi-soft_00905_a.jpg
+semi-soft_00905_b,semi-soft_00905,semi-soft,b,0,good,,0,0.0,good/semi-soft_00905_b.jpg
+semi-soft_00906_a,semi-soft_00906,semi-soft,a,0,good,,0,0.0,good/semi-soft_00906_a.jpg
+semi-soft_00906_b,semi-soft_00906,semi-soft,b,1,moldy,粉红污染霉 Fusarium/yeast,48,0.01971,moldy/semi-soft_00906_b.jpg
+semi-soft_00914_a,semi-soft_00914,semi-soft,a,0,good,,0,0.0,good/semi-soft_00914_a.jpg
+semi-soft_00914_b,semi-soft_00914,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),35,0.02967,moldy/semi-soft_00914_b.jpg
+semi-soft_00968_a,semi-soft_00968,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),22,0.02461,moldy/semi-soft_00968_a.jpg
+semi-soft_00968_b,semi-soft_00968,semi-soft,b,0,good,,0,0.0,good/semi-soft_00968_b.jpg
+semi-soft_00974_a,semi-soft_00974,semi-soft,a,1,moldy,粉红污染霉 Fusarium/yeast,49,0.03432,moldy/semi-soft_00974_a.jpg
+semi-soft_00974_b,semi-soft_00974,semi-soft,b,0,good,,0,0.0,good/semi-soft_00974_b.jpg
+semi-soft_00979_a,semi-soft_00979,semi-soft,a,0,good,,0,0.0,good/semi-soft_00979_a.jpg
+semi-soft_00979_b,semi-soft_00979,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),39,0.01386,moldy/semi-soft_00979_b.jpg
+semi-soft_00980_a,semi-soft_00980,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),61,0.01491,moldy/semi-soft_00980_a.jpg
+semi-soft_00980_b,semi-soft_00980,semi-soft,b,0,good,,0,0.0,good/semi-soft_00980_b.jpg
+semi-soft_00997_a,semi-soft_00997,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),39,0.01569,moldy/semi-soft_00997_a.jpg
+semi-soft_00997_b,semi-soft_00997,semi-soft,b,0,good,,0,0.0,good/semi-soft_00997_b.jpg
+semi-soft_00999_a,semi-soft_00999,semi-soft,a,1,moldy,黑曲霉 Aspergillus(niger),30,0.01238,moldy/semi-soft_00999_a.jpg
+semi-soft_00999_b,semi-soft_00999,semi-soft,b,0,good,,0,0.0,good/semi-soft_00999_b.jpg
+semi-soft_01010_a,semi-soft_01010,semi-soft,a,0,good,,0,0.0,good/semi-soft_01010_a.jpg
+semi-soft_01010_b,semi-soft_01010,semi-soft,b,1,moldy,黑曲霉 Aspergillus(niger),84,0.0395,moldy/semi-soft_01010_b.jpg
+semi-soft_01039_a,semi-soft_01039,semi-soft,a,0,good,,0,0.0,good/semi-soft_01039_a.jpg
+semi-soft_01039_b,semi-soft_01039,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),68,0.04014,moldy/semi-soft_01039_b.jpg
+semi-soft_01060_a,semi-soft_01060,semi-soft,a,0,good,,0,0.0,good/semi-soft_01060_a.jpg
+semi-soft_01060_b,semi-soft_01060,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),16,0.01657,moldy/semi-soft_01060_b.jpg
+semi-soft_01066_a,semi-soft_01066,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),17,0.01538,moldy/semi-soft_01066_a.jpg
+semi-soft_01066_b,semi-soft_01066,semi-soft,b,0,good,,0,0.0,good/semi-soft_01066_b.jpg
+semi-soft_01081_a,semi-soft_01081,semi-soft,a,0,good,,0,0.0,good/semi-soft_01081_a.jpg
+semi-soft_01081_b,semi-soft_01081,semi-soft,b,1,moldy,黑曲霉 Aspergillus(niger),79,0.09381,moldy/semi-soft_01081_b.jpg
+semi-soft_01086_a,semi-soft_01086,semi-soft,a,1,moldy,橄榄绿青霉 Penicillium(olive),45,0.01673,moldy/semi-soft_01086_a.jpg
+semi-soft_01086_b,semi-soft_01086,semi-soft,b,0,good,,0,0.0,good/semi-soft_01086_b.jpg
+semi-soft_01090_a,semi-soft_01090,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),49,0.03298,moldy/semi-soft_01090_a.jpg
+semi-soft_01090_b,semi-soft_01090,semi-soft,b,0,good,,0,0.0,good/semi-soft_01090_b.jpg
+semi-soft_01098_a,semi-soft_01098,semi-soft,a,0,good,,0,0.0,good/semi-soft_01098_a.jpg
+semi-soft_01098_b,semi-soft_01098,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),64,0.06149,moldy/semi-soft_01098_b.jpg
+semi-soft_01102_a,semi-soft_01102,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),41,0.01214,moldy/semi-soft_01102_a.jpg
+semi-soft_01102_b,semi-soft_01102,semi-soft,b,0,good,,0,0.0,good/semi-soft_01102_b.jpg
+semi-soft_01112_a,semi-soft_01112,semi-soft,a,0,good,,0,0.0,good/semi-soft_01112_a.jpg
+semi-soft_01112_b,semi-soft_01112,semi-soft,b,1,moldy,灰白绒霉 Penicillium(white),81,0.04978,moldy/semi-soft_01112_b.jpg
+semi-soft_01121_a,semi-soft_01121,semi-soft,a,1,moldy,蓝绿青霉 Penicillium(blue-green),43,0.01913,moldy/semi-soft_01121_a.jpg
+semi-soft_01121_b,semi-soft_01121,semi-soft,b,0,good,,0,0.0,good/semi-soft_01121_b.jpg
+semi-soft_01123_a,semi-soft_01123,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),20,0.00671,moldy/semi-soft_01123_a.jpg
+semi-soft_01123_b,semi-soft_01123,semi-soft,b,0,good,,0,0.0,good/semi-soft_01123_b.jpg
+semi-soft_01125_a,semi-soft_01125,semi-soft,a,1,moldy,粉红污染霉 Fusarium/yeast,41,0.04081,moldy/semi-soft_01125_a.jpg
+semi-soft_01125_b,semi-soft_01125,semi-soft,b,0,good,,0,0.0,good/semi-soft_01125_b.jpg
+semi-soft_01134_a,semi-soft_01134,semi-soft,a,0,good,,0,0.0,good/semi-soft_01134_a.jpg
+semi-soft_01134_b,semi-soft_01134,semi-soft,b,1,moldy,蓝绿青霉 Penicillium(blue-green),24,0.0419,moldy/semi-soft_01134_b.jpg
+fresh_01136_a,fresh_01136,fresh,a,0,good,,0,0.0,good/fresh_01136_a.jpg
+fresh_01136_b,fresh_01136,fresh,b,1,moldy,灰白绒霉 Penicillium(white),52,0.02054,moldy/fresh_01136_b.jpg
+fresh_01137_a,fresh_01137,fresh,a,0,good,,0,0.0,good/fresh_01137_a.jpg
+fresh_01137_b,fresh_01137,fresh,b,1,moldy,灰白绒霉 Penicillium(white),14,0.00591,moldy/fresh_01137_b.jpg
+fresh_01139_a,fresh_01139,fresh,a,0,good,,0,0.0,good/fresh_01139_a.jpg
+fresh_01139_b,fresh_01139,fresh,b,1,moldy,灰白绒霉 Penicillium(white),73,0.02164,moldy/fresh_01139_b.jpg
+fresh_01140_a,fresh_01140,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),67,0.02454,moldy/fresh_01140_a.jpg
+fresh_01140_b,fresh_01140,fresh,b,0,good,,0,0.0,good/fresh_01140_b.jpg
+fresh_01141_a,fresh_01141,fresh,a,0,good,,0,0.0,good/fresh_01141_a.jpg
+fresh_01141_b,fresh_01141,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),15,0.00974,moldy/fresh_01141_b.jpg
+fresh_01144_a,fresh_01144,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),51,0.0395,moldy/fresh_01144_a.jpg
+fresh_01144_b,fresh_01144,fresh,b,0,good,,0,0.0,good/fresh_01144_b.jpg
+fresh_01146_a,fresh_01146,fresh,a,0,good,,0,0.0,good/fresh_01146_a.jpg
+fresh_01146_b,fresh_01146,fresh,b,1,moldy,灰白绒霉 Penicillium(white),26,0.01794,moldy/fresh_01146_b.jpg
+fresh_01148_a,fresh_01148,fresh,a,1,moldy,粉红污染霉 Fusarium/yeast,63,0.07032,moldy/fresh_01148_a.jpg
+fresh_01148_b,fresh_01148,fresh,b,0,good,,0,0.0,good/fresh_01148_b.jpg
+fresh_01157_a,fresh_01157,fresh,a,0,good,,0,0.0,good/fresh_01157_a.jpg
+fresh_01157_b,fresh_01157,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),41,0.01773,moldy/fresh_01157_b.jpg
+fresh_01159_a,fresh_01159,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),35,0.02638,moldy/fresh_01159_a.jpg
+fresh_01159_b,fresh_01159,fresh,b,0,good,,0,0.0,good/fresh_01159_b.jpg
+fresh_01163_a,fresh_01163,fresh,a,0,good,,0,0.0,good/fresh_01163_a.jpg
+fresh_01163_b,fresh_01163,fresh,b,1,moldy,灰白绒霉 Penicillium(white),55,0.03363,moldy/fresh_01163_b.jpg
+fresh_01164_a,fresh_01164,fresh,a,0,good,,0,0.0,good/fresh_01164_a.jpg
+fresh_01164_b,fresh_01164,fresh,b,1,moldy,灰白绒霉 Penicillium(white),62,0.05184,moldy/fresh_01164_b.jpg
+fresh_01171_a,fresh_01171,fresh,a,1,moldy,灰白绒霉 Penicillium(white),25,0.01683,moldy/fresh_01171_a.jpg
+fresh_01171_b,fresh_01171,fresh,b,0,good,,0,0.0,good/fresh_01171_b.jpg
+fresh_01173_a,fresh_01173,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),67,0.07205,moldy/fresh_01173_a.jpg
+fresh_01173_b,fresh_01173,fresh,b,0,good,,0,0.0,good/fresh_01173_b.jpg
+fresh_01175_a,fresh_01175,fresh,a,0,good,,0,0.0,good/fresh_01175_a.jpg
+fresh_01175_b,fresh_01175,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),25,0.0079,moldy/fresh_01175_b.jpg
+fresh_01178_a,fresh_01178,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),55,0.02854,moldy/fresh_01178_a.jpg
+fresh_01178_b,fresh_01178,fresh,b,0,good,,0,0.0,good/fresh_01178_b.jpg
+fresh_01186_a,fresh_01186,fresh,a,1,moldy,粉红污染霉 Fusarium/yeast,31,0.04235,moldy/fresh_01186_a.jpg
+fresh_01186_b,fresh_01186,fresh,b,0,good,,0,0.0,good/fresh_01186_b.jpg
+fresh_01188_a,fresh_01188,fresh,a,1,moldy,灰白绒霉 Penicillium(white),72,0.04851,moldy/fresh_01188_a.jpg
+fresh_01188_b,fresh_01188,fresh,b,0,good,,0,0.0,good/fresh_01188_b.jpg
+fresh_01193_a,fresh_01193,fresh,a,0,good,,0,0.0,good/fresh_01193_a.jpg
+fresh_01193_b,fresh_01193,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),24,0.01656,moldy/fresh_01193_b.jpg
+fresh_01194_a,fresh_01194,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),72,0.01885,moldy/fresh_01194_a.jpg
+fresh_01194_b,fresh_01194,fresh,b,0,good,,0,0.0,good/fresh_01194_b.jpg
+fresh_01195_a,fresh_01195,fresh,a,0,good,,0,0.0,good/fresh_01195_a.jpg
+fresh_01195_b,fresh_01195,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,41,0.01324,moldy/fresh_01195_b.jpg
+fresh_01197_a,fresh_01197,fresh,a,1,moldy,灰白绒霉 Penicillium(white),83,0.0192,moldy/fresh_01197_a.jpg
+fresh_01197_b,fresh_01197,fresh,b,0,good,,0,0.0,good/fresh_01197_b.jpg
+fresh_01200_a,fresh_01200,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),17,0.00587,moldy/fresh_01200_a.jpg
+fresh_01200_b,fresh_01200,fresh,b,0,good,,0,0.0,good/fresh_01200_b.jpg
+fresh_01202_a,fresh_01202,fresh,a,1,moldy,灰白绒霉 Penicillium(white),51,0.01755,moldy/fresh_01202_a.jpg
+fresh_01202_b,fresh_01202,fresh,b,0,good,,0,0.0,good/fresh_01202_b.jpg
+fresh_01204_a,fresh_01204,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),21,0.01674,moldy/fresh_01204_a.jpg
+fresh_01204_b,fresh_01204,fresh,b,0,good,,0,0.0,good/fresh_01204_b.jpg
+fresh_01207_a,fresh_01207,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),42,0.03826,moldy/fresh_01207_a.jpg
+fresh_01207_b,fresh_01207,fresh,b,0,good,,0,0.0,good/fresh_01207_b.jpg
+fresh_01208_a,fresh_01208,fresh,a,0,good,,0,0.0,good/fresh_01208_a.jpg
+fresh_01208_b,fresh_01208,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),65,0.03713,moldy/fresh_01208_b.jpg
+fresh_01209_a,fresh_01209,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),17,0.00956,moldy/fresh_01209_a.jpg
+fresh_01209_b,fresh_01209,fresh,b,0,good,,0,0.0,good/fresh_01209_b.jpg
+fresh_01212_a,fresh_01212,fresh,a,0,good,,0,0.0,good/fresh_01212_a.jpg
+fresh_01212_b,fresh_01212,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,55,0.03944,moldy/fresh_01212_b.jpg
+fresh_01213_a,fresh_01213,fresh,a,0,good,,0,0.0,good/fresh_01213_a.jpg
+fresh_01213_b,fresh_01213,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),26,0.01223,moldy/fresh_01213_b.jpg
+fresh_01214_a,fresh_01214,fresh,a,1,moldy,灰白绒霉 Penicillium(white),52,0.05018,moldy/fresh_01214_a.jpg
+fresh_01214_b,fresh_01214,fresh,b,0,good,,0,0.0,good/fresh_01214_b.jpg
+fresh_01217_a,fresh_01217,fresh,a,0,good,,0,0.0,good/fresh_01217_a.jpg
+fresh_01217_b,fresh_01217,fresh,b,1,moldy,黑曲霉 Aspergillus(niger),45,0.03101,moldy/fresh_01217_b.jpg
+fresh_01218_a,fresh_01218,fresh,a,0,good,,0,0.0,good/fresh_01218_a.jpg
+fresh_01218_b,fresh_01218,fresh,b,1,moldy,灰白绒霉 Penicillium(white),68,0.03427,moldy/fresh_01218_b.jpg
+fresh_01222_a,fresh_01222,fresh,a,0,good,,0,0.0,good/fresh_01222_a.jpg
+fresh_01222_b,fresh_01222,fresh,b,1,moldy,黑曲霉 Aspergillus(niger),21,0.01726,moldy/fresh_01222_b.jpg
+fresh_01223_a,fresh_01223,fresh,a,1,moldy,灰白绒霉 Penicillium(white),31,0.03481,moldy/fresh_01223_a.jpg
+fresh_01223_b,fresh_01223,fresh,b,0,good,,0,0.0,good/fresh_01223_b.jpg
+fresh_01227_a,fresh_01227,fresh,a,0,good,,0,0.0,good/fresh_01227_a.jpg
+fresh_01227_b,fresh_01227,fresh,b,1,moldy,灰白绒霉 Penicillium(white),50,0.02002,moldy/fresh_01227_b.jpg
+fresh_01230_a,fresh_01230,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),45,0.04268,moldy/fresh_01230_a.jpg
+fresh_01230_b,fresh_01230,fresh,b,0,good,,0,0.0,good/fresh_01230_b.jpg
+fresh_01231_a,fresh_01231,fresh,a,0,good,,0,0.0,good/fresh_01231_a.jpg
+fresh_01231_b,fresh_01231,fresh,b,1,moldy,灰白绒霉 Penicillium(white),31,0.01882,moldy/fresh_01231_b.jpg
+fresh_01232_a,fresh_01232,fresh,a,0,good,,0,0.0,good/fresh_01232_a.jpg
+fresh_01232_b,fresh_01232,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),14,0.00441,moldy/fresh_01232_b.jpg
+fresh_01233_a,fresh_01233,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),18,0.02074,moldy/fresh_01233_a.jpg
+fresh_01233_b,fresh_01233,fresh,b,0,good,,0,0.0,good/fresh_01233_b.jpg
+fresh_01235_a,fresh_01235,fresh,a,0,good,,0,0.0,good/fresh_01235_a.jpg
+fresh_01235_b,fresh_01235,fresh,b,1,moldy,灰白绒霉 Penicillium(white),23,0.01252,moldy/fresh_01235_b.jpg
+fresh_01239_a,fresh_01239,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),46,0.04456,moldy/fresh_01239_a.jpg
+fresh_01239_b,fresh_01239,fresh,b,0,good,,0,0.0,good/fresh_01239_b.jpg
+fresh_01243_a,fresh_01243,fresh,a,0,good,,0,0.0,good/fresh_01243_a.jpg
+fresh_01243_b,fresh_01243,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),46,0.04941,moldy/fresh_01243_b.jpg
+fresh_01244_a,fresh_01244,fresh,a,0,good,,0,0.0,good/fresh_01244_a.jpg
+fresh_01244_b,fresh_01244,fresh,b,1,moldy,灰白绒霉 Penicillium(white),13,0.0171,moldy/fresh_01244_b.jpg
+fresh_01246_a,fresh_01246,fresh,a,0,good,,0,0.0,good/fresh_01246_a.jpg
+fresh_01246_b,fresh_01246,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),77,0.04943,moldy/fresh_01246_b.jpg
+fresh_01255_a,fresh_01255,fresh,a,0,good,,0,0.0,good/fresh_01255_a.jpg
+fresh_01255_b,fresh_01255,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),10,0.01237,moldy/fresh_01255_b.jpg
+fresh_01256_a,fresh_01256,fresh,a,1,moldy,灰白绒霉 Penicillium(white),68,0.02481,moldy/fresh_01256_a.jpg
+fresh_01256_b,fresh_01256,fresh,b,0,good,,0,0.0,good/fresh_01256_b.jpg
+fresh_01265_a,fresh_01265,fresh,a,1,moldy,粉红污染霉 Fusarium/yeast,22,0.01766,moldy/fresh_01265_a.jpg
+fresh_01265_b,fresh_01265,fresh,b,0,good,,0,0.0,good/fresh_01265_b.jpg
+fresh_01267_a,fresh_01267,fresh,a,0,good,,0,0.0,good/fresh_01267_a.jpg
+fresh_01267_b,fresh_01267,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),48,0.01824,moldy/fresh_01267_b.jpg
+fresh_01269_a,fresh_01269,fresh,a,0,good,,0,0.0,good/fresh_01269_a.jpg
+fresh_01269_b,fresh_01269,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),14,0.01443,moldy/fresh_01269_b.jpg
+fresh_01273_a,fresh_01273,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),62,0.0151,moldy/fresh_01273_a.jpg
+fresh_01273_b,fresh_01273,fresh,b,0,good,,0,0.0,good/fresh_01273_b.jpg
+fresh_01277_a,fresh_01277,fresh,a,0,good,,0,0.0,good/fresh_01277_a.jpg
+fresh_01277_b,fresh_01277,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),21,0.01939,moldy/fresh_01277_b.jpg
+fresh_01280_a,fresh_01280,fresh,a,0,good,,0,0.0,good/fresh_01280_a.jpg
+fresh_01280_b,fresh_01280,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,54,0.06945,moldy/fresh_01280_b.jpg
+fresh_01285_a,fresh_01285,fresh,a,1,moldy,灰白绒霉 Penicillium(white),47,0.04614,moldy/fresh_01285_a.jpg
+fresh_01285_b,fresh_01285,fresh,b,0,good,,0,0.0,good/fresh_01285_b.jpg
+fresh_01287_a,fresh_01287,fresh,a,1,moldy,灰白绒霉 Penicillium(white),9,0.00836,moldy/fresh_01287_a.jpg
+fresh_01287_b,fresh_01287,fresh,b,0,good,,0,0.0,good/fresh_01287_b.jpg
+fresh_01292_a,fresh_01292,fresh,a,1,moldy,灰白绒霉 Penicillium(white),27,0.01827,moldy/fresh_01292_a.jpg
+fresh_01292_b,fresh_01292,fresh,b,0,good,,0,0.0,good/fresh_01292_b.jpg
+fresh_01294_a,fresh_01294,fresh,a,0,good,,0,0.0,good/fresh_01294_a.jpg
+fresh_01294_b,fresh_01294,fresh,b,1,moldy,灰白绒霉 Penicillium(white),51,0.03578,moldy/fresh_01294_b.jpg
+fresh_01296_a,fresh_01296,fresh,a,0,good,,0,0.0,good/fresh_01296_a.jpg
+fresh_01296_b,fresh_01296,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),56,0.01005,moldy/fresh_01296_b.jpg
+fresh_01298_a,fresh_01298,fresh,a,1,moldy,灰白绒霉 Penicillium(white),72,0.03302,moldy/fresh_01298_a.jpg
+fresh_01298_b,fresh_01298,fresh,b,0,good,,0,0.0,good/fresh_01298_b.jpg
+fresh_01299_a,fresh_01299,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),33,0.0261,moldy/fresh_01299_a.jpg
+fresh_01299_b,fresh_01299,fresh,b,0,good,,0,0.0,good/fresh_01299_b.jpg
+fresh_01301_a,fresh_01301,fresh,a,1,moldy,粉红污染霉 Fusarium/yeast,65,0.0469,moldy/fresh_01301_a.jpg
+fresh_01301_b,fresh_01301,fresh,b,0,good,,0,0.0,good/fresh_01301_b.jpg
+fresh_01302_a,fresh_01302,fresh,a,0,good,,0,0.0,good/fresh_01302_a.jpg
+fresh_01302_b,fresh_01302,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),46,0.02819,moldy/fresh_01302_b.jpg
+fresh_01303_a,fresh_01303,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),28,0.0443,moldy/fresh_01303_a.jpg
+fresh_01303_b,fresh_01303,fresh,b,0,good,,0,0.0,good/fresh_01303_b.jpg
+fresh_01305_a,fresh_01305,fresh,a,0,good,,0,0.0,good/fresh_01305_a.jpg
+fresh_01305_b,fresh_01305,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),55,0.04316,moldy/fresh_01305_b.jpg
+fresh_01306_a,fresh_01306,fresh,a,1,moldy,灰白绒霉 Penicillium(white),41,0.03852,moldy/fresh_01306_a.jpg
+fresh_01306_b,fresh_01306,fresh,b,0,good,,0,0.0,good/fresh_01306_b.jpg
+fresh_01309_a,fresh_01309,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),44,0.04226,moldy/fresh_01309_a.jpg
+fresh_01309_b,fresh_01309,fresh,b,0,good,,0,0.0,good/fresh_01309_b.jpg
+fresh_01314_a,fresh_01314,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),72,0.0553,moldy/fresh_01314_a.jpg
+fresh_01314_b,fresh_01314,fresh,b,0,good,,0,0.0,good/fresh_01314_b.jpg
+fresh_01317_a,fresh_01317,fresh,a,0,good,,0,0.0,good/fresh_01317_a.jpg
+fresh_01317_b,fresh_01317,fresh,b,1,moldy,灰白绒霉 Penicillium(white),26,0.01965,moldy/fresh_01317_b.jpg
+fresh_01318_a,fresh_01318,fresh,a,0,good,,0,0.0,good/fresh_01318_a.jpg
+fresh_01318_b,fresh_01318,fresh,b,1,moldy,灰白绒霉 Penicillium(white),43,0.03258,moldy/fresh_01318_b.jpg
+fresh_01319_a,fresh_01319,fresh,a,0,good,,0,0.0,good/fresh_01319_a.jpg
+fresh_01319_b,fresh_01319,fresh,b,1,moldy,黑曲霉 Aspergillus(niger),45,0.03502,moldy/fresh_01319_b.jpg
+fresh_01322_a,fresh_01322,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),39,0.04498,moldy/fresh_01322_a.jpg
+fresh_01322_b,fresh_01322,fresh,b,0,good,,0,0.0,good/fresh_01322_b.jpg
+fresh_01329_a,fresh_01329,fresh,a,1,moldy,灰白绒霉 Penicillium(white),50,0.0215,moldy/fresh_01329_a.jpg
+fresh_01329_b,fresh_01329,fresh,b,0,good,,0,0.0,good/fresh_01329_b.jpg
+fresh_01330_a,fresh_01330,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),52,0.01659,moldy/fresh_01330_a.jpg
+fresh_01330_b,fresh_01330,fresh,b,0,good,,0,0.0,good/fresh_01330_b.jpg
+fresh_01332_a,fresh_01332,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),34,0.01903,moldy/fresh_01332_a.jpg
+fresh_01332_b,fresh_01332,fresh,b,0,good,,0,0.0,good/fresh_01332_b.jpg
+fresh_01333_a,fresh_01333,fresh,a,0,good,,0,0.0,good/fresh_01333_a.jpg
+fresh_01333_b,fresh_01333,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),14,0.01023,moldy/fresh_01333_b.jpg
+fresh_01334_a,fresh_01334,fresh,a,1,moldy,灰白绒霉 Penicillium(white),60,0.02938,moldy/fresh_01334_a.jpg
+fresh_01334_b,fresh_01334,fresh,b,0,good,,0,0.0,good/fresh_01334_b.jpg
+fresh_01335_a,fresh_01335,fresh,a,1,moldy,灰白绒霉 Penicillium(white),49,0.01101,moldy/fresh_01335_a.jpg
+fresh_01335_b,fresh_01335,fresh,b,0,good,,0,0.0,good/fresh_01335_b.jpg
+fresh_01336_a,fresh_01336,fresh,a,0,good,,0,0.0,good/fresh_01336_a.jpg
+fresh_01336_b,fresh_01336,fresh,b,1,moldy,灰白绒霉 Penicillium(white),29,0.01315,moldy/fresh_01336_b.jpg
+fresh_01337_a,fresh_01337,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),64,0.04098,moldy/fresh_01337_a.jpg
+fresh_01337_b,fresh_01337,fresh,b,0,good,,0,0.0,good/fresh_01337_b.jpg
+fresh_01339_a,fresh_01339,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),64,0.0787,moldy/fresh_01339_a.jpg
+fresh_01339_b,fresh_01339,fresh,b,0,good,,0,0.0,good/fresh_01339_b.jpg
+fresh_01340_a,fresh_01340,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),13,0.0165,moldy/fresh_01340_a.jpg
+fresh_01340_b,fresh_01340,fresh,b,0,good,,0,0.0,good/fresh_01340_b.jpg
+fresh_01344_a,fresh_01344,fresh,a,0,good,,0,0.0,good/fresh_01344_a.jpg
+fresh_01344_b,fresh_01344,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,25,0.02171,moldy/fresh_01344_b.jpg
+fresh_01348_a,fresh_01348,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),20,0.01663,moldy/fresh_01348_a.jpg
+fresh_01348_b,fresh_01348,fresh,b,0,good,,0,0.0,good/fresh_01348_b.jpg
+fresh_01349_a,fresh_01349,fresh,a,0,good,,0,0.0,good/fresh_01349_a.jpg
+fresh_01349_b,fresh_01349,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),74,0.03508,moldy/fresh_01349_b.jpg
+semi-soft_01007_a,semi-soft_01007,semi-soft,a,1,moldy,粉红污染霉 Fusarium/yeast,65,0.05779,moldy/semi-soft_01007_a.jpg
+semi-soft_01007_b,semi-soft_01007,semi-soft,b,0,good,,0,0.0,good/semi-soft_01007_b.jpg
+semi-soft_01012_a,semi-soft_01012,semi-soft,a,0,good,,0,0.0,good/semi-soft_01012_a.jpg
+semi-soft_01012_b,semi-soft_01012,semi-soft,b,1,moldy,黑曲霉 Aspergillus(niger),51,0.01781,moldy/semi-soft_01012_b.jpg
+semi-soft_01040_a,semi-soft_01040,semi-soft,a,0,good,,0,0.0,good/semi-soft_01040_a.jpg
+semi-soft_01040_b,semi-soft_01040,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),34,0.02836,moldy/semi-soft_01040_b.jpg
+semi-soft_01044_a,semi-soft_01044,semi-soft,a,0,good,,0,0.0,good/semi-soft_01044_a.jpg
+semi-soft_01044_b,semi-soft_01044,semi-soft,b,1,moldy,橄榄绿青霉 Penicillium(olive),34,0.01212,moldy/semi-soft_01044_b.jpg
+semi-soft_01049_a,semi-soft_01049,semi-soft,a,1,moldy,灰白绒霉 Penicillium(white),44,0.03797,moldy/semi-soft_01049_a.jpg
+semi-soft_01049_b,semi-soft_01049,semi-soft,b,0,good,,0,0.0,good/semi-soft_01049_b.jpg
+fresh_01434_a,fresh_01434,fresh,a,0,good,,0,0.0,good/fresh_01434_a.jpg
+fresh_01434_b,fresh_01434,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),34,0.02526,moldy/fresh_01434_b.jpg
+fresh_01434_c,fresh_01434,fresh,c,0,good,,0,0.0,good/fresh_01434_c.jpg
+fresh_01434_d,fresh_01434,fresh,d,1,moldy,粉红污染霉 Fusarium/yeast,56,0.04295,moldy/fresh_01434_d.jpg
+fresh_01525_a,fresh_01525,fresh,a,0,good,,0,0.0,good/fresh_01525_a.jpg
+fresh_01525_b,fresh_01525,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),24,0.02853,moldy/fresh_01525_b.jpg
+fresh_01526_a,fresh_01526,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),75,0.06714,moldy/fresh_01526_a.jpg
+fresh_01526_b,fresh_01526,fresh,b,0,good,,0,0.0,good/fresh_01526_b.jpg
+fresh_01632_a,fresh_01632,fresh,a,1,moldy,灰白绒霉 Penicillium(white),22,0.01044,moldy/fresh_01632_a.jpg
+fresh_01632_b,fresh_01632,fresh,b,0,good,,0,0.0,good/fresh_01632_b.jpg
+fresh_01700_a,fresh_01700,fresh,a,1,moldy,灰白绒霉 Penicillium(white),55,0.01608,moldy/fresh_01700_a.jpg
+fresh_01700_b,fresh_01700,fresh,b,0,good,,0,0.0,good/fresh_01700_b.jpg
+washed-rind_01748_a,washed-rind_01748,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),23,0.00849,moldy/washed-rind_01748_a.jpg
+washed-rind_01748_b,washed-rind_01748,washed-rind,b,0,good,,0,0.0,good/washed-rind_01748_b.jpg
+washed-rind_01752_a,washed-rind_01752,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),34,0.02354,moldy/washed-rind_01752_a.jpg
+washed-rind_01752_b,washed-rind_01752,washed-rind,b,0,good,,0,0.0,good/washed-rind_01752_b.jpg
+washed-rind_01754_a,washed-rind_01754,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),70,0.04527,moldy/washed-rind_01754_a.jpg
+washed-rind_01754_b,washed-rind_01754,washed-rind,b,0,good,,0,0.0,good/washed-rind_01754_b.jpg
+washed-rind_01757_a,washed-rind_01757,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),38,0.01518,moldy/washed-rind_01757_a.jpg
+washed-rind_01757_b,washed-rind_01757,washed-rind,b,0,good,,0,0.0,good/washed-rind_01757_b.jpg
+washed-rind_01763_a,washed-rind_01763,washed-rind,a,0,good,,0,0.0,good/washed-rind_01763_a.jpg
+washed-rind_01763_b,washed-rind_01763,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),46,0.03334,moldy/washed-rind_01763_b.jpg
+washed-rind_01767_a,washed-rind_01767,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),45,0.02146,moldy/washed-rind_01767_a.jpg
+washed-rind_01767_b,washed-rind_01767,washed-rind,b,0,good,,0,0.0,good/washed-rind_01767_b.jpg
+fresh_01351_a,fresh_01351,fresh,a,0,good,,0,0.0,good/fresh_01351_a.jpg
+fresh_01351_b,fresh_01351,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),87,0.02389,moldy/fresh_01351_b.jpg
+fresh_01352_a,fresh_01352,fresh,a,0,good,,0,0.0,good/fresh_01352_a.jpg
+fresh_01352_b,fresh_01352,fresh,b,1,moldy,灰白绒霉 Penicillium(white),26,0.00819,moldy/fresh_01352_b.jpg
+fresh_01353_a,fresh_01353,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),38,0.02027,moldy/fresh_01353_a.jpg
+fresh_01353_b,fresh_01353,fresh,b,0,good,,0,0.0,good/fresh_01353_b.jpg
+fresh_01361_a,fresh_01361,fresh,a,0,good,,0,0.0,good/fresh_01361_a.jpg
+fresh_01361_b,fresh_01361,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),45,0.06422,moldy/fresh_01361_b.jpg
+fresh_01362_a,fresh_01362,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),67,0.07066,moldy/fresh_01362_a.jpg
+fresh_01362_b,fresh_01362,fresh,b,0,good,,0,0.0,good/fresh_01362_b.jpg
+fresh_01372_a,fresh_01372,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),77,0.02553,moldy/fresh_01372_a.jpg
+fresh_01372_b,fresh_01372,fresh,b,0,good,,0,0.0,good/fresh_01372_b.jpg
+fresh_01373_a,fresh_01373,fresh,a,1,moldy,灰白绒霉 Penicillium(white),56,0.04884,moldy/fresh_01373_a.jpg
+fresh_01373_b,fresh_01373,fresh,b,0,good,,0,0.0,good/fresh_01373_b.jpg
+fresh_01376_a,fresh_01376,fresh,a,0,good,,0,0.0,good/fresh_01376_a.jpg
+fresh_01376_b,fresh_01376,fresh,b,1,moldy,灰白绒霉 Penicillium(white),23,0.0094,moldy/fresh_01376_b.jpg
+fresh_01381_a,fresh_01381,fresh,a,0,good,,0,0.0,good/fresh_01381_a.jpg
+fresh_01381_b,fresh_01381,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),62,0.05442,moldy/fresh_01381_b.jpg
+fresh_01385_a,fresh_01385,fresh,a,0,good,,0,0.0,good/fresh_01385_a.jpg
+fresh_01385_b,fresh_01385,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),11,0.0172,moldy/fresh_01385_b.jpg
+fresh_01388_a,fresh_01388,fresh,a,0,good,,0,0.0,good/fresh_01388_a.jpg
+fresh_01388_b,fresh_01388,fresh,b,1,moldy,灰白绒霉 Penicillium(white),34,0.01352,moldy/fresh_01388_b.jpg
+fresh_01390_a,fresh_01390,fresh,a,0,good,,0,0.0,good/fresh_01390_a.jpg
+fresh_01390_b,fresh_01390,fresh,b,1,moldy,灰白绒霉 Penicillium(white),55,0.0247,moldy/fresh_01390_b.jpg
+fresh_01397_a,fresh_01397,fresh,a,0,good,,0,0.0,good/fresh_01397_a.jpg
+fresh_01397_b,fresh_01397,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),12,0.00884,moldy/fresh_01397_b.jpg
+fresh_01398_a,fresh_01398,fresh,a,0,good,,0,0.0,good/fresh_01398_a.jpg
+fresh_01398_b,fresh_01398,fresh,b,1,moldy,黑曲霉 Aspergillus(niger),38,0.01413,moldy/fresh_01398_b.jpg
+fresh_01402_a,fresh_01402,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),22,0.01407,moldy/fresh_01402_a.jpg
+fresh_01402_b,fresh_01402,fresh,b,0,good,,0,0.0,good/fresh_01402_b.jpg
+fresh_01405_a,fresh_01405,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),51,0.04244,moldy/fresh_01405_a.jpg
+fresh_01405_b,fresh_01405,fresh,b,0,good,,0,0.0,good/fresh_01405_b.jpg
+fresh_01406_a,fresh_01406,fresh,a,0,good,,0,0.0,good/fresh_01406_a.jpg
+fresh_01406_b,fresh_01406,fresh,b,1,moldy,灰白绒霉 Penicillium(white),54,0.01402,moldy/fresh_01406_b.jpg
+fresh_01407_a,fresh_01407,fresh,a,0,good,,0,0.0,good/fresh_01407_a.jpg
+fresh_01407_b,fresh_01407,fresh,b,1,moldy,灰白绒霉 Penicillium(white),18,0.02622,moldy/fresh_01407_b.jpg
+fresh_01408_a,fresh_01408,fresh,a,0,good,,0,0.0,good/fresh_01408_a.jpg
+fresh_01408_b,fresh_01408,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),47,0.01084,moldy/fresh_01408_b.jpg
+fresh_01411_a,fresh_01411,fresh,a,0,good,,0,0.0,good/fresh_01411_a.jpg
+fresh_01411_b,fresh_01411,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),11,0.00392,moldy/fresh_01411_b.jpg
+fresh_01412_a,fresh_01412,fresh,a,0,good,,0,0.0,good/fresh_01412_a.jpg
+fresh_01412_b,fresh_01412,fresh,b,1,moldy,灰白绒霉 Penicillium(white),30,0.01246,moldy/fresh_01412_b.jpg
+fresh_01413_a,fresh_01413,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),22,0.00409,moldy/fresh_01413_a.jpg
+fresh_01413_b,fresh_01413,fresh,b,0,good,,0,0.0,good/fresh_01413_b.jpg
+fresh_01415_a,fresh_01415,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),48,0.02343,moldy/fresh_01415_a.jpg
+fresh_01415_b,fresh_01415,fresh,b,0,good,,0,0.0,good/fresh_01415_b.jpg
+fresh_01417_a,fresh_01417,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),27,0.02233,moldy/fresh_01417_a.jpg
+fresh_01417_b,fresh_01417,fresh,b,0,good,,0,0.0,good/fresh_01417_b.jpg
+fresh_01420_a,fresh_01420,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),17,0.00883,moldy/fresh_01420_a.jpg
+fresh_01420_b,fresh_01420,fresh,b,0,good,,0,0.0,good/fresh_01420_b.jpg
+fresh_01425_a,fresh_01425,fresh,a,1,moldy,灰白绒霉 Penicillium(white),66,0.04795,moldy/fresh_01425_a.jpg
+fresh_01425_b,fresh_01425,fresh,b,0,good,,0,0.0,good/fresh_01425_b.jpg
+fresh_01429_a,fresh_01429,fresh,a,1,moldy,灰白绒霉 Penicillium(white),24,0.01791,moldy/fresh_01429_a.jpg
+fresh_01429_b,fresh_01429,fresh,b,0,good,,0,0.0,good/fresh_01429_b.jpg
+fresh_01437_a,fresh_01437,fresh,a,1,moldy,灰白绒霉 Penicillium(white),60,0.0698,moldy/fresh_01437_a.jpg
+fresh_01437_b,fresh_01437,fresh,b,0,good,,0,0.0,good/fresh_01437_b.jpg
+fresh_01438_a,fresh_01438,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),71,0.07504,moldy/fresh_01438_a.jpg
+fresh_01438_b,fresh_01438,fresh,b,0,good,,0,0.0,good/fresh_01438_b.jpg
+fresh_01446_a,fresh_01446,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),56,0.02578,moldy/fresh_01446_a.jpg
+fresh_01446_b,fresh_01446,fresh,b,0,good,,0,0.0,good/fresh_01446_b.jpg
+fresh_01447_a,fresh_01447,fresh,a,0,good,,0,0.0,good/fresh_01447_a.jpg
+fresh_01447_b,fresh_01447,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),35,0.03755,moldy/fresh_01447_b.jpg
+fresh_01448_a,fresh_01448,fresh,a,0,good,,0,0.0,good/fresh_01448_a.jpg
+fresh_01448_b,fresh_01448,fresh,b,1,moldy,灰白绒霉 Penicillium(white),32,0.00908,moldy/fresh_01448_b.jpg
+fresh_01449_a,fresh_01449,fresh,a,0,good,,0,0.0,good/fresh_01449_a.jpg
+fresh_01449_b,fresh_01449,fresh,b,1,moldy,灰白绒霉 Penicillium(white),55,0.02636,moldy/fresh_01449_b.jpg
+fresh_01451_a,fresh_01451,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),10,0.01095,moldy/fresh_01451_a.jpg
+fresh_01451_b,fresh_01451,fresh,b,0,good,,0,0.0,good/fresh_01451_b.jpg
+fresh_01453_a,fresh_01453,fresh,a,1,moldy,灰白绒霉 Penicillium(white),62,0.02947,moldy/fresh_01453_a.jpg
+fresh_01453_b,fresh_01453,fresh,b,0,good,,0,0.0,good/fresh_01453_b.jpg
+fresh_01459_a,fresh_01459,fresh,a,0,good,,0,0.0,good/fresh_01459_a.jpg
+fresh_01459_b,fresh_01459,fresh,b,1,moldy,黑曲霉 Aspergillus(niger),59,0.02232,moldy/fresh_01459_b.jpg
+fresh_01464_a,fresh_01464,fresh,a,0,good,,0,0.0,good/fresh_01464_a.jpg
+fresh_01464_b,fresh_01464,fresh,b,1,moldy,灰白绒霉 Penicillium(white),42,0.04062,moldy/fresh_01464_b.jpg
+fresh_01465_a,fresh_01465,fresh,a,1,moldy,粉红污染霉 Fusarium/yeast,50,0.03328,moldy/fresh_01465_a.jpg
+fresh_01465_b,fresh_01465,fresh,b,0,good,,0,0.0,good/fresh_01465_b.jpg
+fresh_01471_a,fresh_01471,fresh,a,0,good,,0,0.0,good/fresh_01471_a.jpg
+fresh_01471_b,fresh_01471,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),43,0.01824,moldy/fresh_01471_b.jpg
+fresh_01473_a,fresh_01473,fresh,a,0,good,,0,0.0,good/fresh_01473_a.jpg
+fresh_01473_b,fresh_01473,fresh,b,1,moldy,黑曲霉 Aspergillus(niger),50,0.02403,moldy/fresh_01473_b.jpg
+fresh_01475_a,fresh_01475,fresh,a,0,good,,0,0.0,good/fresh_01475_a.jpg
+fresh_01475_b,fresh_01475,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),54,0.05401,moldy/fresh_01475_b.jpg
+fresh_01478_a,fresh_01478,fresh,a,1,moldy,灰白绒霉 Penicillium(white),53,0.02624,moldy/fresh_01478_a.jpg
+fresh_01478_b,fresh_01478,fresh,b,0,good,,0,0.0,good/fresh_01478_b.jpg
+fresh_01480_a,fresh_01480,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),64,0.05005,moldy/fresh_01480_a.jpg
+fresh_01480_b,fresh_01480,fresh,b,0,good,,0,0.0,good/fresh_01480_b.jpg
+fresh_01481_a,fresh_01481,fresh,a,1,moldy,灰白绒霉 Penicillium(white),52,0.04986,moldy/fresh_01481_a.jpg
+fresh_01481_b,fresh_01481,fresh,b,0,good,,0,0.0,good/fresh_01481_b.jpg
+fresh_01482_a,fresh_01482,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),56,0.04614,moldy/fresh_01482_a.jpg
+fresh_01482_b,fresh_01482,fresh,b,0,good,,0,0.0,good/fresh_01482_b.jpg
+fresh_01483_a,fresh_01483,fresh,a,0,good,,0,0.0,good/fresh_01483_a.jpg
+fresh_01483_b,fresh_01483,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),42,0.02594,moldy/fresh_01483_b.jpg
+fresh_01484_a,fresh_01484,fresh,a,0,good,,0,0.0,good/fresh_01484_a.jpg
+fresh_01484_b,fresh_01484,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,51,0.03743,moldy/fresh_01484_b.jpg
+fresh_01486_a,fresh_01486,fresh,a,0,good,,0,0.0,good/fresh_01486_a.jpg
+fresh_01486_b,fresh_01486,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),44,0.02095,moldy/fresh_01486_b.jpg
+fresh_01487_a,fresh_01487,fresh,a,1,moldy,灰白绒霉 Penicillium(white),33,0.0165,moldy/fresh_01487_a.jpg
+fresh_01487_b,fresh_01487,fresh,b,0,good,,0,0.0,good/fresh_01487_b.jpg
+fresh_01488_a,fresh_01488,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),53,0.05613,moldy/fresh_01488_a.jpg
+fresh_01488_b,fresh_01488,fresh,b,0,good,,0,0.0,good/fresh_01488_b.jpg
+fresh_01490_a,fresh_01490,fresh,a,0,good,,0,0.0,good/fresh_01490_a.jpg
+fresh_01490_b,fresh_01490,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),70,0.02764,moldy/fresh_01490_b.jpg
+fresh_01497_a,fresh_01497,fresh,a,0,good,,0,0.0,good/fresh_01497_a.jpg
+fresh_01497_b,fresh_01497,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),71,0.0686,moldy/fresh_01497_b.jpg
+fresh_01501_a,fresh_01501,fresh,a,0,good,,0,0.0,good/fresh_01501_a.jpg
+fresh_01501_b,fresh_01501,fresh,b,1,moldy,灰白绒霉 Penicillium(white),53,0.02375,moldy/fresh_01501_b.jpg
+fresh_01503_a,fresh_01503,fresh,a,0,good,,0,0.0,good/fresh_01503_a.jpg
+fresh_01503_b,fresh_01503,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),15,0.00384,moldy/fresh_01503_b.jpg
+fresh_01504_a,fresh_01504,fresh,a,1,moldy,粉红污染霉 Fusarium/yeast,41,0.01865,moldy/fresh_01504_a.jpg
+fresh_01504_b,fresh_01504,fresh,b,0,good,,0,0.0,good/fresh_01504_b.jpg
+fresh_01507_a,fresh_01507,fresh,a,0,good,,0,0.0,good/fresh_01507_a.jpg
+fresh_01507_b,fresh_01507,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),31,0.02109,moldy/fresh_01507_b.jpg
+fresh_01512_a,fresh_01512,fresh,a,0,good,,0,0.0,good/fresh_01512_a.jpg
+fresh_01512_b,fresh_01512,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),60,0.0292,moldy/fresh_01512_b.jpg
+fresh_01514_a,fresh_01514,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),12,0.01391,moldy/fresh_01514_a.jpg
+fresh_01514_b,fresh_01514,fresh,b,0,good,,0,0.0,good/fresh_01514_b.jpg
+fresh_01517_a,fresh_01517,fresh,a,0,good,,0,0.0,good/fresh_01517_a.jpg
+fresh_01517_b,fresh_01517,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),40,0.03726,moldy/fresh_01517_b.jpg
+fresh_01521_a,fresh_01521,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),52,0.0382,moldy/fresh_01521_a.jpg
+fresh_01521_b,fresh_01521,fresh,b,0,good,,0,0.0,good/fresh_01521_b.jpg
+fresh_01523_a,fresh_01523,fresh,a,0,good,,0,0.0,good/fresh_01523_a.jpg
+fresh_01523_b,fresh_01523,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),63,0.01517,moldy/fresh_01523_b.jpg
+fresh_01524_a,fresh_01524,fresh,a,0,good,,0,0.0,good/fresh_01524_a.jpg
+fresh_01524_b,fresh_01524,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),64,0.02056,moldy/fresh_01524_b.jpg
+fresh_01528_a,fresh_01528,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),23,0.01133,moldy/fresh_01528_a.jpg
+fresh_01528_b,fresh_01528,fresh,b,0,good,,0,0.0,good/fresh_01528_b.jpg
+fresh_01529_a,fresh_01529,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),14,0.01153,moldy/fresh_01529_a.jpg
+fresh_01529_b,fresh_01529,fresh,b,0,good,,0,0.0,good/fresh_01529_b.jpg
+fresh_01532_a,fresh_01532,fresh,a,0,good,,0,0.0,good/fresh_01532_a.jpg
+fresh_01532_b,fresh_01532,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),20,0.00697,moldy/fresh_01532_b.jpg
+fresh_01535_a,fresh_01535,fresh,a,0,good,,0,0.0,good/fresh_01535_a.jpg
+fresh_01535_b,fresh_01535,fresh,b,1,moldy,黑曲霉 Aspergillus(niger),82,0.07137,moldy/fresh_01535_b.jpg
+fresh_01539_a,fresh_01539,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),59,0.07494,moldy/fresh_01539_a.jpg
+fresh_01539_b,fresh_01539,fresh,b,0,good,,0,0.0,good/fresh_01539_b.jpg
+fresh_01542_a,fresh_01542,fresh,a,1,moldy,灰白绒霉 Penicillium(white),34,0.0431,moldy/fresh_01542_a.jpg
+fresh_01542_b,fresh_01542,fresh,b,0,good,,0,0.0,good/fresh_01542_b.jpg
+fresh_01544_a,fresh_01544,fresh,a,0,good,,0,0.0,good/fresh_01544_a.jpg
+fresh_01544_b,fresh_01544,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),30,0.01192,moldy/fresh_01544_b.jpg
+fresh_01545_a,fresh_01545,fresh,a,0,good,,0,0.0,good/fresh_01545_a.jpg
+fresh_01545_b,fresh_01545,fresh,b,1,moldy,黑曲霉 Aspergillus(niger),62,0.03691,moldy/fresh_01545_b.jpg
+fresh_01549_a,fresh_01549,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),68,0.0635,moldy/fresh_01549_a.jpg
+fresh_01549_b,fresh_01549,fresh,b,0,good,,0,0.0,good/fresh_01549_b.jpg
+fresh_01550_a,fresh_01550,fresh,a,0,good,,0,0.0,good/fresh_01550_a.jpg
+fresh_01550_b,fresh_01550,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),24,0.02488,moldy/fresh_01550_b.jpg
+fresh_01553_a,fresh_01553,fresh,a,0,good,,0,0.0,good/fresh_01553_a.jpg
+fresh_01553_b,fresh_01553,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),44,0.01813,moldy/fresh_01553_b.jpg
+fresh_01554_a,fresh_01554,fresh,a,0,good,,0,0.0,good/fresh_01554_a.jpg
+fresh_01554_b,fresh_01554,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),64,0.06205,moldy/fresh_01554_b.jpg
+fresh_01556_a,fresh_01556,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),28,0.0158,moldy/fresh_01556_a.jpg
+fresh_01556_b,fresh_01556,fresh,b,0,good,,0,0.0,good/fresh_01556_b.jpg
+fresh_01559_a,fresh_01559,fresh,a,0,good,,0,0.0,good/fresh_01559_a.jpg
+fresh_01559_b,fresh_01559,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,71,0.04259,moldy/fresh_01559_b.jpg
+fresh_01560_a,fresh_01560,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),47,0.0421,moldy/fresh_01560_a.jpg
+fresh_01560_b,fresh_01560,fresh,b,0,good,,0,0.0,good/fresh_01560_b.jpg
+fresh_01564_a,fresh_01564,fresh,a,0,good,,0,0.0,good/fresh_01564_a.jpg
+fresh_01564_b,fresh_01564,fresh,b,1,moldy,灰白绒霉 Penicillium(white),67,0.04606,moldy/fresh_01564_b.jpg
+fresh_01567_a,fresh_01567,fresh,a,0,good,,0,0.0,good/fresh_01567_a.jpg
+fresh_01567_b,fresh_01567,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),48,0.02832,moldy/fresh_01567_b.jpg
+fresh_01570_a,fresh_01570,fresh,a,0,good,,0,0.0,good/fresh_01570_a.jpg
+fresh_01570_b,fresh_01570,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),13,0.00951,moldy/fresh_01570_b.jpg
+fresh_01573_a,fresh_01573,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),19,0.00586,moldy/fresh_01573_a.jpg
+fresh_01573_b,fresh_01573,fresh,b,0,good,,0,0.0,good/fresh_01573_b.jpg
+fresh_01575_a,fresh_01575,fresh,a,0,good,,0,0.0,good/fresh_01575_a.jpg
+fresh_01575_b,fresh_01575,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),62,0.05683,moldy/fresh_01575_b.jpg
+fresh_01576_a,fresh_01576,fresh,a,1,moldy,灰白绒霉 Penicillium(white),61,0.03355,moldy/fresh_01576_a.jpg
+fresh_01576_b,fresh_01576,fresh,b,0,good,,0,0.0,good/fresh_01576_b.jpg
+fresh_01578_a,fresh_01578,fresh,a,1,moldy,灰白绒霉 Penicillium(white),16,0.00824,moldy/fresh_01578_a.jpg
+fresh_01578_b,fresh_01578,fresh,b,0,good,,0,0.0,good/fresh_01578_b.jpg
+fresh_01579_a,fresh_01579,fresh,a,1,moldy,粉红污染霉 Fusarium/yeast,62,0.06661,moldy/fresh_01579_a.jpg
+fresh_01579_b,fresh_01579,fresh,b,0,good,,0,0.0,good/fresh_01579_b.jpg
+fresh_01581_a,fresh_01581,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),61,0.01103,moldy/fresh_01581_a.jpg
+fresh_01581_b,fresh_01581,fresh,b,0,good,,0,0.0,good/fresh_01581_b.jpg
+fresh_01584_a,fresh_01584,fresh,a,0,good,,0,0.0,good/fresh_01584_a.jpg
+fresh_01584_b,fresh_01584,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),48,0.05747,moldy/fresh_01584_b.jpg
+fresh_01592_a,fresh_01592,fresh,a,0,good,,0,0.0,good/fresh_01592_a.jpg
+fresh_01592_b,fresh_01592,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),53,0.05382,moldy/fresh_01592_b.jpg
+fresh_01593_a,fresh_01593,fresh,a,0,good,,0,0.0,good/fresh_01593_a.jpg
+fresh_01593_b,fresh_01593,fresh,b,1,moldy,灰白绒霉 Penicillium(white),19,0.00553,moldy/fresh_01593_b.jpg
+fresh_01596_a,fresh_01596,fresh,a,0,good,,0,0.0,good/fresh_01596_a.jpg
+fresh_01596_b,fresh_01596,fresh,b,1,moldy,灰白绒霉 Penicillium(white),11,0.00988,moldy/fresh_01596_b.jpg
+fresh_01597_a,fresh_01597,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),44,0.05305,moldy/fresh_01597_a.jpg
+fresh_01597_b,fresh_01597,fresh,b,0,good,,0,0.0,good/fresh_01597_b.jpg
+fresh_01611_a,fresh_01611,fresh,a,1,moldy,灰白绒霉 Penicillium(white),54,0.03048,moldy/fresh_01611_a.jpg
+fresh_01611_b,fresh_01611,fresh,b,0,good,,0,0.0,good/fresh_01611_b.jpg
+fresh_01612_a,fresh_01612,fresh,a,1,moldy,灰白绒霉 Penicillium(white),58,0.01977,moldy/fresh_01612_a.jpg
+fresh_01612_b,fresh_01612,fresh,b,0,good,,0,0.0,good/fresh_01612_b.jpg
+fresh_01614_a,fresh_01614,fresh,a,0,good,,0,0.0,good/fresh_01614_a.jpg
+fresh_01614_b,fresh_01614,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),41,0.06314,moldy/fresh_01614_b.jpg
+fresh_01616_a,fresh_01616,fresh,a,0,good,,0,0.0,good/fresh_01616_a.jpg
+fresh_01616_b,fresh_01616,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),47,0.04493,moldy/fresh_01616_b.jpg
+fresh_01619_a,fresh_01619,fresh,a,1,moldy,灰白绒霉 Penicillium(white),67,0.05443,moldy/fresh_01619_a.jpg
+fresh_01619_b,fresh_01619,fresh,b,0,good,,0,0.0,good/fresh_01619_b.jpg
+fresh_01621_a,fresh_01621,fresh,a,0,good,,0,0.0,good/fresh_01621_a.jpg
+fresh_01621_b,fresh_01621,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),27,0.01332,moldy/fresh_01621_b.jpg
+fresh_01627_a,fresh_01627,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),62,0.01266,moldy/fresh_01627_a.jpg
+fresh_01627_b,fresh_01627,fresh,b,0,good,,0,0.0,good/fresh_01627_b.jpg
+fresh_01633_a,fresh_01633,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),12,0.01093,moldy/fresh_01633_a.jpg
+fresh_01633_b,fresh_01633,fresh,b,0,good,,0,0.0,good/fresh_01633_b.jpg
+fresh_01634_a,fresh_01634,fresh,a,1,moldy,粉红污染霉 Fusarium/yeast,28,0.02709,moldy/fresh_01634_a.jpg
+fresh_01634_b,fresh_01634,fresh,b,0,good,,0,0.0,good/fresh_01634_b.jpg
+fresh_01642_a,fresh_01642,fresh,a,1,moldy,灰白绒霉 Penicillium(white),52,0.02939,moldy/fresh_01642_a.jpg
+fresh_01642_b,fresh_01642,fresh,b,0,good,,0,0.0,good/fresh_01642_b.jpg
+fresh_01643_a,fresh_01643,fresh,a,0,good,,0,0.0,good/fresh_01643_a.jpg
+fresh_01643_b,fresh_01643,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,27,0.02415,moldy/fresh_01643_b.jpg
+fresh_01650_a,fresh_01650,fresh,a,0,good,,0,0.0,good/fresh_01650_a.jpg
+fresh_01650_b,fresh_01650,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),54,0.02197,moldy/fresh_01650_b.jpg
+fresh_01653_a,fresh_01653,fresh,a,0,good,,0,0.0,good/fresh_01653_a.jpg
+fresh_01653_b,fresh_01653,fresh,b,1,moldy,灰白绒霉 Penicillium(white),12,0.01638,moldy/fresh_01653_b.jpg
+fresh_01656_a,fresh_01656,fresh,a,1,moldy,粉红污染霉 Fusarium/yeast,10,0.00267,moldy/fresh_01656_a.jpg
+fresh_01656_b,fresh_01656,fresh,b,0,good,,0,0.0,good/fresh_01656_b.jpg
+fresh_01657_a,fresh_01657,fresh,a,0,good,,0,0.0,good/fresh_01657_a.jpg
+fresh_01657_b,fresh_01657,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),65,0.03581,moldy/fresh_01657_b.jpg
+fresh_01661_a,fresh_01661,fresh,a,0,good,,0,0.0,good/fresh_01661_a.jpg
+fresh_01661_b,fresh_01661,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),25,0.00732,moldy/fresh_01661_b.jpg
+fresh_01666_a,fresh_01666,fresh,a,0,good,,0,0.0,good/fresh_01666_a.jpg
+fresh_01666_b,fresh_01666,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,26,0.0327,moldy/fresh_01666_b.jpg
+fresh_01668_a,fresh_01668,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),30,0.02587,moldy/fresh_01668_a.jpg
+fresh_01668_b,fresh_01668,fresh,b,0,good,,0,0.0,good/fresh_01668_b.jpg
+fresh_01676_a,fresh_01676,fresh,a,0,good,,0,0.0,good/fresh_01676_a.jpg
+fresh_01676_b,fresh_01676,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,18,0.01585,moldy/fresh_01676_b.jpg
+fresh_01680_a,fresh_01680,fresh,a,1,moldy,灰白绒霉 Penicillium(white),45,0.05063,moldy/fresh_01680_a.jpg
+fresh_01680_b,fresh_01680,fresh,b,0,good,,0,0.0,good/fresh_01680_b.jpg
+fresh_01681_a,fresh_01681,fresh,a,0,good,,0,0.0,good/fresh_01681_a.jpg
+fresh_01681_b,fresh_01681,fresh,b,1,moldy,灰白绒霉 Penicillium(white),33,0.0334,moldy/fresh_01681_b.jpg
+fresh_01682_a,fresh_01682,fresh,a,1,moldy,灰白绒霉 Penicillium(white),35,0.0282,moldy/fresh_01682_a.jpg
+fresh_01682_b,fresh_01682,fresh,b,0,good,,0,0.0,good/fresh_01682_b.jpg
+fresh_01685_a,fresh_01685,fresh,a,0,good,,0,0.0,good/fresh_01685_a.jpg
+fresh_01685_b,fresh_01685,fresh,b,1,moldy,橄榄绿青霉 Penicillium(olive),36,0.01453,moldy/fresh_01685_b.jpg
+fresh_01692_a,fresh_01692,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),72,0.07436,moldy/fresh_01692_a.jpg
+fresh_01692_b,fresh_01692,fresh,b,0,good,,0,0.0,good/fresh_01692_b.jpg
+fresh_01695_a,fresh_01695,fresh,a,0,good,,0,0.0,good/fresh_01695_a.jpg
+fresh_01695_b,fresh_01695,fresh,b,1,moldy,黑曲霉 Aspergillus(niger),83,0.05471,moldy/fresh_01695_b.jpg
+fresh_01702_a,fresh_01702,fresh,a,0,good,,0,0.0,good/fresh_01702_a.jpg
+fresh_01702_b,fresh_01702,fresh,b,1,moldy,灰白绒霉 Penicillium(white),19,0.01319,moldy/fresh_01702_b.jpg
+fresh_01704_a,fresh_01704,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),62,0.01286,moldy/fresh_01704_a.jpg
+fresh_01704_b,fresh_01704,fresh,b,0,good,,0,0.0,good/fresh_01704_b.jpg
+fresh_01705_a,fresh_01705,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),38,0.02804,moldy/fresh_01705_a.jpg
+fresh_01705_b,fresh_01705,fresh,b,0,good,,0,0.0,good/fresh_01705_b.jpg
+fresh_01707_a,fresh_01707,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),32,0.04112,moldy/fresh_01707_a.jpg
+fresh_01707_b,fresh_01707,fresh,b,0,good,,0,0.0,good/fresh_01707_b.jpg
+fresh_01709_a,fresh_01709,fresh,a,0,good,,0,0.0,good/fresh_01709_a.jpg
+fresh_01709_b,fresh_01709,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,20,0.01124,moldy/fresh_01709_b.jpg
+fresh_01716_a,fresh_01716,fresh,a,0,good,,0,0.0,good/fresh_01716_a.jpg
+fresh_01716_b,fresh_01716,fresh,b,1,moldy,灰白绒霉 Penicillium(white),22,0.00888,moldy/fresh_01716_b.jpg
+fresh_01719_a,fresh_01719,fresh,a,0,good,,0,0.0,good/fresh_01719_a.jpg
+fresh_01719_b,fresh_01719,fresh,b,1,moldy,粉红污染霉 Fusarium/yeast,51,0.04951,moldy/fresh_01719_b.jpg
+fresh_01720_a,fresh_01720,fresh,a,1,moldy,黑曲霉 Aspergillus(niger),30,0.03737,moldy/fresh_01720_a.jpg
+fresh_01720_b,fresh_01720,fresh,b,0,good,,0,0.0,good/fresh_01720_b.jpg
+fresh_01723_a,fresh_01723,fresh,a,1,moldy,橄榄绿青霉 Penicillium(olive),40,0.03544,moldy/fresh_01723_a.jpg
+fresh_01723_b,fresh_01723,fresh,b,0,good,,0,0.0,good/fresh_01723_b.jpg
+fresh_01724_a,fresh_01724,fresh,a,0,good,,0,0.0,good/fresh_01724_a.jpg
+fresh_01724_b,fresh_01724,fresh,b,1,moldy,灰白绒霉 Penicillium(white),50,0.04126,moldy/fresh_01724_b.jpg
+fresh_01725_a,fresh_01725,fresh,a,1,moldy,灰白绒霉 Penicillium(white),33,0.02312,moldy/fresh_01725_a.jpg
+fresh_01725_b,fresh_01725,fresh,b,0,good,,0,0.0,good/fresh_01725_b.jpg
+fresh_01727_a,fresh_01727,fresh,a,1,moldy,蓝绿青霉 Penicillium(blue-green),48,0.03368,moldy/fresh_01727_a.jpg
+fresh_01727_b,fresh_01727,fresh,b,0,good,,0,0.0,good/fresh_01727_b.jpg
+fresh_01731_a,fresh_01731,fresh,a,0,good,,0,0.0,good/fresh_01731_a.jpg
+fresh_01731_b,fresh_01731,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),22,0.02313,moldy/fresh_01731_b.jpg
+fresh_01732_a,fresh_01732,fresh,a,0,good,,0,0.0,good/fresh_01732_a.jpg
+fresh_01732_b,fresh_01732,fresh,b,1,moldy,蓝绿青霉 Penicillium(blue-green),50,0.0342,moldy/fresh_01732_b.jpg
+fresh_01734_a,fresh_01734,fresh,a,0,good,,0,0.0,good/fresh_01734_a.jpg
+fresh_01734_b,fresh_01734,fresh,b,1,moldy,灰白绒霉 Penicillium(white),82,0.02751,moldy/fresh_01734_b.jpg
+washed-rind_01742_a,washed-rind_01742,washed-rind,a,0,good,,0,0.0,good/washed-rind_01742_a.jpg
+washed-rind_01742_b,washed-rind_01742,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),22,0.01434,moldy/washed-rind_01742_b.jpg
+washed-rind_01746_a,washed-rind_01746,washed-rind,a,0,good,,0,0.0,good/washed-rind_01746_a.jpg
+washed-rind_01746_b,washed-rind_01746,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),10,0.01076,moldy/washed-rind_01746_b.jpg
+washed-rind_01758_a,washed-rind_01758,washed-rind,a,0,good,,0,0.0,good/washed-rind_01758_a.jpg
+washed-rind_01758_b,washed-rind_01758,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),23,0.01615,moldy/washed-rind_01758_b.jpg
+washed-rind_01765_a,washed-rind_01765,washed-rind,a,0,good,,0,0.0,good/washed-rind_01765_a.jpg
+washed-rind_01765_b,washed-rind_01765,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),13,0.01563,moldy/washed-rind_01765_b.jpg
+washed-rind_01769_a,washed-rind_01769,washed-rind,a,0,good,,0,0.0,good/washed-rind_01769_a.jpg
+washed-rind_01769_b,washed-rind_01769,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),62,0.02138,moldy/washed-rind_01769_b.jpg
+washed-rind_01770_a,washed-rind_01770,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),12,0.01382,moldy/washed-rind_01770_a.jpg
+washed-rind_01770_b,washed-rind_01770,washed-rind,b,0,good,,0,0.0,good/washed-rind_01770_b.jpg
+washed-rind_01773_a,washed-rind_01773,washed-rind,a,0,good,,0,0.0,good/washed-rind_01773_a.jpg
+washed-rind_01773_b,washed-rind_01773,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),57,0.07144,moldy/washed-rind_01773_b.jpg
+washed-rind_01774_a,washed-rind_01774,washed-rind,a,0,good,,0,0.0,good/washed-rind_01774_a.jpg
+washed-rind_01774_b,washed-rind_01774,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,23,0.01155,moldy/washed-rind_01774_b.jpg
+washed-rind_01776_a,washed-rind_01776,washed-rind,a,1,moldy,粉红污染霉 Fusarium/yeast,22,0.01219,moldy/washed-rind_01776_a.jpg
+washed-rind_01776_b,washed-rind_01776,washed-rind,b,0,good,,0,0.0,good/washed-rind_01776_b.jpg
+washed-rind_01777_a,washed-rind_01777,washed-rind,a,0,good,,0,0.0,good/washed-rind_01777_a.jpg
+washed-rind_01777_b,washed-rind_01777,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,38,0.03693,moldy/washed-rind_01777_b.jpg
+washed-rind_01779_a,washed-rind_01779,washed-rind,a,0,good,,0,0.0,good/washed-rind_01779_a.jpg
+washed-rind_01779_b,washed-rind_01779,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,67,0.03496,moldy/washed-rind_01779_b.jpg
+washed-rind_01780_a,washed-rind_01780,washed-rind,a,0,good,,0,0.0,good/washed-rind_01780_a.jpg
+washed-rind_01780_b,washed-rind_01780,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),50,0.04635,moldy/washed-rind_01780_b.jpg
+washed-rind_01782_a,washed-rind_01782,washed-rind,a,0,good,,0,0.0,good/washed-rind_01782_a.jpg
+washed-rind_01782_b,washed-rind_01782,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),38,0.03342,moldy/washed-rind_01782_b.jpg
+washed-rind_01783_a,washed-rind_01783,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),15,0.01174,moldy/washed-rind_01783_a.jpg
+washed-rind_01783_b,washed-rind_01783,washed-rind,b,0,good,,0,0.0,good/washed-rind_01783_b.jpg
+washed-rind_01784_a,washed-rind_01784,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),54,0.05456,moldy/washed-rind_01784_a.jpg
+washed-rind_01784_b,washed-rind_01784,washed-rind,b,0,good,,0,0.0,good/washed-rind_01784_b.jpg
+washed-rind_01786_a,washed-rind_01786,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),63,0.05009,moldy/washed-rind_01786_a.jpg
+washed-rind_01786_b,washed-rind_01786,washed-rind,b,0,good,,0,0.0,good/washed-rind_01786_b.jpg
+washed-rind_01787_a,washed-rind_01787,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),20,0.02349,moldy/washed-rind_01787_a.jpg
+washed-rind_01787_b,washed-rind_01787,washed-rind,b,0,good,,0,0.0,good/washed-rind_01787_b.jpg
+washed-rind_01788_a,washed-rind_01788,washed-rind,a,0,good,,0,0.0,good/washed-rind_01788_a.jpg
+washed-rind_01788_b,washed-rind_01788,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),66,0.08612,moldy/washed-rind_01788_b.jpg
+washed-rind_01795_a,washed-rind_01795,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),40,0.01317,moldy/washed-rind_01795_a.jpg
+washed-rind_01795_b,washed-rind_01795,washed-rind,b,0,good,,0,0.0,good/washed-rind_01795_b.jpg
+washed-rind_01796_a,washed-rind_01796,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),28,0.02579,moldy/washed-rind_01796_a.jpg
+washed-rind_01796_b,washed-rind_01796,washed-rind,b,0,good,,0,0.0,good/washed-rind_01796_b.jpg
+washed-rind_01798_a,washed-rind_01798,washed-rind,a,0,good,,0,0.0,good/washed-rind_01798_a.jpg
+washed-rind_01798_b,washed-rind_01798,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),36,0.01744,moldy/washed-rind_01798_b.jpg
+washed-rind_01801_a,washed-rind_01801,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),49,0.03439,moldy/washed-rind_01801_a.jpg
+washed-rind_01801_b,washed-rind_01801,washed-rind,b,0,good,,0,0.0,good/washed-rind_01801_b.jpg
+washed-rind_01808_a,washed-rind_01808,washed-rind,a,0,good,,0,0.0,good/washed-rind_01808_a.jpg
+washed-rind_01808_b,washed-rind_01808,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),52,0.05002,moldy/washed-rind_01808_b.jpg
+washed-rind_01813_a,washed-rind_01813,washed-rind,a,0,good,,0,0.0,good/washed-rind_01813_a.jpg
+washed-rind_01813_b,washed-rind_01813,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),47,0.02483,moldy/washed-rind_01813_b.jpg
+washed-rind_01814_a,washed-rind_01814,washed-rind,a,0,good,,0,0.0,good/washed-rind_01814_a.jpg
+washed-rind_01814_b,washed-rind_01814,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),54,0.05294,moldy/washed-rind_01814_b.jpg
+washed-rind_01818_a,washed-rind_01818,washed-rind,a,0,good,,0,0.0,good/washed-rind_01818_a.jpg
+washed-rind_01818_b,washed-rind_01818,washed-rind,b,1,moldy,黑曲霉 Aspergillus(niger),62,0.02637,moldy/washed-rind_01818_b.jpg
+washed-rind_01823_a,washed-rind_01823,washed-rind,a,0,good,,0,0.0,good/washed-rind_01823_a.jpg
+washed-rind_01823_b,washed-rind_01823,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,20,0.00728,moldy/washed-rind_01823_b.jpg
+washed-rind_01829_a,washed-rind_01829,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),70,0.02647,moldy/washed-rind_01829_a.jpg
+washed-rind_01829_b,washed-rind_01829,washed-rind,b,0,good,,0,0.0,good/washed-rind_01829_b.jpg
+washed-rind_01829_c,washed-rind_01829,washed-rind,c,1,moldy,黑曲霉 Aspergillus(niger),43,0.04379,moldy/washed-rind_01829_c.jpg
+washed-rind_01829_d,washed-rind_01829,washed-rind,d,0,good,,0,0.0,good/washed-rind_01829_d.jpg
+washed-rind_01833_a,washed-rind_01833,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),30,0.03479,moldy/washed-rind_01833_a.jpg
+washed-rind_01833_b,washed-rind_01833,washed-rind,b,0,good,,0,0.0,good/washed-rind_01833_b.jpg
+washed-rind_01844_a,washed-rind_01844,washed-rind,a,0,good,,0,0.0,good/washed-rind_01844_a.jpg
+washed-rind_01844_b,washed-rind_01844,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),67,0.02277,moldy/washed-rind_01844_b.jpg
+washed-rind_01844_c,washed-rind_01844,washed-rind,c,1,moldy,蓝绿青霉 Penicillium(blue-green),41,0.02956,moldy/washed-rind_01844_c.jpg
+washed-rind_01844_d,washed-rind_01844,washed-rind,d,0,good,,0,0.0,good/washed-rind_01844_d.jpg
+washed-rind_01851_a,washed-rind_01851,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),27,0.03557,moldy/washed-rind_01851_a.jpg
+washed-rind_01851_b,washed-rind_01851,washed-rind,b,0,good,,0,0.0,good/washed-rind_01851_b.jpg
+washed-rind_01852_a,washed-rind_01852,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),14,0.0045,moldy/washed-rind_01852_a.jpg
+washed-rind_01852_b,washed-rind_01852,washed-rind,b,0,good,,0,0.0,good/washed-rind_01852_b.jpg
+washed-rind_01853_a,washed-rind_01853,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),55,0.02446,moldy/washed-rind_01853_a.jpg
+washed-rind_01853_b,washed-rind_01853,washed-rind,b,0,good,,0,0.0,good/washed-rind_01853_b.jpg
+washed-rind_01861_a,washed-rind_01861,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),22,0.01951,moldy/washed-rind_01861_a.jpg
+washed-rind_01861_b,washed-rind_01861,washed-rind,b,0,good,,0,0.0,good/washed-rind_01861_b.jpg
+washed-rind_01875_a,washed-rind_01875,washed-rind,a,0,good,,0,0.0,good/washed-rind_01875_a.jpg
+washed-rind_01875_b,washed-rind_01875,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,72,0.05272,moldy/washed-rind_01875_b.jpg
+washed-rind_01878_a,washed-rind_01878,washed-rind,a,0,good,,0,0.0,good/washed-rind_01878_a.jpg
+washed-rind_01878_b,washed-rind_01878,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),11,0.02382,moldy/washed-rind_01878_b.jpg
+washed-rind_01880_a,washed-rind_01880,washed-rind,a,0,good,,0,0.0,good/washed-rind_01880_a.jpg
+washed-rind_01880_b,washed-rind_01880,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,74,0.04011,moldy/washed-rind_01880_b.jpg
+washed-rind_01880_c,washed-rind_01880,washed-rind,c,0,good,,0,0.0,good/washed-rind_01880_c.jpg
+washed-rind_01880_d,washed-rind_01880,washed-rind,d,1,moldy,灰白绒霉 Penicillium(white),59,0.03859,moldy/washed-rind_01880_d.jpg
+washed-rind_01882_a,washed-rind_01882,washed-rind,a,0,good,,0,0.0,good/washed-rind_01882_a.jpg
+washed-rind_01882_b,washed-rind_01882,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),59,0.01494,moldy/washed-rind_01882_b.jpg
+washed-rind_01883_a,washed-rind_01883,washed-rind,a,0,good,,0,0.0,good/washed-rind_01883_a.jpg
+washed-rind_01883_b,washed-rind_01883,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),49,0.02779,moldy/washed-rind_01883_b.jpg
+washed-rind_01893_a,washed-rind_01893,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),56,0.05213,moldy/washed-rind_01893_a.jpg
+washed-rind_01893_b,washed-rind_01893,washed-rind,b,0,good,,0,0.0,good/washed-rind_01893_b.jpg
+washed-rind_01899_a,washed-rind_01899,washed-rind,a,0,good,,0,0.0,good/washed-rind_01899_a.jpg
+washed-rind_01899_b,washed-rind_01899,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),53,0.01888,moldy/washed-rind_01899_b.jpg
+washed-rind_01899_c,washed-rind_01899,washed-rind,c,1,moldy,灰白绒霉 Penicillium(white),30,0.00763,moldy/washed-rind_01899_c.jpg
+washed-rind_01899_d,washed-rind_01899,washed-rind,d,0,good,,0,0.0,good/washed-rind_01899_d.jpg
+washed-rind_01908_a,washed-rind_01908,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),33,0.0148,moldy/washed-rind_01908_a.jpg
+washed-rind_01908_b,washed-rind_01908,washed-rind,b,0,good,,0,0.0,good/washed-rind_01908_b.jpg
+washed-rind_01910_a,washed-rind_01910,washed-rind,a,0,good,,0,0.0,good/washed-rind_01910_a.jpg
+washed-rind_01910_b,washed-rind_01910,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),17,0.02221,moldy/washed-rind_01910_b.jpg
+washed-rind_01915_a,washed-rind_01915,washed-rind,a,0,good,,0,0.0,good/washed-rind_01915_a.jpg
+washed-rind_01915_b,washed-rind_01915,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),78,0.04234,moldy/washed-rind_01915_b.jpg
+washed-rind_01917_a,washed-rind_01917,washed-rind,a,0,good,,0,0.0,good/washed-rind_01917_a.jpg
+washed-rind_01917_b,washed-rind_01917,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),32,0.01189,moldy/washed-rind_01917_b.jpg
+washed-rind_01923_a,washed-rind_01923,washed-rind,a,0,good,,0,0.0,good/washed-rind_01923_a.jpg
+washed-rind_01923_b,washed-rind_01923,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),64,0.0378,moldy/washed-rind_01923_b.jpg
+washed-rind_01925_a,washed-rind_01925,washed-rind,a,0,good,,0,0.0,good/washed-rind_01925_a.jpg
+washed-rind_01925_b,washed-rind_01925,washed-rind,b,1,moldy,黑曲霉 Aspergillus(niger),26,0.01772,moldy/washed-rind_01925_b.jpg
+washed-rind_01945_a,washed-rind_01945,washed-rind,a,0,good,,0,0.0,good/washed-rind_01945_a.jpg
+washed-rind_01945_b,washed-rind_01945,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),74,0.0689,moldy/washed-rind_01945_b.jpg
+washed-rind_01952_a,washed-rind_01952,washed-rind,a,0,good,,0,0.0,good/washed-rind_01952_a.jpg
+washed-rind_01952_b,washed-rind_01952,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),14,0.00376,moldy/washed-rind_01952_b.jpg
+washed-rind_01955_a,washed-rind_01955,washed-rind,a,0,good,,0,0.0,good/washed-rind_01955_a.jpg
+washed-rind_01955_b,washed-rind_01955,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),15,0.01258,moldy/washed-rind_01955_b.jpg
+washed-rind_01957_a,washed-rind_01957,washed-rind,a,0,good,,0,0.0,good/washed-rind_01957_a.jpg
+washed-rind_01957_b,washed-rind_01957,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),26,0.0287,moldy/washed-rind_01957_b.jpg
+washed-rind_01958_a,washed-rind_01958,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),42,0.02338,moldy/washed-rind_01958_a.jpg
+washed-rind_01958_b,washed-rind_01958,washed-rind,b,0,good,,0,0.0,good/washed-rind_01958_b.jpg
+washed-rind_01962_a,washed-rind_01962,washed-rind,a,0,good,,0,0.0,good/washed-rind_01962_a.jpg
+washed-rind_01962_b,washed-rind_01962,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),33,0.02845,moldy/washed-rind_01962_b.jpg
+washed-rind_01964_a,washed-rind_01964,washed-rind,a,0,good,,0,0.0,good/washed-rind_01964_a.jpg
+washed-rind_01964_b,washed-rind_01964,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),26,0.01168,moldy/washed-rind_01964_b.jpg
+washed-rind_01970_a,washed-rind_01970,washed-rind,a,0,good,,0,0.0,good/washed-rind_01970_a.jpg
+washed-rind_01970_b,washed-rind_01970,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),17,0.02238,moldy/washed-rind_01970_b.jpg
+washed-rind_01973_a,washed-rind_01973,washed-rind,a,0,good,,0,0.0,good/washed-rind_01973_a.jpg
+washed-rind_01973_b,washed-rind_01973,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),9,0.00443,moldy/washed-rind_01973_b.jpg
+washed-rind_01983_a,washed-rind_01983,washed-rind,a,0,good,,0,0.0,good/washed-rind_01983_a.jpg
+washed-rind_01983_b,washed-rind_01983,washed-rind,b,1,moldy,黑曲霉 Aspergillus(niger),27,0.01801,moldy/washed-rind_01983_b.jpg
+washed-rind_01984_a,washed-rind_01984,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),22,0.00545,moldy/washed-rind_01984_a.jpg
+washed-rind_01984_b,washed-rind_01984,washed-rind,b,0,good,,0,0.0,good/washed-rind_01984_b.jpg
+washed-rind_01999_a,washed-rind_01999,washed-rind,a,0,good,,0,0.0,good/washed-rind_01999_a.jpg
+washed-rind_01999_b,washed-rind_01999,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),23,0.01493,moldy/washed-rind_01999_b.jpg
+washed-rind_02005_a,washed-rind_02005,washed-rind,a,1,moldy,粉红污染霉 Fusarium/yeast,69,0.05292,moldy/washed-rind_02005_a.jpg
+washed-rind_02005_b,washed-rind_02005,washed-rind,b,0,good,,0,0.0,good/washed-rind_02005_b.jpg
+washed-rind_02007_a,washed-rind_02007,washed-rind,a,0,good,,0,0.0,good/washed-rind_02007_a.jpg
+washed-rind_02007_b,washed-rind_02007,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),55,0.06314,moldy/washed-rind_02007_b.jpg
+washed-rind_02009_a,washed-rind_02009,washed-rind,a,0,good,,0,0.0,good/washed-rind_02009_a.jpg
+washed-rind_02009_b,washed-rind_02009,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),71,0.068,moldy/washed-rind_02009_b.jpg
+washed-rind_02013_a,washed-rind_02013,washed-rind,a,0,good,,0,0.0,good/washed-rind_02013_a.jpg
+washed-rind_02013_b,washed-rind_02013,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),23,0.01989,moldy/washed-rind_02013_b.jpg
+washed-rind_02023_a,washed-rind_02023,washed-rind,a,0,good,,0,0.0,good/washed-rind_02023_a.jpg
+washed-rind_02023_b,washed-rind_02023,washed-rind,b,1,moldy,黑曲霉 Aspergillus(niger),33,0.00889,moldy/washed-rind_02023_b.jpg
+washed-rind_02025_a,washed-rind_02025,washed-rind,a,0,good,,0,0.0,good/washed-rind_02025_a.jpg
+washed-rind_02025_b,washed-rind_02025,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),48,0.01772,moldy/washed-rind_02025_b.jpg
+washed-rind_02026_a,washed-rind_02026,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),34,0.01268,moldy/washed-rind_02026_a.jpg
+washed-rind_02026_b,washed-rind_02026,washed-rind,b,0,good,,0,0.0,good/washed-rind_02026_b.jpg
+washed-rind_02042_a,washed-rind_02042,washed-rind,a,0,good,,0,0.0,good/washed-rind_02042_a.jpg
+washed-rind_02042_b,washed-rind_02042,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),60,0.04002,moldy/washed-rind_02042_b.jpg
+washed-rind_02043_a,washed-rind_02043,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),47,0.03842,moldy/washed-rind_02043_a.jpg
+washed-rind_02043_b,washed-rind_02043,washed-rind,b,0,good,,0,0.0,good/washed-rind_02043_b.jpg
+washed-rind_02046_a,washed-rind_02046,washed-rind,a,0,good,,0,0.0,good/washed-rind_02046_a.jpg
+washed-rind_02046_b,washed-rind_02046,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),32,0.01688,moldy/washed-rind_02046_b.jpg
+washed-rind_02047_a,washed-rind_02047,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),66,0.01675,moldy/washed-rind_02047_a.jpg
+washed-rind_02047_b,washed-rind_02047,washed-rind,b,0,good,,0,0.0,good/washed-rind_02047_b.jpg
+washed-rind_02055_a,washed-rind_02055,washed-rind,a,0,good,,0,0.0,good/washed-rind_02055_a.jpg
+washed-rind_02055_b,washed-rind_02055,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),37,0.01395,moldy/washed-rind_02055_b.jpg
+washed-rind_02056_a,washed-rind_02056,washed-rind,a,0,good,,0,0.0,good/washed-rind_02056_a.jpg
+washed-rind_02056_b,washed-rind_02056,washed-rind,b,1,moldy,黑曲霉 Aspergillus(niger),75,0.04946,moldy/washed-rind_02056_b.jpg
+washed-rind_02078_a,washed-rind_02078,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),42,0.02504,moldy/washed-rind_02078_a.jpg
+washed-rind_02078_b,washed-rind_02078,washed-rind,b,0,good,,0,0.0,good/washed-rind_02078_b.jpg
+washed-rind_02081_a,washed-rind_02081,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),22,0.0069,moldy/washed-rind_02081_a.jpg
+washed-rind_02081_b,washed-rind_02081,washed-rind,b,0,good,,0,0.0,good/washed-rind_02081_b.jpg
+washed-rind_02082_a,washed-rind_02082,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),29,0.01588,moldy/washed-rind_02082_a.jpg
+washed-rind_02082_b,washed-rind_02082,washed-rind,b,0,good,,0,0.0,good/washed-rind_02082_b.jpg
+washed-rind_02090_a,washed-rind_02090,washed-rind,a,0,good,,0,0.0,good/washed-rind_02090_a.jpg
+washed-rind_02090_b,washed-rind_02090,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,42,0.04442,moldy/washed-rind_02090_b.jpg
+washed-rind_02100_a,washed-rind_02100,washed-rind,a,0,good,,0,0.0,good/washed-rind_02100_a.jpg
+washed-rind_02100_b,washed-rind_02100,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),67,0.03315,moldy/washed-rind_02100_b.jpg
+washed-rind_02100_c,washed-rind_02100,washed-rind,c,0,good,,0,0.0,good/washed-rind_02100_c.jpg
+washed-rind_02100_d,washed-rind_02100,washed-rind,d,1,moldy,黑曲霉 Aspergillus(niger),16,0.01783,moldy/washed-rind_02100_d.jpg
+washed-rind_02102_a,washed-rind_02102,washed-rind,a,0,good,,0,0.0,good/washed-rind_02102_a.jpg
+washed-rind_02102_b,washed-rind_02102,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),25,0.02778,moldy/washed-rind_02102_b.jpg
+washed-rind_02107_a,washed-rind_02107,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),19,0.01056,moldy/washed-rind_02107_a.jpg
+washed-rind_02107_b,washed-rind_02107,washed-rind,b,0,good,,0,0.0,good/washed-rind_02107_b.jpg
+washed-rind_02117_a,washed-rind_02117,washed-rind,a,0,good,,0,0.0,good/washed-rind_02117_a.jpg
+washed-rind_02117_b,washed-rind_02117,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),10,0.01072,moldy/washed-rind_02117_b.jpg
+washed-rind_02127_a,washed-rind_02127,washed-rind,a,0,good,,0,0.0,good/washed-rind_02127_a.jpg
+washed-rind_02127_b,washed-rind_02127,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),20,0.00725,moldy/washed-rind_02127_b.jpg
+washed-rind_02128_a,washed-rind_02128,washed-rind,a,0,good,,0,0.0,good/washed-rind_02128_a.jpg
+washed-rind_02128_b,washed-rind_02128,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),29,0.00541,moldy/washed-rind_02128_b.jpg
+washed-rind_02130_a,washed-rind_02130,washed-rind,a,0,good,,0,0.0,good/washed-rind_02130_a.jpg
+washed-rind_02130_b,washed-rind_02130,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),65,0.02752,moldy/washed-rind_02130_b.jpg
+washed-rind_02132_a,washed-rind_02132,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),40,0.02035,moldy/washed-rind_02132_a.jpg
+washed-rind_02132_b,washed-rind_02132,washed-rind,b,0,good,,0,0.0,good/washed-rind_02132_b.jpg
+washed-rind_02132_c,washed-rind_02132,washed-rind,c,0,good,,0,0.0,good/washed-rind_02132_c.jpg
+washed-rind_02132_d,washed-rind_02132,washed-rind,d,1,moldy,粉红污染霉 Fusarium/yeast,61,0.02749,moldy/washed-rind_02132_d.jpg
+washed-rind_02141_a,washed-rind_02141,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),29,0.02894,moldy/washed-rind_02141_a.jpg
+washed-rind_02141_b,washed-rind_02141,washed-rind,b,0,good,,0,0.0,good/washed-rind_02141_b.jpg
+washed-rind_02142_a,washed-rind_02142,washed-rind,a,0,good,,0,0.0,good/washed-rind_02142_a.jpg
+washed-rind_02142_b,washed-rind_02142,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),24,0.00884,moldy/washed-rind_02142_b.jpg
+washed-rind_02145_a,washed-rind_02145,washed-rind,a,1,moldy,粉红污染霉 Fusarium/yeast,72,0.0541,moldy/washed-rind_02145_a.jpg
+washed-rind_02145_b,washed-rind_02145,washed-rind,b,0,good,,0,0.0,good/washed-rind_02145_b.jpg
+washed-rind_02147_a,washed-rind_02147,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),36,0.01597,moldy/washed-rind_02147_a.jpg
+washed-rind_02147_b,washed-rind_02147,washed-rind,b,0,good,,0,0.0,good/washed-rind_02147_b.jpg
+washed-rind_02149_a,washed-rind_02149,washed-rind,a,0,good,,0,0.0,good/washed-rind_02149_a.jpg
+washed-rind_02149_b,washed-rind_02149,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),24,0.01803,moldy/washed-rind_02149_b.jpg
+washed-rind_01800_a,washed-rind_01800,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),22,0.01333,moldy/washed-rind_01800_a.jpg
+washed-rind_01800_b,washed-rind_01800,washed-rind,b,0,good,,0,0.0,good/washed-rind_01800_b.jpg
+washed-rind_01804_a,washed-rind_01804,washed-rind,a,0,good,,0,0.0,good/washed-rind_01804_a.jpg
+washed-rind_01804_b,washed-rind_01804,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),77,0.04013,moldy/washed-rind_01804_b.jpg
+washed-rind_01807_a,washed-rind_01807,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),50,0.05273,moldy/washed-rind_01807_a.jpg
+washed-rind_01807_b,washed-rind_01807,washed-rind,b,0,good,,0,0.0,good/washed-rind_01807_b.jpg
+washed-rind_01810_a,washed-rind_01810,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),42,0.01576,moldy/washed-rind_01810_a.jpg
+washed-rind_01810_b,washed-rind_01810,washed-rind,b,0,good,,0,0.0,good/washed-rind_01810_b.jpg
+washed-rind_01816_a,washed-rind_01816,washed-rind,a,0,good,,0,0.0,good/washed-rind_01816_a.jpg
+washed-rind_01816_b,washed-rind_01816,washed-rind,b,1,moldy,黑曲霉 Aspergillus(niger),6,0.00407,moldy/washed-rind_01816_b.jpg
+washed-rind_01817_a,washed-rind_01817,washed-rind,a,0,good,,0,0.0,good/washed-rind_01817_a.jpg
+washed-rind_01817_b,washed-rind_01817,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),31,0.00641,moldy/washed-rind_01817_b.jpg
+washed-rind_01820_a,washed-rind_01820,washed-rind,a,0,good,,0,0.0,good/washed-rind_01820_a.jpg
+washed-rind_01820_b,washed-rind_01820,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),64,0.03502,moldy/washed-rind_01820_b.jpg
+washed-rind_01822_a,washed-rind_01822,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),50,0.01685,moldy/washed-rind_01822_a.jpg
+washed-rind_01822_b,washed-rind_01822,washed-rind,b,0,good,,0,0.0,good/washed-rind_01822_b.jpg
+washed-rind_01826_a,washed-rind_01826,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),41,0.02426,moldy/washed-rind_01826_a.jpg
+washed-rind_01826_b,washed-rind_01826,washed-rind,b,0,good,,0,0.0,good/washed-rind_01826_b.jpg
+washed-rind_01835_a,washed-rind_01835,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),8,0.01416,moldy/washed-rind_01835_a.jpg
+washed-rind_01835_b,washed-rind_01835,washed-rind,b,0,good,,0,0.0,good/washed-rind_01835_b.jpg
+washed-rind_01847_a,washed-rind_01847,washed-rind,a,0,good,,0,0.0,good/washed-rind_01847_a.jpg
+washed-rind_01847_b,washed-rind_01847,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),58,0.01625,moldy/washed-rind_01847_b.jpg
+washed-rind_01849_a,washed-rind_01849,washed-rind,a,1,moldy,粉红污染霉 Fusarium/yeast,34,0.01541,moldy/washed-rind_01849_a.jpg
+washed-rind_01849_b,washed-rind_01849,washed-rind,b,0,good,,0,0.0,good/washed-rind_01849_b.jpg
+washed-rind_01855_a,washed-rind_01855,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),43,0.01623,moldy/washed-rind_01855_a.jpg
+washed-rind_01855_b,washed-rind_01855,washed-rind,b,0,good,,0,0.0,good/washed-rind_01855_b.jpg
+washed-rind_01863_a,washed-rind_01863,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),46,0.01689,moldy/washed-rind_01863_a.jpg
+washed-rind_01863_b,washed-rind_01863,washed-rind,b,0,good,,0,0.0,good/washed-rind_01863_b.jpg
+washed-rind_01865_a,washed-rind_01865,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),72,0.01974,moldy/washed-rind_01865_a.jpg
+washed-rind_01865_b,washed-rind_01865,washed-rind,b,0,good,,0,0.0,good/washed-rind_01865_b.jpg
+washed-rind_01866_a,washed-rind_01866,washed-rind,a,1,moldy,粉红污染霉 Fusarium/yeast,85,0.05177,moldy/washed-rind_01866_a.jpg
+washed-rind_01866_b,washed-rind_01866,washed-rind,b,0,good,,0,0.0,good/washed-rind_01866_b.jpg
+washed-rind_01869_a,washed-rind_01869,washed-rind,a,0,good,,0,0.0,good/washed-rind_01869_a.jpg
+washed-rind_01869_b,washed-rind_01869,washed-rind,b,1,moldy,黑曲霉 Aspergillus(niger),72,0.01747,moldy/washed-rind_01869_b.jpg
+washed-rind_01870_a,washed-rind_01870,washed-rind,a,0,good,,0,0.0,good/washed-rind_01870_a.jpg
+washed-rind_01870_b,washed-rind_01870,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),17,0.01012,moldy/washed-rind_01870_b.jpg
+washed-rind_01871_a,washed-rind_01871,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),54,0.03018,moldy/washed-rind_01871_a.jpg
+washed-rind_01871_b,washed-rind_01871,washed-rind,b,0,good,,0,0.0,good/washed-rind_01871_b.jpg
+washed-rind_01874_a,washed-rind_01874,washed-rind,a,0,good,,0,0.0,good/washed-rind_01874_a.jpg
+washed-rind_01874_b,washed-rind_01874,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),43,0.04802,moldy/washed-rind_01874_b.jpg
+washed-rind_01876_a,washed-rind_01876,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),34,0.03302,moldy/washed-rind_01876_a.jpg
+washed-rind_01876_b,washed-rind_01876,washed-rind,b,0,good,,0,0.0,good/washed-rind_01876_b.jpg
+washed-rind_01890_a,washed-rind_01890,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),16,0.01292,moldy/washed-rind_01890_a.jpg
+washed-rind_01890_b,washed-rind_01890,washed-rind,b,0,good,,0,0.0,good/washed-rind_01890_b.jpg
+washed-rind_01897_a,washed-rind_01897,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),55,0.04308,moldy/washed-rind_01897_a.jpg
+washed-rind_01897_b,washed-rind_01897,washed-rind,b,0,good,,0,0.0,good/washed-rind_01897_b.jpg
+washed-rind_01898_a,washed-rind_01898,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),55,0.07148,moldy/washed-rind_01898_a.jpg
+washed-rind_01898_b,washed-rind_01898,washed-rind,b,0,good,,0,0.0,good/washed-rind_01898_b.jpg
+washed-rind_01901_a,washed-rind_01901,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),79,0.07945,moldy/washed-rind_01901_a.jpg
+washed-rind_01901_b,washed-rind_01901,washed-rind,b,0,good,,0,0.0,good/washed-rind_01901_b.jpg
+washed-rind_01902_a,washed-rind_01902,washed-rind,a,0,good,,0,0.0,good/washed-rind_01902_a.jpg
+washed-rind_01902_b,washed-rind_01902,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),61,0.01632,moldy/washed-rind_01902_b.jpg
+washed-rind_01903_a,washed-rind_01903,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),31,0.01718,moldy/washed-rind_01903_a.jpg
+washed-rind_01903_b,washed-rind_01903,washed-rind,b,0,good,,0,0.0,good/washed-rind_01903_b.jpg
+washed-rind_01905_a,washed-rind_01905,washed-rind,a,0,good,,0,0.0,good/washed-rind_01905_a.jpg
+washed-rind_01905_b,washed-rind_01905,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),46,0.0179,moldy/washed-rind_01905_b.jpg
+washed-rind_01911_a,washed-rind_01911,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),65,0.07067,moldy/washed-rind_01911_a.jpg
+washed-rind_01911_b,washed-rind_01911,washed-rind,b,0,good,,0,0.0,good/washed-rind_01911_b.jpg
+washed-rind_01920_a,washed-rind_01920,washed-rind,a,0,good,,0,0.0,good/washed-rind_01920_a.jpg
+washed-rind_01920_b,washed-rind_01920,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),39,0.04788,moldy/washed-rind_01920_b.jpg
+washed-rind_01924_a,washed-rind_01924,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),16,0.01103,moldy/washed-rind_01924_a.jpg
+washed-rind_01924_b,washed-rind_01924,washed-rind,b,0,good,,0,0.0,good/washed-rind_01924_b.jpg
+washed-rind_01930_a,washed-rind_01930,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),30,0.02038,moldy/washed-rind_01930_a.jpg
+washed-rind_01930_b,washed-rind_01930,washed-rind,b,0,good,,0,0.0,good/washed-rind_01930_b.jpg
+washed-rind_01933_a,washed-rind_01933,washed-rind,a,0,good,,0,0.0,good/washed-rind_01933_a.jpg
+washed-rind_01933_b,washed-rind_01933,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,44,0.04944,moldy/washed-rind_01933_b.jpg
+washed-rind_01937_a,washed-rind_01937,washed-rind,a,0,good,,0,0.0,good/washed-rind_01937_a.jpg
+washed-rind_01937_b,washed-rind_01937,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),34,0.02283,moldy/washed-rind_01937_b.jpg
+washed-rind_01943_a,washed-rind_01943,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),64,0.04379,moldy/washed-rind_01943_a.jpg
+washed-rind_01943_b,washed-rind_01943,washed-rind,b,0,good,,0,0.0,good/washed-rind_01943_b.jpg
+washed-rind_01951_a,washed-rind_01951,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),54,0.04164,moldy/washed-rind_01951_a.jpg
+washed-rind_01951_b,washed-rind_01951,washed-rind,b,0,good,,0,0.0,good/washed-rind_01951_b.jpg
+washed-rind_01963_a,washed-rind_01963,washed-rind,a,0,good,,0,0.0,good/washed-rind_01963_a.jpg
+washed-rind_01963_b,washed-rind_01963,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),53,0.05291,moldy/washed-rind_01963_b.jpg
+washed-rind_01969_a,washed-rind_01969,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),18,0.01673,moldy/washed-rind_01969_a.jpg
+washed-rind_01969_b,washed-rind_01969,washed-rind,b,0,good,,0,0.0,good/washed-rind_01969_b.jpg
+washed-rind_01971_a,washed-rind_01971,washed-rind,a,0,good,,0,0.0,good/washed-rind_01971_a.jpg
+washed-rind_01971_b,washed-rind_01971,washed-rind,b,1,moldy,黑曲霉 Aspergillus(niger),40,0.01846,moldy/washed-rind_01971_b.jpg
+washed-rind_01975_a,washed-rind_01975,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),21,0.02089,moldy/washed-rind_01975_a.jpg
+washed-rind_01975_b,washed-rind_01975,washed-rind,b,0,good,,0,0.0,good/washed-rind_01975_b.jpg
+washed-rind_01977_a,washed-rind_01977,washed-rind,a,0,good,,0,0.0,good/washed-rind_01977_a.jpg
+washed-rind_01977_b,washed-rind_01977,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),40,0.01738,moldy/washed-rind_01977_b.jpg
+washed-rind_01981_a,washed-rind_01981,washed-rind,a,0,good,,0,0.0,good/washed-rind_01981_a.jpg
+washed-rind_01981_b,washed-rind_01981,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),29,0.03616,moldy/washed-rind_01981_b.jpg
+washed-rind_01982_a,washed-rind_01982,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),51,0.0188,moldy/washed-rind_01982_a.jpg
+washed-rind_01982_b,washed-rind_01982,washed-rind,b,0,good,,0,0.0,good/washed-rind_01982_b.jpg
+washed-rind_01985_a,washed-rind_01985,washed-rind,a,0,good,,0,0.0,good/washed-rind_01985_a.jpg
+washed-rind_01985_b,washed-rind_01985,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),22,0.00727,moldy/washed-rind_01985_b.jpg
+washed-rind_01986_a,washed-rind_01986,washed-rind,a,0,good,,0,0.0,good/washed-rind_01986_a.jpg
+washed-rind_01986_b,washed-rind_01986,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),15,0.01211,moldy/washed-rind_01986_b.jpg
+washed-rind_01988_a,washed-rind_01988,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),63,0.03536,moldy/washed-rind_01988_a.jpg
+washed-rind_01988_b,washed-rind_01988,washed-rind,b,0,good,,0,0.0,good/washed-rind_01988_b.jpg
+washed-rind_01989_a,washed-rind_01989,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),40,0.04431,moldy/washed-rind_01989_a.jpg
+washed-rind_01989_b,washed-rind_01989,washed-rind,b,0,good,,0,0.0,good/washed-rind_01989_b.jpg
+washed-rind_01990_a,washed-rind_01990,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),49,0.03534,moldy/washed-rind_01990_a.jpg
+washed-rind_01990_b,washed-rind_01990,washed-rind,b,0,good,,0,0.0,good/washed-rind_01990_b.jpg
+washed-rind_01997_a,washed-rind_01997,washed-rind,a,0,good,,0,0.0,good/washed-rind_01997_a.jpg
+washed-rind_01997_b,washed-rind_01997,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),30,0.01135,moldy/washed-rind_01997_b.jpg
+washed-rind_02006_a,washed-rind_02006,washed-rind,a,0,good,,0,0.0,good/washed-rind_02006_a.jpg
+washed-rind_02006_b,washed-rind_02006,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,65,0.01202,moldy/washed-rind_02006_b.jpg
+washed-rind_02008_a,washed-rind_02008,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),54,0.0317,moldy/washed-rind_02008_a.jpg
+washed-rind_02008_b,washed-rind_02008,washed-rind,b,0,good,,0,0.0,good/washed-rind_02008_b.jpg
+washed-rind_02012_a,washed-rind_02012,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),64,0.04157,moldy/washed-rind_02012_a.jpg
+washed-rind_02012_b,washed-rind_02012,washed-rind,b,0,good,,0,0.0,good/washed-rind_02012_b.jpg
+washed-rind_02015_a,washed-rind_02015,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),25,0.02043,moldy/washed-rind_02015_a.jpg
+washed-rind_02015_b,washed-rind_02015,washed-rind,b,0,good,,0,0.0,good/washed-rind_02015_b.jpg
+washed-rind_02016_a,washed-rind_02016,washed-rind,a,0,good,,0,0.0,good/washed-rind_02016_a.jpg
+washed-rind_02016_b,washed-rind_02016,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),49,0.03065,moldy/washed-rind_02016_b.jpg
+washed-rind_02019_a,washed-rind_02019,washed-rind,a,0,good,,0,0.0,good/washed-rind_02019_a.jpg
+washed-rind_02019_b,washed-rind_02019,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),52,0.01647,moldy/washed-rind_02019_b.jpg
+washed-rind_02021_a,washed-rind_02021,washed-rind,a,0,good,,0,0.0,good/washed-rind_02021_a.jpg
+washed-rind_02021_b,washed-rind_02021,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),54,0.05061,moldy/washed-rind_02021_b.jpg
+washed-rind_02024_a,washed-rind_02024,washed-rind,a,0,good,,0,0.0,good/washed-rind_02024_a.jpg
+washed-rind_02024_b,washed-rind_02024,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),20,0.00634,moldy/washed-rind_02024_b.jpg
+washed-rind_02028_a,washed-rind_02028,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),40,0.0152,moldy/washed-rind_02028_a.jpg
+washed-rind_02028_b,washed-rind_02028,washed-rind,b,0,good,,0,0.0,good/washed-rind_02028_b.jpg
+washed-rind_02032_a,washed-rind_02032,washed-rind,a,0,good,,0,0.0,good/washed-rind_02032_a.jpg
+washed-rind_02032_b,washed-rind_02032,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),14,0.01183,moldy/washed-rind_02032_b.jpg
+washed-rind_02034_a,washed-rind_02034,washed-rind,a,1,moldy,粉红污染霉 Fusarium/yeast,10,0.01033,moldy/washed-rind_02034_a.jpg
+washed-rind_02034_b,washed-rind_02034,washed-rind,b,0,good,,0,0.0,good/washed-rind_02034_b.jpg
+washed-rind_02035_a,washed-rind_02035,washed-rind,a,0,good,,0,0.0,good/washed-rind_02035_a.jpg
+washed-rind_02035_b,washed-rind_02035,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),38,0.0387,moldy/washed-rind_02035_b.jpg
+washed-rind_02045_a,washed-rind_02045,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),32,0.01472,moldy/washed-rind_02045_a.jpg
+washed-rind_02045_b,washed-rind_02045,washed-rind,b,0,good,,0,0.0,good/washed-rind_02045_b.jpg
+washed-rind_02051_a,washed-rind_02051,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),21,0.00832,moldy/washed-rind_02051_a.jpg
+washed-rind_02051_b,washed-rind_02051,washed-rind,b,0,good,,0,0.0,good/washed-rind_02051_b.jpg
+washed-rind_02054_a,washed-rind_02054,washed-rind,a,0,good,,0,0.0,good/washed-rind_02054_a.jpg
+washed-rind_02054_b,washed-rind_02054,washed-rind,b,1,moldy,粉红污染霉 Fusarium/yeast,64,0.08308,moldy/washed-rind_02054_b.jpg
+washed-rind_02057_a,washed-rind_02057,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),11,0.01461,moldy/washed-rind_02057_a.jpg
+washed-rind_02057_b,washed-rind_02057,washed-rind,b,0,good,,0,0.0,good/washed-rind_02057_b.jpg
+washed-rind_02058_a,washed-rind_02058,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),31,0.03929,moldy/washed-rind_02058_a.jpg
+washed-rind_02058_b,washed-rind_02058,washed-rind,b,0,good,,0,0.0,good/washed-rind_02058_b.jpg
+washed-rind_02061_a,washed-rind_02061,washed-rind,a,0,good,,0,0.0,good/washed-rind_02061_a.jpg
+washed-rind_02061_b,washed-rind_02061,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),15,0.0118,moldy/washed-rind_02061_b.jpg
+washed-rind_02062_a,washed-rind_02062,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),40,0.04659,moldy/washed-rind_02062_a.jpg
+washed-rind_02062_b,washed-rind_02062,washed-rind,b,0,good,,0,0.0,good/washed-rind_02062_b.jpg
+washed-rind_02064_a,washed-rind_02064,washed-rind,a,0,good,,0,0.0,good/washed-rind_02064_a.jpg
+washed-rind_02064_b,washed-rind_02064,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),25,0.01171,moldy/washed-rind_02064_b.jpg
+washed-rind_02069_a,washed-rind_02069,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),38,0.02711,moldy/washed-rind_02069_a.jpg
+washed-rind_02069_b,washed-rind_02069,washed-rind,b,0,good,,0,0.0,good/washed-rind_02069_b.jpg
+washed-rind_02073_a,washed-rind_02073,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),46,0.01349,moldy/washed-rind_02073_a.jpg
+washed-rind_02073_b,washed-rind_02073,washed-rind,b,0,good,,0,0.0,good/washed-rind_02073_b.jpg
+washed-rind_02083_a,washed-rind_02083,washed-rind,a,0,good,,0,0.0,good/washed-rind_02083_a.jpg
+washed-rind_02083_b,washed-rind_02083,washed-rind,b,1,moldy,灰白绒霉 Penicillium(white),22,0.00966,moldy/washed-rind_02083_b.jpg
+washed-rind_02087_a,washed-rind_02087,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),24,0.00444,moldy/washed-rind_02087_a.jpg
+washed-rind_02087_b,washed-rind_02087,washed-rind,b,0,good,,0,0.0,good/washed-rind_02087_b.jpg
+washed-rind_02089_a,washed-rind_02089,washed-rind,a,0,good,,0,0.0,good/washed-rind_02089_a.jpg
+washed-rind_02089_b,washed-rind_02089,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),61,0.01835,moldy/washed-rind_02089_b.jpg
+washed-rind_02103_a,washed-rind_02103,washed-rind,a,0,good,,0,0.0,good/washed-rind_02103_a.jpg
+washed-rind_02103_b,washed-rind_02103,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),61,0.0579,moldy/washed-rind_02103_b.jpg
+washed-rind_02104_a,washed-rind_02104,washed-rind,a,1,moldy,黑曲霉 Aspergillus(niger),33,0.01818,moldy/washed-rind_02104_a.jpg
+washed-rind_02104_b,washed-rind_02104,washed-rind,b,0,good,,0,0.0,good/washed-rind_02104_b.jpg
+washed-rind_02106_a,washed-rind_02106,washed-rind,a,0,good,,0,0.0,good/washed-rind_02106_a.jpg
+washed-rind_02106_b,washed-rind_02106,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),71,0.0284,moldy/washed-rind_02106_b.jpg
+washed-rind_02110_a,washed-rind_02110,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),26,0.03425,moldy/washed-rind_02110_a.jpg
+washed-rind_02110_b,washed-rind_02110,washed-rind,b,0,good,,0,0.0,good/washed-rind_02110_b.jpg
+washed-rind_02116_a,washed-rind_02116,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),18,0.01645,moldy/washed-rind_02116_a.jpg
+washed-rind_02116_b,washed-rind_02116,washed-rind,b,0,good,,0,0.0,good/washed-rind_02116_b.jpg
+washed-rind_02118_a,washed-rind_02118,washed-rind,a,0,good,,0,0.0,good/washed-rind_02118_a.jpg
+washed-rind_02118_b,washed-rind_02118,washed-rind,b,1,moldy,橄榄绿青霉 Penicillium(olive),42,0.00781,moldy/washed-rind_02118_b.jpg
+washed-rind_02119_a,washed-rind_02119,washed-rind,a,0,good,,0,0.0,good/washed-rind_02119_a.jpg
+washed-rind_02119_b,washed-rind_02119,washed-rind,b,1,moldy,黑曲霉 Aspergillus(niger),15,0.02272,moldy/washed-rind_02119_b.jpg
+washed-rind_02121_a,washed-rind_02121,washed-rind,a,0,good,,0,0.0,good/washed-rind_02121_a.jpg
+washed-rind_02121_b,washed-rind_02121,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),46,0.0471,moldy/washed-rind_02121_b.jpg
+washed-rind_02133_a,washed-rind_02133,washed-rind,a,1,moldy,橄榄绿青霉 Penicillium(olive),27,0.01909,moldy/washed-rind_02133_a.jpg
+washed-rind_02133_b,washed-rind_02133,washed-rind,b,0,good,,0,0.0,good/washed-rind_02133_b.jpg
+washed-rind_02135_a,washed-rind_02135,washed-rind,a,0,good,,0,0.0,good/washed-rind_02135_a.jpg
+washed-rind_02135_b,washed-rind_02135,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),45,0.01818,moldy/washed-rind_02135_b.jpg
+washed-rind_02144_a,washed-rind_02144,washed-rind,a,0,good,,0,0.0,good/washed-rind_02144_a.jpg
+washed-rind_02144_b,washed-rind_02144,washed-rind,b,1,moldy,蓝绿青霉 Penicillium(blue-green),64,0.01831,moldy/washed-rind_02144_b.jpg
+washed-rind_02148_a,washed-rind_02148,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),50,0.03965,moldy/washed-rind_02148_a.jpg
+washed-rind_02148_b,washed-rind_02148,washed-rind,b,0,good,,0,0.0,good/washed-rind_02148_b.jpg
+washed-rind_02157_a,washed-rind_02157,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),18,0.00419,moldy/washed-rind_02157_a.jpg
+washed-rind_02157_b,washed-rind_02157,washed-rind,b,0,good,,0,0.0,good/washed-rind_02157_b.jpg
+washed-rind_02158_a,washed-rind_02158,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),37,0.0115,moldy/washed-rind_02158_a.jpg
+washed-rind_02158_b,washed-rind_02158,washed-rind,b,0,good,,0,0.0,good/washed-rind_02158_b.jpg
+washed-rind_02163_a,washed-rind_02163,washed-rind,a,1,moldy,灰白绒霉 Penicillium(white),31,0.02559,moldy/washed-rind_02163_a.jpg
+washed-rind_02163_b,washed-rind_02163,washed-rind,b,0,good,,0,0.0,good/washed-rind_02163_b.jpg
+washed-rind_02164_a,washed-rind_02164,washed-rind,a,1,moldy,蓝绿青霉 Penicillium(blue-green),14,0.01653,moldy/washed-rind_02164_a.jpg
+washed-rind_02164_b,washed-rind_02164,washed-rind,b,0,good,,0,0.0,good/washed-rind_02164_b.jpg

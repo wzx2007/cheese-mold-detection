@@ -1,0 +1,54 @@
+samples=1684 input=224 epochs=26 (single run, no CV)
+cache (1684, 288, 288, 3)
+train=1346  test=338
+  [final] ep01 trl=0.8329 tracc=0.525 vll=0.6824 acc=0.5473 f1=0.4312 auc=0.6069 (48s)
+  [final] ep02 trl=0.6960 tracc=0.652 vll=0.5179 acc=0.7604 f1=0.7235 auc=0.8448 (45s)
+  [final] ep03 trl=0.4556 tracc=0.806 vll=0.4748 acc=0.7840 f1=0.7847 auc=0.8863 (58s)
+  [final] ep04 trl=0.4056 tracc=0.839 vll=0.3394 acc=0.8757 f1=0.8704 auc=0.9370 (63s)
+  [final] ep05 trl=0.3395 tracc=0.874 vll=0.3222 acc=0.8491 f1=0.8654 auc=0.9727 (58s)
+  [final] ep06 trl=0.3262 tracc=0.880 vll=1.1154 acc=0.6923 f1=0.7647 auc=0.9603 (59s)
+  [final] ep07 trl=0.3034 tracc=0.897 vll=0.1992 acc=0.9320 f1=0.9341 auc=0.9803 (63s)
+  [final] ep08 trl=0.2774 tracc=0.900 vll=0.2427 acc=0.9142 f1=0.9183 auc=0.9792 (66s)
+  [final] ep09 trl=0.2642 tracc=0.916 vll=0.1845 acc=0.9408 f1=0.9435 auc=0.9893 (61s)
+  [final] ep10 trl=0.2445 tracc=0.926 vll=0.1799 acc=0.9408 f1=0.9387 auc=0.9799 (49s)
+  [final] ep11 trl=0.2162 tracc=0.939 vll=0.1705 acc=0.9379 f1=0.9346 auc=0.9911 (47s)
+  [final] ep12 trl=0.2278 tracc=0.929 vll=0.1454 acc=0.9467 f1=0.9486 auc=0.9942 (56s)
+  [final] ep13 trl=0.2156 tracc=0.943 vll=0.1090 acc=0.9527 f1=0.9524 auc=0.9951 (56s)
+  [final] ep14 trl=0.2109 tracc=0.941 vll=0.1222 acc=0.9527 f1=0.9532 auc=0.9946 (58s)
+  [final] ep15 trl=0.2144 tracc=0.943 vll=0.1472 acc=0.9438 f1=0.9426 auc=0.9898 (46s)
+  [final] ep16 trl=0.2001 tracc=0.946 vll=0.0947 acc=0.9615 f1=0.9614 auc=0.9969 (60s)
+  [final] ep17 trl=0.1666 tracc=0.964 vll=0.1005 acc=0.9615 f1=0.9610 auc=0.9956 (58s)
+  [final] ep18 trl=0.1741 tracc=0.963 vll=0.1051 acc=0.9645 f1=0.9645 auc=0.9958 (58s)
+  [final] ep19 trl=0.1610 tracc=0.969 vll=0.0918 acc=0.9704 f1=0.9701 auc=0.9963 (59s)
+  [final] ep20 trl=0.1553 tracc=0.969 vll=0.0826 acc=0.9615 f1=0.9614 auc=0.9973 (120s)
+  [final] ep21 trl=0.1573 tracc=0.967 vll=0.0775 acc=0.9704 f1=0.9706 auc=0.9982 (58s)
+  [final] ep22 trl=0.1533 tracc=0.975 vll=0.0673 acc=0.9763 f1=0.9763 auc=0.9989 (63s)
+  [final] ep23 trl=0.1536 tracc=0.972 vll=0.0701 acc=0.9763 f1=0.9765 auc=0.9987 (56s)
+  [final] ep24 trl=0.1437 tracc=0.978 vll=0.0716 acc=0.9763 f1=0.9765 auc=0.9985 (50s)
+  [final] ep25 trl=0.1494 tracc=0.975 vll=0.0690 acc=0.9763 f1=0.9765 auc=0.9987 (58s)
+  [final] ep26 trl=0.1516 tracc=0.969 vll=0.0681 acc=0.9763 f1=0.9765 auc=0.9986 (59s)
+training took 1536s
+
+== FINAL (test, with TTA) ==
+{
+  "acc": 0.9881656804733728,
+  "precision": 0.9824561403508771,
+  "recall": 0.9940828402366864,
+  "f1": 0.9882352941176471,
+  "auc": 0.9991596932880502,
+  "cm": [
+    [
+      166,
+      3
+    ],
+    [
+      1,
+      168
+    ]
+  ]
+}
+
+== no TTA ==
+acc=0.9763 f1=0.9765 auc=0.9986
+train acc=0.9955 f1=0.9955
+saved C:\Users\weize\WorkBuddy\2026-11-06-17-00-27\outputs\cnn_final_metrics.json

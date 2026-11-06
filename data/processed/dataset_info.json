@@ -1,0 +1,25 @@
+{
+  "source": "Kaggle jenlooper/cheese (All The Cheese)",
+  "kept_classes": [
+    "hard",
+    "semi-soft",
+    "fresh",
+    "washed-rind"
+  ],
+  "excluded_classes": [
+    "bloomy",
+    "blue"
+  ],
+  "src_images": 830,
+  "samples": 1684,
+  "good": 842,
+  "moldy": 842,
+  "mean_mold_area": 0.0281,
+  "size": 384,
+  "per_class_samples": {
+    "hard": 610,
+    "semi-soft": 250,
+    "fresh": 442,
+    "washed-rind": 382
+  }
+}

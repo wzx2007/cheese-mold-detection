@@ -1,0 +1,12 @@
+# 统一换行符，避免 Windows/Linux 协作时整文件 diff
+* text=auto eol=lf
+
+# 二进制资产：不做换行符转换、不做文本 diff
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pt  binary
+*.pth binary
+*.joblib binary
+*.npy binary
+*.npz binary

@@ -1,0 +1,31 @@
+# ---------- 数据：不分发图像，只保留「清单 + 划分」这类小文件 ----------
+# 说明：基底图库有第三方版权，仓库不重新分发图片，只提供下载与合成脚本。
+# 但 manifest.csv / split.json 保留，这样不需要重建数据集也能复现划分与出报告。
+data/*
+!data/README.md
+!data/processed/
+data/processed/*
+!data/processed/manifest.csv
+!data/processed/split.json
+!data/processed/dataset_info.json
+
+# ---------- 中间产物：只忽略体积大的缓存 ----------
+outputs/classic_features.npy
+outputs/figures/_scratch*
+*.log
+*.zip
+*.part
+
+# ---------- 模型权重：要发布，不忽略 ----------
+# models/cnn_final.pt     ≈ 4.4 MB
+# models/classic_model.joblib ≈ 10.1 MB
+# （若超过 GitHub 100MB/文件 限制，改用 Git LFS）
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
