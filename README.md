@@ -5,7 +5,7 @@
 > **没有真实缺陷样本怎么办？** 把"长霉"写成一个可调参的物理模型，把"工业相机"写成一串可复现的退化算子，
 > 于是不可控的缺陷变成了可控的实验变量。
 
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue)]() [![OpenCV](https://img.shields.io/badge/opencv-4.8%2B-green)]() [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
+![Python](https://img.shields.io/badge/python-3.9%2B-blue) ![OpenCV](https://img.shields.io/badge/opencv-4.8%2B-green) ![License](https://img.shields.io/badge/license-MIT-lightgrey) ![Test Acc](https://img.shields.io/badge/test%20acc-98.82%25-brightgreen)
 
 ---
 
@@ -36,6 +36,11 @@
 - 详细结果、误差分析与阈值取舍见 [`docs/04-results.md`](docs/04-results.md)
 - 一句话：**CNN 把漏检（发霉判成正常）从 19 个降到 1 个**——食品安全场景里最该看的那个数
 
+![测试集样例](outputs/figures/test_samples.jpg)
+
+<p align="center"><sub>测试集样例：上排是判对的发霉样本（绿框），下排是<b>全部 4 个错例</b>（红框，1 漏检 + 3 误检）。
+标签格式 <code>T真值/P预测</code>，M=发霉、G=正常，数字为模型输出的发霉概率。</sub></p>
+
 > 这些数字是**方法链路的下限**，不是产线验收指标：霉菌是合成的，真实缺陷分布更随机。
 
 ## 为什么霉菌是"合成"的
@@ -43,6 +48,11 @@
 1. **真实缺陷样本拿不到**：霉菌污染是非预期事件，产线上一年也攒不出几百张标注样本。
 2. **合成可以控制变量**：能精确控制菌种颜色、菌落尺度、覆盖率、空间分布，并保证两类图像来自**同一批原始照片**——模型无法靠"这张照片看起来像另一批数据"抄近路。
 3. **代价是分布偏移**：合成霉菌的颜色与边缘统计由脚本参数决定，真实霉菌更随机。**本仓库的数字是方法链路的下限，不是产线验收指标。**
+
+![五类污染霉菌](outputs/figures/mold_species.jpg)
+
+<p align="center"><sub>5 类污染霉菌色板（灰白 / 橄榄绿 / 墨绿 / 墨黑 / 蓝绿）。轮廓由角度域随机半径场生成，
+边缘用多尺度 fbm 做绒毛羽化，再用掩膜高度场做朗伯近似产生受光——同一套几何模型，只换颜色。</sub></p>
 
 ## 数据集一览
 
@@ -56,13 +66,14 @@
 | 平均霉菌覆盖面积 | 2.8%（区间 1.5%–10.5%） |
 | 划分 | 按原图分组 80/20（GroupShuffleSplit）；另附 5 折分组索引备用于交叉验证 |
 
-三张关键图（`outputs/figures/`）：
+全部图表在 `outputs/figures/`：
 
 | 文件 | 内容 |
 |---|---|
-| `synthesis_triplet.jpg` | 三联对比：原始 crop → 叠加合成霉菌 → 再过一遍相机成像链路 |
-| `mold_species.jpg` | 5 类污染霉菌的合成色板 |
-| `qc_pairs.jpg` | 成对的「正常 / 发霉」样本（同一张原图切出） |
+| `synthesis_triplet.jpg` | 三联对比：原始 crop → 叠加合成霉菌 → 再过一遍相机成像链路（12 组，竖长图，点开看） |
+| `mold_species.jpg` | 5 类污染霉菌的合成色板（上方已嵌入） |
+| `qc_pairs.jpg` | 成对的「正常 / 发霉」样本，同一张原图切出（竖长图，点开看） |
+| `test_samples.jpg` | 测试集样例拼图，含全部 4 个错例（上方已嵌入） |
 
 ## 目录结构
 
@@ -104,7 +115,7 @@ cheese-mold-detection/
 > `python code/infer.py demo/` 即可得到每张演示图的发霉概率。跑完整复现再从第 1 步开始。
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/wzx2007/cheese-mold-detection.git
 cd cheese-mold-detection
 python -m venv .venv
 . .venv/Scripts/activate          # Windows；Linux/macOS 用 source .venv/bin/activate
